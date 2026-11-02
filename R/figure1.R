@@ -63,7 +63,7 @@ draw <- function() {
   }
   # ---- (c) workflow -------------------------------------------------------------------------
   tag("c", 1, 43, "Gated workflow")
-  box(2, 14, 27, 22, "B4  Verification", "72 checks; engine\nagrees with an\nindividual-patient\nMonte Carlo")
+  box(2, 14, 27, 22, "B4  Verification\nB5  Magnitudes", "72 checks; Monte\nCarlo agreement;\nmagnitudes within\na factor of 3")
   box(34, 14, 27, 22, "B6  Feasibility", "2,000 sets;\n75 meet the\nstructural\nrequirements")
   box(66, 14, 27, 22, "B7  Sensitivity", "partial rank\ncorrelation;\n3 of 39 parameters\nnarrowed")
   box(98, 14, 32, 22, "B8  History matching", "8 waves of 600 sets\non a 25-node grid;\n440 re-evaluated\non 81 nodes")

@@ -1,0 +1,86 @@
+{
+  "block": "B05",
+  "file": "B05_magnitudes.R",
+  "file_sha256": "4b144de4d8e8dc8f0d6e0eda1c6ae7d3a49e7218a7c4cb3e426c8c2577394ca0",
+  "pass": true,
+  "ran_without_error": true,
+  "error": "",
+  "rebound": [],
+  "checks": [
+    {
+      "check": "the model still passes its regression tests",
+      "pass": true,
+      "detail": "227 tests, 0 failed, 0 errors"
+    },
+    {
+      "check": "the troponin release coefficient reproduces the measured peak per gram",
+      "pass": true,
+      "detail": "theta = 1.07e+05 ng per gram; model gives 527 ng/L per gram against 527"
+    },
+    {
+      "check": "the release coefficient is reported with its dependence on injury duration",
+      "pass": true,
+      "detail": "injury over 1 day: 4.73e+04; over 4 days: 1.07e+05; over 14 days: 2.12e+05 ng per gram; a 4.5-fold span"
+    },
+    {
+      "check": "the alternative coefficient from the preprint is recorded",
+      "pass": true,
+      "detail": "909 ng/L per gram corresponds to theta = 1.85e+05 ng per gram"
+    },
+    {
+      "check": "the smallest visible injury is a small fraction of the ventricle",
+      "pass": true,
+      "detail": "0.0402 g, which is 0.0324% of the ventricle"
+    },
+    {
+      "check": "the ipilimumab trough after one dose sits in the published range",
+      "pass": true,
+      "detail": "10.8 ug/mL; the source says about 90% exceed 6 and about 2% exceed 20"
+    },
+    {
+      "check": "nivolumab concentrations are of the expected order",
+      "pass": true,
+      "detail": "peak 117.6 ug/mL, trough 56.1 ug/mL"
+    },
+    {
+      "check": "PD-1 is close to saturated at label doses",
+      "pass": true,
+      "detail": "occupancy peaks at 0.996 and troughs at 0.991"
+    },
+    {
+      "check": "the function map gives a sensible ejection fraction at baseline and with damage",
+      "pass": true,
+      "detail": "baseline 60.0%, a tenth damaged 56.3%, a quarter damaged 50.9%"
+    },
+    {
+      "check": "a plausible amount of damage is needed to reach the severe tier",
+      "pass": true,
+      "detail": "18.4% of the ventricle"
+    },
+    {
+      "check": "the biopsy threshold in cells matches the specification",
+      "pass": true,
+      "detail": "7.51e+07 cells"
+    },
+    {
+      "check": "a resting heart is far below the biopsy threshold",
+      "pass": true,
+      "detail": "1.00e+05 resting cells against a threshold of 7.51e+07"
+    },
+    {
+      "check": "the model can reach the biopsy threshold during a response",
+      "pass": true,
+      "detail": "peak 3.86e+10 cells against a threshold of 7.51e+07"
+    },
+    {
+      "check": "even at the lowest myocarditis threshold the prior allows, a resting heart is not a case",
+      "pass": true,
+      "detail": "1.00e+05 resting cells against 2.25e+06, the tier at f_dx = 0.03"
+    },
+    {
+      "check": "the nominal parameters do not destroy the ventricle",
+      "pass": true,
+      "detail": "1.1% of the ventricle lost at nominal parameters with susceptibility 20"
+    }
+  ]
+}

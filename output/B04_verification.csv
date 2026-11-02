@@ -1,0 +1,73 @@
+check,pass,detail
+the parameter vector has the length the C code expects,TRUE,"74 parameters, of which 60 go to the solver"
+the state vector has 19 states plus the transit chain,TRUE,23 states with NT = 4
+no parameter is missing or not finite,TRUE,""
+every term the specification puts in an equation exists in the code,TRUE,14 terms checked
+the effector pool contracts when no checkpoint is blocked,TRUE,rho = 0.250 against del_E + k_tr = 0.300
+with no drug the priming term is exactly zero,TRUE,dP/dt at baseline with no drug
+the compiled and the independent R right-hand sides agree to 1e-10,TRUE,worst relative difference 0.000e+00 over 1000 random states (state NA)
+"viable, damaged and scar always add to one",TRUE,worst departure 2.89e-15
+scar never decreases,TRUE,smallest change in scar 4.56e-19
+no state goes negative,TRUE,smallest value 0.00e+00 in A1n
+receptor occupancy stays between zero and one,TRUE,"PD-1 in [0.000, 0.996], CTLA-4 in [0.000, 0.978]"
+with no drug nothing moves over two years,TRUE,largest movement 0.00e+00 in A1n
+with no killing there is no injury,TRUE,viable tissue departs from one by at most 0.00e+00
+with no killing troponin stays at baseline,TRUE,troponin departs from baseline by at most 0.00e+00
+with no drug there is no receptor occupancy,TRUE,occupancy is zero throughout
+troponin decays at the rate its measured half-life implies,TRUE,"after 6 hours: model 160.5485, expected 160.5485"
+ipilimumab terminal half-life matches the published 14.7 days,TRUE,model 15.00 days
+pembrolizumab terminal half-life matches the published 27.3 days,TRUE,model 25.68 days
+nivolumab distribution half-life matches the published 32.5 hours,TRUE,model 32.1 hours
+ipilimumab distribution half-life matches the published 27.4 hours,TRUE,model 27.9 hours
+the published nivolumab half-life lies between the model's two clearance cases,TRUE,"constant clearance 20.9 days, clearance reduced by 24.5% 27.2 days, published 25 days"
+pembrolizumab accumulates about 2.2-fold with three-weekly dosing,TRUE,trough ratio 2.31 (published about 2.2-fold)
+the pharmacokinetic unit conversions are exact,TRUE,"nivolumab CL 0.2256 L/day, ipilimumab CL 0.3600 L/day"
+every dose is delivered in full across the dose boundaries,TRUE,"nivolumab given 5360.0 mg, in body 5360.0000 mg; ipilimumab given 960.0 mg, in body 960.0000 mg"
+the answer does not depend on the solver tolerance,TRUE,largest relative difference in troponin 4.82e-08 between 1e-8 and 1e-12
+the answer does not depend on the output grid,TRUE,largest relative difference 1.39e-10 between a 5 day and a 0.5 day grid
+running the model in hours instead of days gives the same answer,TRUE,largest relative difference in troponin 2.65e-10
+licensed resident memory cells appear only after effectors reach the heart,TRUE,"effectors at day 0.5, licensed cells at day 0.5"
+injury cannot begin before effectors reach the heart,TRUE,"effectors at day 0.5, first measurable injury at day 3.5 (the length of the latent phase is tested in B6)"
+at the first dose nothing in the heart is able to kill,TRUE,the killing rate at time zero is exactly zero
+with ipilimumab alone the effector pool still expands,TRUE,effector pool reaches 1.334e+06 from 0.000e+00
+with ipilimumab alone there is CTLA-4 blockade and no PD-1 blockade,TRUE,"CTLA-4 occupancy peaks at 0.975, PD-1 at 1.36e-22"
+the dosing calendars match the prescribing information,TRUE,"nivolumab every 14 days; ipilimumab on days 0, 21, 42, 63"
+asking for a different assay changes the troponin trajectory,TRUE,peak 62.63 ng/L with troponin I kinetics against 37.24 with troponin T
+the faster-clearing assay gives the lower peak,TRUE,half-life 134 min for T against 240 min for I
+the myocarditis threshold scales with the fitted factor,TRUE,"7.509e+07 cells at f_dx = 1, 7.509e+06 at f_dx = 0.1"
+"a lower myocarditis threshold makes the tier easier to reach, never harder",TRUE,"9 of 11 susceptibilities reach it at f_dx = 1, 10 at f_dx = 0.1"
+a cohort with a higher threshold never detects more than one with a lower,TRUE,"11 of 11 susceptibilities detected at 14 ng/L, 0 at 200 ng/L"
+"the two thresholds do not give the same answer, so the limit is being read",TRUE,11 against 0
+"a slower tempo gives a later first troponin rise, a faster one an earlier",TRUE,"first day above the limit 32, 17, 9 at tempo 0.5, 1 and 2"
+"tempo multiplies exactly the rates of the clone's response, and nothing else",TRUE,"18 rates scale: lam_p, k_act, del_P, rho, del_E, k_tr, pi_h, del_h, eps_x, k_lic, del_L, k_m, del_m, lam_g, k_g, del_g, k_x, del_x"
+a patient's tempo does not move the resting state,TRUE,largest difference 3.6e-12 across 23 states at a tempo of 3
+the tempo grid can hold the widest tempo spread its prior allows,TRUE,at sd_tau 1.50 the two edge nodes hold 0.79% of the population; the grid spans 4096-fold over 25 nodes
+troponin T from the clearance ratio agrees with a full troponin T solve,TRUE,largest error 1.43% of the peak; first day above 14 ng/L differs by at most 0 day
+the engine's nadir after a halt matches the treated course simulated in full,TRUE,"largest difference 0.0e+00 over halts on days 20, 40, 60, 90, 200 and 350, up to day 365"
+"an earlier halt never gives a lower nadir, and treatment never a lower one than none",TRUE,"nadir of G 0.933, 0.312, 0.195, 0.118, 0.023, 0.002; untreated 0.002"
+with no inflammatory burden the function map is the tissue-only one,TRUE,"sat = 0 reproduces the tissue-only map, and an intact ventricle sits at the baseline"
+inflammation lowers the ejection fraction without any more tissue being lost,TRUE,"nadir 56.5% from tissue alone, 38.8% with inflammation, at a loss of 3.1% of the ventricle"
+the depression is reversible: function returns as the infiltrate contracts,TRUE,"ejection fraction 39.8% at the peak burden on day 90 against 59.2% from tissue alone; 48.3% against 57.6% by day 270, as the burden halves"
+"a larger phi_inf gives a deeper nadir, so the parameter is live",TRUE,phi_inf runs from 0 to 0.8; at this burden the nadir moves from 56.5% to 20.3%
+every grid point of the test population solved in full,TRUE,65 and 65 of 65
+T2 is never reached before T1 on the same assay,TRUE,the day of T2 needs troponin above the limit that day
+the presentation classes of every grid point have probabilities summing to 1,TRUE,largest departure 0.0e+00
+"severe disease happens only within myocarditis, and the bands add up to it",TRUE,T3 is within T2 at every grid point
+the day-by-day masses add up to the shares they spread over time,TRUE,"diagnoses, first positive results and C3 damage"
+"with measurement error, troponin at presentation near the limit is not always positive",TRUE,92.1% of clinical diagnoses read positive
+a larger measurement error changes the share read positive at presentation,TRUE,"92.1% at the assay's 9%, 79.0% at a log-scale SD of 0.3"
+the share with a raised baseline is exact and rises with the spread of the baseline,TRUE,"0.0029, 0.0488 and 0.1348 at s_b = 0.6, 1 and 1.5"
+"a higher threshold catches fewer background rises, and the closed form is exact",TRUE,"per-test probability 0.00753, 0.00404, 0.0017, 0.000529 at 14, 28, 56 and 112 ng/L; time above 28 ng/L 0.080932 days in closed form, 0.080932 by integration"
+the spread of the symptom threshold moves the share detected before presentation,TRUE,"O1 0.532 with no spread, 0.475 with a spread of 0.8"
+"severity given the nadir equals the integral over baseline LVEF, and is not a step",TRUE,"P(T3) 0.9912, 0.6065, 0.1691 at G = 0.6, 0.75 and 0.79 (brute force 0.9912, 0.6065, 0.1691)"
+a patient starting at 60% needs exactly a fall below 50%,TRUE,critical G 0.800
+the highest troponin of the episode is above the value at presentation,TRUE,median 355 ng/L at presentation against 3548 ng/L at its highest
+"on one troponin I assay, a higher decision threshold finds fewer positives",TRUE,share positive 0.2252 at 26.2 ng/L and 0.1211 at 52.4 ng/L on the reference assay
+another troponin I assay at its own 99th percentile behaves as the reference at its own,TRUE,largest difference over every statistic and node 2.2e-16; the alternative with no conversion gives 0.1150 against 0.2252
+the alternative with no conversion is live,TRUE,0.1150 against 0.2252
+the population engine agrees with a Monte Carlo of individual patients,TRUE,216 of 216 statistics within tolerance in 12 cohorts; worst: wk dxs
+the comparison exercises the baseline-dependent background,TRUE,"share with a positive result 0.226 at g_bg = 0 and 0.345 at g_bg = 2 (Monte Carlo, mild vector)"
+the comparison exercises the testing exposure,TRUE,"share with a positive result 0.226 with every test, 0.064 with a mean of 4 tests (Monte Carlo, mild vector)"
+the C6 regimen-mix helper returns the C6 statistic the calibration fits,TRUE,"1504.0 ng/L from the helper at 10% combination, 1504.0 from the calibration statistic"
+the comparison is not trivial: the test population has severe cases screening prevents,TRUE,"T3 0.317 without screening, 0.246 with it; O3 0.62"
+the regression test suite passes,TRUE,"227 tests, 0 failed, 0 errors"

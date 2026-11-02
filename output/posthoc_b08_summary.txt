@@ -1,0 +1,148 @@
+Post hoc summaries of B08 outputs (exploratory; not part of any gate)
+
+1. Sets and their best population on the 25-node search grid
+   sets 4800; meeting R1, R3, no loss and the end-cell rule: 1490 (31.0%)
+   largest I <= 3.0: 317 sets; also meeting the requirements: 46
+   largest I <= 3.5: 1066 sets; also meeting the requirements: 301
+   largest I <= 4.0: 1617 sets; also meeting the requirements: 535
+
+   target with the largest I, all sets (top 10):
+             worst     N
+            <char> <int>
+ 1:       C5_p_pos   810
+ 2:   C1_q25_combo   667
+ 3:    C1_q75_mono   553
+ 4:   C1_q50_combo   522
+ 5:      C4_t_mean   297
+ 6:  C4_p_baseline   287
+ 7: C6_p_rise_nodx   282
+ 8:    C1_q25_mono   263
+ 9:   C1_q75_combo   220
+10:     C6_trop_dx   166
+
+   target with the largest I, sets meeting the requirements with largest I <= 4:
+             worst     N
+            <char> <int>
+ 1: C6_p_rise_nodx   104
+ 2:  C4_p_baseline    84
+ 3:     C6_trop_dx    77
+ 4:    C1_q75_mono    60
+ 5:      C4_t_mean    59
+ 6:   C1_q50_combo    41
+ 7:       C5_p_pos    19
+ 8:    C1_q25_mono    19
+ 9:        C6_m_bg    16
+10:   C1_q75_combo    16
+11:      C2_p_mono    11
+12:         C5_q25     7
+13:       C4_p_myo     5
+14:       C5_t_myo     4
+15:         C5_ppv     4
+16:   C1_q25_combo     3
+17:    C1_q50_mono     2
+18:       C2_ratio     2
+19:    C4_p_screen     1
+20:       C1_ratio     1
+             worst     N
+            <char> <int>
+
+2. Direction of the misses, sets meeting the requirements with largest I <= 4
+            target observed     n model_median      q25      q75
+            <char>    <num> <int>        <num>    <num>    <num>
+ 1:     C6_trop_dx 364.0000   535     30.48663 2.13e+01 5.13e+01
+ 2:      C4_t_mean 117.0000   535     41.97365 3.53e+01 4.96e+01
+ 3:    C1_q75_mono  89.0000   535     59.11779 5.42e+01 7.14e+01
+ 4:       C5_t_myo  82.0000   535     21.40270 2.12e+01 4.16e+01
+ 5:   C1_q50_combo  20.0000   535     26.43297 2.34e+01 2.79e+01
+ 6: C6_p_rise_nodx   0.1098   535      0.04873 2.24e-02 9.02e-02
+ 7:  C4_p_baseline   0.0503   535      0.02138 8.20e-03 4.27e-02
+ 8:       C2_ratio   4.5000   535      1.21543 1.03e+00 2.86e+00
+ 9:         C5_ppv   0.1429   535      0.13053 2.51e-02 2.59e-01
+10:       C1_ratio   1.5000   535      1.13433 1.04e+00 1.31e+00
+11:   C1_q75_combo  39.7500   535     47.39752 4.09e+01 5.20e+01
+12:       C5_p_pos   0.0981   535      0.10195 7.37e-02 1.33e-01
+13:    C1_q25_mono  20.0000   535     16.96959 1.47e+01 2.01e+01
+14:         C4_ppv   0.2000   535      0.14669 3.19e-02 2.85e-01
+15:       C4_p_myo   0.0168   535      0.00987 2.37e-03 2.18e-02
+16:   C1_q25_combo  14.2500   535     15.30668 1.35e+01 1.73e+01
+17:         C5_q75  96.3000   535     84.28028 6.28e+01 1.26e+02
+18:        C6_m_bg  41.9000   535     38.88572 2.25e+01 5.19e+01
+19:    C3_p_damage   0.1000   535      0.07441 5.04e-02 9.74e-02
+20:    C3_t_median  82.0000   535     60.36241 6.00e+01 8.98e+01
+21:         C5_q50  56.0000   535     41.82507 2.14e+01 6.25e+01
+22:    C1_q50_mono  30.0000   535     29.14431 2.69e+01 3.30e+01
+23:         C5_q25  21.3000   535     21.05295 2.09e+01 2.13e+01
+24:     C2_p_combo   0.0027   535      0.00325 2.16e-04 1.33e-02
+25:      C2_p_mono   0.0006   535      0.00201 1.65e-04 5.59e-03
+26:    C4_p_screen   0.4780   535      0.88737 7.71e-01 9.53e-01
+            target observed     n model_median      q25      q75
+            <char>    <num> <int>        <num>    <num>    <num>
+    share_above_obs median_I
+              <num>    <num>
+ 1:           0.000   2.9890
+ 2:           0.000   2.9269
+ 3:           0.155   2.8627
+ 4:           0.000   2.7445
+ 5:           0.903   2.6330
+ 6:           0.178   2.5058
+ 7:           0.176   2.2545
+ 8:           0.183   2.1774
+ 9:           0.469   2.1106
+10:           0.086   1.9305
+11:           0.781   1.8543
+12:           0.531   1.7806
+13:           0.256   1.7687
+14:           0.409   1.6794
+15:           0.338   1.5670
+16:           0.658   1.2994
+17:           0.450   1.2693
+18:           0.443   1.2504
+19:           0.224   0.9841
+20:           0.396   0.9800
+21:           0.254   0.9475
+22:           0.419   0.8955
+23:           0.228   0.0513
+24:           0.527   0.0000
+25:           0.637   0.0000
+26:           0.983   0.0000
+    share_above_obs median_I
+              <num>    <num>
+
+   C6_trop_dx over all 4,800 best populations: maximum 2660.7 ng/L against 364 observed; above 182 (half): 484 sets
+
+3. Trade-off between timing and troponin, best populations of all sets
+   Spearman correlation of model C6_trop_dx with model C4_t_mean    -0.18
+   Spearman correlation of model C6_trop_dx with model C5_t_myo     -0.52
+   Spearman correlation of model C6_trop_dx with model C5_q50       -0.29
+   Spearman correlation of model C6_trop_dx with model C3_t_median  -0.39
+   I <= 2 on both C4_t_mean and C5_t_myo: 584 sets; I <= 2 on C6_trop_dx: 558 sets; on all three: 53 sets
+   smallest I on C6_trop_dx among sets with both timing I <= 2: 0.09
+   smallest largest-of-two timing I among sets with C6_trop_dx I <= 2: 0.83
+
+4. Leaving out one cohort at a time (B8's own per-population flags).  Each set contributes its
+   population with the smallest largest I over the remaining targets; the ensemble-median rule
+   is then applied.
+   left_out  sets
+     <char> <int>
+1:       C1   146
+2:       C2     4
+3:       C3     4
+4:       C4    63
+5:       C5    12
+6:       C6    52
+                                                                                           targets_median_I_over_2
+                                                                                                            <char>
+1:                                                            C4_t_mean 2.34; C6_p_rise_nodx 2.08; C6_trop_dx 2.51
+2:                C1_q50_combo 2.06; C1_q25_mono 2.20; C4_t_mean 2.44; C5_q50 2.29; C5_t_myo 2.06; C6_trop_dx 2.94
+3: C1_q50_combo 2.06; C1_q25_mono 2.20; C2_ratio 2.17; C4_t_mean 2.44; C5_q50 2.29; C5_t_myo 2.06; C6_trop_dx 2.94
+4:                                                        C5_q50 2.29; C5_q75 2.08; C5_t_myo 2.77; C6_trop_dx 2.23
+5:                                                              C1_q50_combo 2.25; C4_t_mean 2.48; C6_trop_dx 2.16
+6:                                                                C1_q50_combo 2.21; C2_ratio 2.04; C4_t_mean 2.42
+                                                                                                              left_out_median_I
+                                                                                                                         <char>
+1: C1_q25_combo 5.99; C1_q50_combo 7.49; C1_q75_combo 4.87; C1_q25_mono 3.86; C1_q50_mono 5.86; C1_q75_mono 3.29; C1_ratio 1.93
+2:                                                                               C2_p_combo 0.00; C2_p_mono 0.00; C2_ratio 2.17
+3:                                                                                           C3_p_damage 0.32; C3_t_median 0.35
+4:                                             C4_p_myo 1.18; C4_t_mean 3.38; C4_p_screen 0.00; C4_ppv 1.07; C4_p_baseline 1.88
+5:                                             C5_p_pos 2.66; C5_q25 0.06; C5_q50 1.62; C5_q75 1.28; C5_ppv 1.62; C5_t_myo 2.76
+6:                                                                           C6_p_rise_nodx 2.59; C6_trop_dx 3.03; C6_m_bg 1.11

@@ -1,0 +1,56 @@
+{
+  "block": "B07",
+  "file": "B07_sensitivity.R",
+  "file_sha256": "4a416ec119eeb44aadeac7e545ea6c7037282803e8c59524326b29efbc209cd3",
+  "pass": true,
+  "ran_without_error": true,
+  "error": "",
+  "rebound": [],
+  "checks": [
+    {
+      "check": "the model still passes its regression tests",
+      "pass": true,
+      "detail": "227 tests, 0 failed, 0 errors"
+    },
+    {
+      "check": "every set B6 scored is available",
+      "pass": true,
+      "detail": "2000 sets, of which 75 meet R1 to R3"
+    },
+    {
+      "check": "the region meeting R1 to R3 is available",
+      "pass": true,
+      "detail": "75 sets"
+    },
+    {
+      "check": "B6 recorded every parameter and every statistic this block needs",
+      "pass": true,
+      "detail": ""
+    },
+    {
+      "check": "the sensitivity analysis ran for every parameter and statistic",
+      "pass": true,
+      "detail": "741 pairs; 0 not estimable"
+    },
+    {
+      "check": "the sample is large enough to separate the parameters",
+      "pass": true,
+      "detail": "at least 1448 sets with a finite statistic and 39 parameters"
+    },
+    {
+      "check": "at least some parameters move the calibration statistics",
+      "pass": true,
+      "detail": "20 influential, 19 negligible"
+    },
+    {
+      "check": "every parameter has a reported range over the region meeting R1 to R3",
+      "pass": true,
+      "detail": "39 of 39"
+    },
+    {
+      "check": "the report separates parameters the region pins down from those it does not",
+      "pass": true,
+      "detail": "3 pinned down, 36 not"
+    }
+  ]
+}

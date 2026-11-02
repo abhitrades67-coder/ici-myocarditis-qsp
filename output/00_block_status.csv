@@ -1,0 +1,6 @@
+block,file,checks,failed,error,rebound,pass
+B04,B04_implementation.R,72,0,"","",TRUE
+B05,B05_magnitudes.R,15,0,"","",TRUE
+B06,B06_feasibility.R,11,0,"","",TRUE
+B07,B07_sensitivity.R,9,0,"","",TRUE
+B08,B08_calibration.R,16,2,"","",FALSE

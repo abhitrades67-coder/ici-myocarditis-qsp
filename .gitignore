@@ -1,0 +1,9 @@
+logs/
+src/*.dll
+src/*.o
+src/*.so
+output/additional_files/
+.Rhistory
+.RData
+.Rproj.user/
+Rplots.pdf

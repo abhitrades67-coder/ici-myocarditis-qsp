@@ -1,0 +1,66 @@
+{
+  "block": "B06",
+  "file": "B06_feasibility.R",
+  "file_sha256": "64269bf26f600f0f653e8e55e59ca183c78796c3bc71ee14175ff48b7b051087",
+  "pass": true,
+  "ran_without_error": true,
+  "error": "",
+  "rebound": [],
+  "checks": [
+    {
+      "check": "the model still passes its regression tests",
+      "pass": true,
+      "detail": "227 tests, 0 failed, 0 errors"
+    },
+    {
+      "check": "the first Latin hypercube had at least 2,000 sets over the whole prior",
+      "pass": true,
+      "detail": "2000 sets respecting the rho constraint in the first wave, 1 waves in all, 2000 sets ran"
+    },
+    {
+      "check": "almost every set that respects the rho constraint ran",
+      "pass": true,
+      "detail": "0 errors in 2000 runs"
+    },
+    {
+      "check": "requirement R1 is met somewhere in the prior",
+      "pass": true,
+      "detail": "28.85% of sets"
+    },
+    {
+      "check": "requirement R2 is met somewhere in the prior",
+      "pass": true,
+      "detail": "11.85% of sets"
+    },
+    {
+      "check": "requirement R3 is met somewhere in the prior",
+      "pass": true,
+      "detail": "38.55% of sets"
+    },
+    {
+      "check": "a region of the prior meets R1, R2 and R3 at the same time",
+      "pass": true,
+      "detail": "75 sets"
+    },
+    {
+      "check": "R4: somewhere in that region, T3 cases present earlier than other T2 cases",
+      "pass": true,
+      "detail": "40 of 75 sets"
+    },
+    {
+      "check": "R5: ipilimumab alone gives myocarditis somewhere in the prior",
+      "pass": true,
+      "detail": "in 36 of 100 sets tried, 23 of them in the region meeting R1 to R3"
+    },
+    {
+      "check": "the region is large enough to start the calibration from",
+      "pass": true,
+      "detail": "75 sets"
+    },
+    {
+      "check": "the nadir-LVEF bands are reported as an output",
+      "pass": true,
+      "detail": "among severe cases in the feasible region: 96% at 40 to 49%, 4% at 30 to 39%, 0% below 30% (medians); no calibration source constrains them"
+    }
+  ]
+}

@@ -1,0 +1,2238 @@
+primaryid,ici,onset_days,start_date,event_date,start_prec,event_prec,regimen,occr_country
+95044138,ipilimumab,193,2013-02-04,2013-08-16,day,day,CTLA-4 monotherapy,US
+106756844,nivolumab,14,2014-11-12,2014-11-26,day,day,COMBO (PD-[L]1 + CTLA-4),US
+107341329,pembrolizumab,53,2014-11-19,2015-01-11,day,day,COMBO (PD-[L]1 + CTLA-4),US
+110727662,ipilimumab,36,2009-11-12,2009-12-18,day,day,CTLA-4 monotherapy,DK
+112676962,pembrolizumab,35,2015-06-01,2015-07-06,month,day,PD-1 monotherapy,US
+115341871,nivolumab,32,2015-08-05,2015-09-06,day,day,PD-1 monotherapy,
+117444883,nivolumab,183,2015-04-01,2015-10-01,month,month,PD-1 monotherapy,FR
+118644763,nivolumab,12,2015-11-30,2015-12-12,day,day,COMBO (PD-[L]1 + CTLA-4),US
+118696568,nivolumab,15,2015-12-03,2015-12-18,day,day,COMBO (PD-[L]1 + CTLA-4),US
+119806745,nivolumab,16,2016-01-06,2016-01-22,day,day,COMBO (PD-[L]1 + CTLA-4),US
+119807899,nivolumab,35,2015-12-15,2016-01-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+120125652,pembrolizumab,22,2015-11-11,2015-12-03,day,day,PD-1 monotherapy,SG
+120755507,ipilimumab,168,2015-08-13,2016-01-28,day,day,COMBO (PD-[L]1 + CTLA-4),US
+120901292,pembrolizumab,0,2015-12-07,2015-12-07,day,day,PD-1 monotherapy,GR
+121055423,ipilimumab,137,2015-03-17,2015-08-01,day,month,COMBO (PD-[L]1 + CTLA-4),FR
+122667078,pembrolizumab,29,2016-02-23,2016-03-23,day,day,PD-1 monotherapy,US
+123295413,nivolumab,28,2016-03-24,2016-04-21,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+123788426,nivolumab,34,2016-03-31,2016-05-04,day,day,PD-1 monotherapy,US
+124540652,nivolumab,26,2015-12-16,2016-01-11,day,day,PD-1 monotherapy,FR
+125268167,ipilimumab,7,2016-06-09,2016-06-16,day,day,CTLA-4 monotherapy,US
+125717126,nivolumab,193,2016-01-01,2016-07-12,year,day,PD-1 monotherapy,JP
+126134681,pembrolizumab,30,2015-11-23,2015-12-23,day,day,PD-1 monotherapy,
+126241104,nivolumab,13,2016-07-05,2016-07-18,day,day,COMBO (PD-[L]1 + CTLA-4),US
+126460524,nivolumab,15,2016-06-27,2016-07-12,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+126483515,nivolumab,112,2016-03-23,2016-07-13,day,day,PD-1 monotherapy,US
+126696412,nivolumab,208,2015-11-12,2016-06-07,day,day,PD-1 monotherapy,CA
+126696945,nivolumab,128,2015-12-28,2016-05-04,day,day,PD-1 monotherapy,ES
+127229343,nivolumab,16,2016-07-18,2016-08-03,day,day,PD-1 monotherapy,DE
+127315133,nivolumab,68,2016-05-26,2016-08-02,day,day,PD-1 monotherapy,CA
+127463315,durvalumab,15,2016-08-02,2016-08-17,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+127523774,pembrolizumab,12,2016-07-20,2016-08-01,day,month,PD-1 monotherapy,DE
+127754094,tremelimumab,38,2016-08-02,2016-09-09,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+127781862,nivolumab,64,2015-12-16,2016-02-18,day,day,PD-1 monotherapy,IT
+128317672,nivolumab,1,2016-09-28,2016-09-29,day,day,PD-1 monotherapy,FR
+128474731,nivolumab,193,2016-03-01,2016-09-10,day,day,PD-1 monotherapy,BE
+128528972,nivolumab,16,2016-06-16,2016-07-02,day,day,PD-1 monotherapy,IE
+128743662,nivolumab,14,2016-06-16,2016-06-30,day,day,PD-1 monotherapy,IE
+128914301,nivolumab,1,2016-09-28,2016-09-29,day,day,PD-1 monotherapy,FR
+129139462,nivolumab,36,2016-09-20,2016-10-26,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+129573491,pembrolizumab,151,2016-02-01,2016-07-01,month,month,PD-1 monotherapy,DE
+129618297,avelumab,28,2016-10-13,2016-11-10,day,day,PD-L1 monotherapy,US
+130115331,nivolumab,26,2016-10-06,2016-11-01,day,month,PD-1 monotherapy,DE
+130330591,pembrolizumab,0,2016-01-01,2016-01-01,year,year,PD-1 monotherapy,TH
+130600901,nivolumab,26,2016-11-10,2016-12-06,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+130706763,nivolumab,214,2016-03-01,2016-10-01,month,month,PD-1 monotherapy,FR
+130723413,nivolumab,188,2016-06-07,2016-12-12,day,day,PD-1 monotherapy,BE
+131002072,ipilimumab,6,2016-12-15,2016-12-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+131084587,nivolumab,13,2016-11-29,2016-12-12,day,day,PD-1 monotherapy,JP
+131282532,pembrolizumab,15,2016-11-15,2016-11-30,day,day,PD-1 monotherapy,ES
+131852117,avelumab,106,2016-10-13,2017-01-27,day,day,PD-L1 monotherapy,US
+131872971,nivolumab,120,2016-06-06,2016-10-04,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+132142691,pembrolizumab,37,2016-12-27,2017-02-02,day,day,PD-1 monotherapy,US
+132645101,nivolumab,7,2017-01-13,2017-01-20,day,day,PD-1 monotherapy,ES
+132748692,nivolumab,16,2017-02-02,2017-02-18,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+133010169,nivolumab,23,2017-02-01,2017-02-24,day,day,PD-1 monotherapy,JP
+133018322,pembrolizumab,457,2015-08-01,2016-10-31,month,day,PD-1 monotherapy,DE
+133028621,nivolumab,132,2016-07-07,2016-11-16,day,day,PD-1 monotherapy,FR
+133339211,atezolizumab,6,2017-01-26,2017-02-01,day,day,PD-L1 monotherapy,FR
+133439823,nivolumab,17,2017-02-23,2017-03-12,day,day,COMBO (PD-[L]1 + CTLA-4),US
+133608471,pembrolizumab,30,2015-11-23,2015-12-23,day,day,PD-1 monotherapy,US
+133671881,pembrolizumab,142,2016-09-21,2017-02-10,day,day,PD-1 monotherapy,US
+134301601,nivolumab,39,2017-02-20,2017-03-31,day,day,COMBO (PD-[L]1 + CTLA-4),US
+134452571,nivolumab,88,2016-11-08,2017-02-04,day,day,PD-1 monotherapy,FR
+134660811,nivolumab,28,2017-03-14,2017-04-11,day,day,PD-1 monotherapy,US
+134724411,nivolumab,39,2017-02-20,2017-03-31,day,day,COMBO (PD-[L]1 + CTLA-4),US
+134726068,pembrolizumab,11,2017-03-30,2017-04-10,day,day,PD-1 monotherapy,JP
+134965361,nivolumab,12,2017-02-22,2017-03-06,day,day,PD-1 monotherapy,US
+135135233,nivolumab,29,2017-03-20,2017-04-18,day,day,PD-1 monotherapy,IT
+135211781,pembrolizumab,217,2016-09-21,2017-04-26,day,day,PD-1 monotherapy,US
+135382603,nivolumab,11,2017-04-17,2017-04-28,day,day,COMBO (PD-[L]1 + CTLA-4),US
+135418762,nivolumab,14,2017-02-20,2017-03-06,day,day,COMBO (PD-[L]1 + CTLA-4),US
+135527574,durvalumab,17,2017-03-10,2017-03-27,day,day,PD-L1 monotherapy,JP
+135763644,nivolumab,16,2016-08-31,2016-09-16,day,day,PD-1 monotherapy,DE
+135982275,ipilimumab,26,2017-04-14,2017-05-10,day,day,CTLA-4 monotherapy,US
+136023212,pembrolizumab,14,2017-03-30,2017-04-13,day,day,PD-1 monotherapy,AU
+136382932,durvalumab,321,2016-07-20,2017-06-06,day,day,PD-L1 monotherapy,JP
+136383469,durvalumab,27,2017-04-10,2017-05-07,day,day,PD-L1 monotherapy,FR
+136439199,nivolumab,17,2017-05-18,2017-06-04,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+136569173,pembrolizumab,51,2017-04-12,2017-06-02,day,day,PD-1 monotherapy,JP
+136743482,nivolumab,21,2017-04-04,2017-04-25,day,day,PD-1 monotherapy,ES
+136970264,atezolizumab,13,2017-06-06,2017-06-19,day,day,PD-L1 monotherapy,FR
+137086139,nivolumab,19,2017-06-08,2017-06-27,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+137521104,nivolumab,66,2017-04-28,2017-07-03,day,day,PD-1 monotherapy,DE
+137676158,pembrolizumab,67,2017-04-25,2017-07-01,day,day,PD-1 monotherapy,JP
+137718672,nivolumab,14,2017-05-23,2017-06-06,day,day,PD-1 monotherapy,BE
+138355813,durvalumab,15,2016-08-02,2016-08-17,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+138573067,nivolumab,40,2017-06-22,2017-08-01,day,day,PD-1 monotherapy,CN
+138768849,atezolizumab,11,2017-06-20,2017-07-01,day,day,PD-L1 monotherapy,AU
+139029452,durvalumab,28,2017-02-06,2017-03-06,day,day,PD-L1 monotherapy,BE
+139174715,durvalumab,34,2017-07-19,2017-08-22,day,day,PD-L1 monotherapy,ES
+139622841,nivolumab,0,2017-06-29,2017-06-29,day,day,PD-1 monotherapy,JP
+139963353,durvalumab,236,2017-01-10,2017-09-03,day,day,PD-L1 monotherapy,US
+140197941,pembrolizumab,8,2017-07-25,2017-08-02,day,day,PD-1 monotherapy,GR
+140440663,nivolumab,64,2017-07-13,2017-09-15,day,day,PD-1 monotherapy,JP
+140471912,pembrolizumab,22,2017-08-02,2017-08-24,day,day,PD-1 monotherapy,AU
+140616174,nivolumab,2,2017-05-08,2017-05-10,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+140767315,avelumab,28,2017-08-07,2017-09-04,day,day,PD-L1 monotherapy,IL
+140808382,avelumab,19,2016-03-22,2016-04-10,day,day,PD-L1 monotherapy,GB
+140814941,pembrolizumab,55,2017-06-19,2017-08-13,day,day,PD-1 monotherapy,
+140827266,nivolumab,35,2017-08-31,2017-10-05,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+140879094,durvalumab,22,2017-09-20,2017-10-12,day,day,COMBO (PD-[L]1 + CTLA-4),KR
+140921216,atezolizumab,56,2017-07-21,2017-09-15,day,day,PD-L1 monotherapy,
+140943812,avelumab,36,2017-07-18,2017-08-23,day,day,PD-L1 monotherapy,FR
+140997474,nivolumab,22,2016-11-10,2016-12-02,day,day,PD-1 monotherapy,AU
+141330562,nivolumab,77,2017-07-07,2017-09-22,day,day,PD-1 monotherapy,BE
+141335541,pembrolizumab,229,2017-03-08,2017-10-23,day,day,PD-1 monotherapy,
+141349606,atezolizumab,0,2017-10-23,2017-10-23,day,day,PD-L1 monotherapy,ES
+141380812,nivolumab,189,2017-01-12,2017-07-20,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+141388471,nivolumab,96,2017-07-04,2017-10-08,day,day,PD-1 monotherapy,FR
+141549973,ipilimumab,18,2017-05-17,2017-06-04,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+141766091,nivolumab,18,2017-10-11,2017-10-29,day,day,PD-1 monotherapy,FR
+141878991,nivolumab,42,2017-07-07,2017-08-18,day,day,PD-1 monotherapy,BE
+142051202,pembrolizumab,71,2017-08-10,2017-10-20,day,day,PD-1 monotherapy,JP
+142133821,pembrolizumab,23,2017-04-14,2017-05-07,day,day,PD-1 monotherapy,US
+142542191,nivolumab,42,2017-10-10,2017-11-21,day,day,PD-1 monotherapy,US
+142834227,ipilimumab,14,2017-11-13,2017-11-27,day,day,CTLA-4 monotherapy,FR
+142874003,nivolumab,162,2017-06-26,2017-12-05,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+143106434,nivolumab,6,2017-11-29,2017-12-05,day,day,PD-1 monotherapy,JP
+143152562,nivolumab,127,2017-08-08,2017-12-13,day,day,PD-1 monotherapy,BR
+143279324,nivolumab,20,2017-11-30,2017-12-20,day,day,COMBO (PD-[L]1 + CTLA-4),CZ
+143354431,durvalumab,7,2017-12-14,2017-12-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+143359891,durvalumab,7,2017-12-14,2017-12-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+143376366,durvalumab,26,2017-11-22,2017-12-18,day,day,COMBO (PD-[L]1 + CTLA-4),US
+143381702,nivolumab,18,2017-11-30,2017-12-18,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+143666941,pembrolizumab,29,2017-10-12,2017-11-10,day,day,PD-1 monotherapy,FR
+143685719,ipilimumab,124,2017-08-25,2017-12-27,day,day,CTLA-4 monotherapy,CA
+143924445,atezolizumab,65,2017-10-31,2018-01-04,day,day,PD-L1 monotherapy,PL
+144135561,nivolumab,387,2016-12-15,2018-01-06,day,day,PD-1 monotherapy,CA
+144212264,nivolumab,32,2017-10-23,2017-11-24,day,day,PD-1 monotherapy,US
+144490601,nivolumab,22,2017-11-17,2017-12-09,day,day,PD-1 monotherapy,FR
+144659741,pembrolizumab,61,2017-10-01,2017-12-01,month,month,PD-1 monotherapy,DE
+144714221,nivolumab,14,2017-11-29,2017-12-13,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+144898601,nivolumab,16,2016-01-06,2016-01-22,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+145295097,avelumab,106,2016-10-13,2017-01-27,day,day,PD-L1 monotherapy,US
+145327968,nivolumab,19,2018-01-11,2018-01-30,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+145377802,pembrolizumab,1,2015-04-14,2015-04-15,day,day,PD-1 monotherapy,US
+145464092,pembrolizumab,10,2018-01-12,2018-01-22,day,day,PD-1 monotherapy,FR
+145562392,pembrolizumab,13,2018-01-11,2018-01-24,day,day,PD-1 monotherapy,FR
+145601739,pembrolizumab,12,2018-01-01,2018-01-13,year,day,PD-1 monotherapy,JP
+145609324,atezolizumab,23,2017-12-13,2018-01-05,day,day,PD-L1 monotherapy,
+145648662,pembrolizumab,4,2017-12-21,2017-12-25,day,day,PD-1 monotherapy,BE
+145688532,nivolumab,86,2015-11-01,2016-01-26,day,day,PD-1 monotherapy,BE
+145889231,nivolumab,14,2018-01-24,2018-02-07,day,day,COMBO (PD-[L]1 + CTLA-4),US
+146011718,nivolumab,16,2018-02-09,2018-02-25,day,day,COMBO (PD-[L]1 + CTLA-4),US
+146042543,nivolumab,24,2016-10-28,2016-11-21,day,day,PD-1 monotherapy,JP
+146114413,pembrolizumab,21,2017-12-20,2018-01-10,day,day,PD-1 monotherapy,LU
+146197553,nivolumab,119,2017-11-02,2018-03-01,day,day,PD-1 monotherapy,ES
+146199415,nivolumab,15,2018-02-06,2018-02-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+146201832,pembrolizumab,4,2017-12-29,2018-01-02,day,day,PD-1 monotherapy,CH
+146219917,nivolumab,18,2017-07-06,2017-07-24,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+146435215,nivolumab,9,2017-04-17,2017-04-26,day,day,PD-1 monotherapy,JP
+146561871,durvalumab,3,2018-02-19,2018-02-22,day,day,COMBO (PD-[L]1 + CTLA-4),US
+146810593,avelumab,19,2016-03-22,2016-04-10,day,day,PD-L1 monotherapy,GB
+146988904,nivolumab,19,2018-02-19,2018-03-10,day,day,COMBO (PD-[L]1 + CTLA-4),US
+147052043,ipilimumab,382,2016-09-30,2017-10-17,day,day,COMBO (PD-[L]1 + CTLA-4),US
+147113962,nivolumab,11,2018-03-07,2018-03-18,day,day,COMBO (PD-[L]1 + CTLA-4),US
+147133722,atezolizumab,280,2017-06-20,2018-03-27,day,day,PD-L1 monotherapy,ES
+147206462,durvalumab,39,2018-02-19,2018-03-30,day,day,COMBO (PD-[L]1 + CTLA-4),US
+147268501,ipilimumab,29,2018-01-23,2018-02-21,day,day,CTLA-4 monotherapy,FR
+147549592,pembrolizumab,210,2017-08-11,2018-03-09,day,day,PD-1 monotherapy,NO
+147814237,pembrolizumab,38,2018-01-26,2018-03-05,day,day,PD-1 monotherapy,JP
+148146462,pembrolizumab,142,2017-10-11,2018-03-02,day,day,PD-1 monotherapy,FR
+148350782,nivolumab,17,2018-03-09,2018-03-26,day,day,COMBO (PD-[L]1 + CTLA-4),US
+148398924,nivolumab,543,2016-10-01,2018-03-28,month,day,PD-1 monotherapy,DE
+148412531,pembrolizumab,18,2018-02-05,2018-02-23,day,day,PD-1 monotherapy,US
+148545164,durvalumab,19,2018-04-06,2018-04-25,day,day,COMBO (PD-[L]1 + CTLA-4),TW
+148675831,durvalumab,42,2018-02-01,2018-03-15,day,day,PD-L1 monotherapy,AU
+148785739,pembrolizumab,15,2018-04-20,2018-05-05,day,day,PD-1 monotherapy,JP
+148788662,nivolumab,0,2017-04-28,2017-04-28,day,day,PD-1 monotherapy,DE
+148817887,durvalumab,12,2018-04-18,2018-04-30,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+148901483,nivolumab,256,2017-08-21,2018-05-04,day,day,PD-1 monotherapy,BE
+149104325,nivolumab,7,2018-04-18,2018-04-25,day,day,PD-1 monotherapy,JP
+149135549,pembrolizumab,12,2018-04-25,2018-05-07,day,day,PD-1 monotherapy,JP
+149350511,nivolumab,8,2017-04-17,2017-04-25,day,day,COMBO (PD-[L]1 + CTLA-4),US
+149554541,nivolumab,0,2018-05-20,2018-05-20,day,day,COMBO (PD-[L]1 + CTLA-4),US
+149917353,nivolumab,69,2018-03-27,2018-06-04,day,day,PD-1 monotherapy,FR
+149971843,nivolumab,18,2018-05-07,2018-05-25,day,day,PD-1 monotherapy,DE
+150181902,nivolumab,5,2018-05-14,2018-05-19,day,day,COMBO (PD-[L]1 + CTLA-4),US
+150999982,pembrolizumab,60,2018-04-25,2018-06-24,day,day,PD-1 monotherapy,JP
+151486645,pembrolizumab,14,2018-06-13,2018-06-27,day,day,PD-1 monotherapy,JP
+151573071,pembrolizumab,15,2017-11-16,2017-12-01,day,month,PD-1 monotherapy,FR
+151574303,pembrolizumab,113,2018-03-10,2018-07-01,day,month,PD-1 monotherapy,RS
+151603948,durvalumab,33,2018-06-03,2018-07-06,day,day,COMBO (PD-[L]1 + CTLA-4),CN
+151655101,pembrolizumab,18,2018-05-31,2018-06-18,day,day,PD-1 monotherapy,US
+151730406,nivolumab,153,2016-05-01,2016-10-01,month,day,PD-1 monotherapy,JP
+152057577,nivolumab,20,2018-06-27,2018-07-17,day,day,PD-1 monotherapy,US
+152132834,durvalumab,21,2018-07-02,2018-07-23,day,day,PD-L1 monotherapy,US
+152350187,pembrolizumab,21,2018-06-26,2018-07-17,day,day,PD-1 monotherapy,JP
+152350456,nivolumab,50,2018-06-05,2018-07-25,day,day,COMBO (PD-[L]1 + CTLA-4),TW
+152531921,pembrolizumab,0,2018-01-01,2018-01-01,year,year,PD-1 monotherapy,ES
+152672175,pembrolizumab,25,2018-06-20,2018-07-15,day,day,PD-1 monotherapy,JP
+152725783,durvalumab,57,2018-06-03,2018-07-30,day,day,COMBO (PD-[L]1 + CTLA-4),CN
+152916161,pembrolizumab,0,2018-01-01,2018-01-01,month,month,PD-1 monotherapy,IL
+153146528,atezolizumab,7,2018-07-25,2018-08-01,day,day,PD-L1 monotherapy,AU
+153234105,ipilimumab,27,2018-07-23,2018-08-19,day,day,CTLA-4 monotherapy,CN
+153292307,nivolumab,436,2016-09-14,2017-11-24,day,day,PD-1 monotherapy,JP
+153539692,nivolumab,87,2018-04-27,2018-07-23,day,day,COMBO (PD-[L]1 + CTLA-4),US
+153606566,atezolizumab,93,2018-05-28,2018-08-29,day,day,PD-L1 monotherapy,TW
+153678512,atezolizumab,93,2018-05-28,2018-08-29,day,day,PD-L1 monotherapy,TW
+153702523,pembrolizumab,23,2018-08-07,2018-08-30,day,day,PD-1 monotherapy,JP
+153758709,nivolumab,105,2018-03-29,2018-07-12,day,day,PD-1 monotherapy,JP
+153905711,avelumab,0,2018-06-15,2018-06-15,day,day,PD-L1 monotherapy,US
+153933512,pembrolizumab,27,2017-10-30,2017-11-26,day,day,PD-1 monotherapy,GB
+154173836,avelumab,209,2018-01-30,2018-08-27,day,day,PD-L1 monotherapy,NZ
+154334741,nivolumab,18,2018-05-07,2018-05-25,day,day,PD-1 monotherapy,DE
+154623707,nivolumab,4,2018-08-28,2018-09-01,day,day,PD-1 monotherapy,US
+154709381,nivolumab,18,2018-05-07,2018-05-25,day,day,PD-1 monotherapy,DE
+154755735,pembrolizumab,5,2018-06-06,2018-06-11,day,day,PD-1 monotherapy,JP
+154773294,atezolizumab,141,2018-05-14,2018-10-02,day,day,PD-L1 monotherapy,US
+154891216,cemiplimab,37,2018-06-08,2018-07-15,day,day,PD-1 monotherapy,MY
+154926433,avelumab,59,2018-08-17,2018-10-15,day,day,PD-L1 monotherapy,US
+154939221,pembrolizumab,120,2018-04-25,2018-08-23,day,day,PD-1 monotherapy,FR
+154945792,nivolumab,68,2018-06-27,2018-09-03,day,day,COMBO (PD-[L]1 + CTLA-4),US
+155245202,cemiplimab,104,2018-02-01,2018-05-16,day,day,PD-1 monotherapy,BE
+155391784,nivolumab,50,2018-07-02,2018-08-21,day,day,PD-1 monotherapy,CN
+155429556,avelumab,6,2018-10-04,2018-10-10,day,day,PD-L1 monotherapy,US
+155546169,atezolizumab,35,2018-09-12,2018-10-17,day,day,PD-L1 monotherapy,CN
+155579282,pembrolizumab,31,2017-12-01,2018-01-01,month,year,PD-1 monotherapy,US
+155691166,nivolumab,362,2016-01-18,2017-01-14,day,day,PD-1 monotherapy,JP
+155705602,pembrolizumab,9,2018-08-23,2018-09-01,day,month,PD-1 monotherapy,GB
+155716174,nivolumab,396,2017-05-31,2018-07-01,day,month,PD-1 monotherapy,JP
+156039073,nivolumab,30,2018-09-20,2018-10-20,day,day,PD-1 monotherapy,CN
+156096322,nivolumab,29,2018-09-12,2018-10-11,day,day,PD-1 monotherapy,FR
+156219061,pembrolizumab,338,2017-11-10,2018-10-14,day,day,PD-1 monotherapy,DK
+156275982,nivolumab,103,2018-07-06,2018-10-17,day,day,PD-1 monotherapy,FR
+156294752,nivolumab,103,2018-07-06,2018-10-17,day,day,PD-1 monotherapy,FR
+156348202,pembrolizumab,0,2018-05-22,2018-05-22,day,day,PD-1 monotherapy,HU
+156477403,atezolizumab,44,2018-08-07,2018-09-20,day,day,PD-L1 monotherapy,NO
+156479564,nivolumab,148,2018-06-12,2018-11-07,day,day,PD-1 monotherapy,US
+156591966,nivolumab,397,2016-01-01,2017-02-01,year,month,COMBO (PD-[L]1 + CTLA-4),DE
+156684885,nivolumab,10,2018-09-21,2018-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+156730141,pembrolizumab,84,2018-08-16,2018-11-08,day,day,PD-1 monotherapy,CH
+156852091,nivolumab,331,2017-12-14,2018-11-10,day,day,PD-1 monotherapy,US
+156930044,nivolumab,37,2018-09-04,2018-10-11,day,day,PD-1 monotherapy,US
+157024404,nivolumab,203,2018-05-14,2018-12-03,day,day,PD-1 monotherapy,CH
+157042501,pembrolizumab,84,2018-08-16,2018-11-08,day,day,PD-1 monotherapy,CH
+157091562,nivolumab,385,2017-09-22,2018-10-12,day,day,PD-1 monotherapy,US
+157140416,atezolizumab,1,2018-09-11,2018-09-12,day,day,PD-L1 monotherapy,GB
+157142862,atezolizumab,9,2018-07-17,2018-07-26,day,day,PD-L1 monotherapy,AU
+157354091,ipilimumab,37,2018-06-08,2018-07-15,day,day,CTLA-4 monotherapy,US
+157380105,nivolumab,133,2018-07-04,2018-11-14,day,day,COMBO (PD-[L]1 + CTLA-4),BE
+157394362,atezolizumab,129,2018-08-03,2018-12-10,day,day,PD-L1 monotherapy,FR
+157454564,cemiplimab,19,2017-04-26,2017-05-15,day,day,PD-1 monotherapy,US
+157637524,nivolumab,40,2018-11-07,2018-12-17,day,day,PD-1 monotherapy,JP
+157651843,nivolumab,43,2018-10-10,2018-11-22,day,day,PD-1 monotherapy,JP
+157855001,pembrolizumab,6,2018-07-26,2018-08-01,day,day,PD-1 monotherapy,US
+158047682,nivolumab,58,2018-11-07,2019-01-04,day,day,PD-1 monotherapy,NO
+158054631,nivolumab,24,2018-10-17,2018-11-10,day,day,PD-1 monotherapy,ES
+158216961,pembrolizumab,4,2017-12-29,2018-01-02,day,day,PD-1 monotherapy,CH
+158315214,atezolizumab,52,2018-11-07,2018-12-29,day,day,PD-L1 monotherapy,JP
+158339883,nivolumab,34,2018-11-26,2018-12-30,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+158360212,atezolizumab,40,2018-11-29,2019-01-08,day,day,PD-L1 monotherapy,CA
+158541742,durvalumab,7,2018-12-18,2018-12-25,day,day,PD-L1 monotherapy,CN
+158549944,nivolumab,20,2018-12-19,2019-01-08,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+158607171,nivolumab,12,2018-08-23,2018-09-04,day,day,PD-1 monotherapy,FR
+158808474,pembrolizumab,18,2019-01-01,2019-01-19,month,day,PD-1 monotherapy,US
+159684331,pembrolizumab,19,2018-09-12,2018-10-01,day,month,PD-1 monotherapy,CH
+159744062,nivolumab,46,2018-11-30,2019-01-15,day,day,PD-1 monotherapy,FR
+159842986,atezolizumab,108,2018-10-09,2019-01-25,day,day,PD-L1 monotherapy,US
+159892742,nivolumab,19,2018-02-14,2018-03-05,day,day,COMBO (PD-[L]1 + CTLA-4),US
+159905861,atezolizumab,13,2018-12-05,2018-12-18,day,day,PD-L1 monotherapy,CA
+160101356,atezolizumab,88,2018-11-23,2019-02-19,day,day,PD-L1 monotherapy,AU
+160246658,pembrolizumab,0,2019-02-18,2019-02-18,day,day,PD-1 monotherapy,JP
+160395543,nivolumab,25,2019-01-30,2019-02-24,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+160588506,durvalumab,15,2019-02-11,2019-02-26,day,day,PD-L1 monotherapy,US
+160819184,atezolizumab,125,2018-10-11,2019-02-13,day,day,PD-L1 monotherapy,ES
+160983264,nivolumab,43,2018-10-10,2018-11-22,day,day,PD-1 monotherapy,JP
+161028242,pembrolizumab,100,2018-11-12,2019-02-20,day,day,PD-1 monotherapy,FR
+161061505,durvalumab,35,2018-12-18,2019-01-22,day,day,PD-L1 monotherapy,JP
+161085481,nivolumab,26,2019-02-15,2019-03-13,day,day,PD-1 monotherapy,US
+161322981,pembrolizumab,63,2018-08-16,2018-10-18,day,day,PD-1 monotherapy,US
+161434358,nivolumab,2,2019-02-20,2019-02-22,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+161526327,nivolumab,70,2019-01-07,2019-03-18,day,day,PD-1 monotherapy,US
+161577492,pembrolizumab,220,2018-07-24,2019-03-01,day,month,PD-1 monotherapy,US
+161584631,nivolumab,18,2018-05-07,2018-05-25,day,day,PD-1 monotherapy,DE
+161589751,pembrolizumab,59,2018-12-07,2019-02-04,day,day,PD-1 monotherapy,FR
+161606248,ipilimumab,2,2019-02-20,2019-02-22,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+161922291,nivolumab,1,2018-12-12,2018-12-13,day,day,PD-1 monotherapy,FR
+161966362,pembrolizumab,21,2019-02-11,2019-03-04,day,day,PD-1 monotherapy,IT
+162220535,nivolumab,14,2018-12-18,2019-01-01,day,year,COMBO (PD-[L]1 + CTLA-4),US
+162256381,pembrolizumab,153,2018-08-01,2019-01-01,month,year,PD-1 monotherapy,GR
+162274562,pembrolizumab,123,2018-05-31,2018-10-01,day,month,PD-1 monotherapy,US
+162357771,pembrolizumab,38,2019-01-18,2019-02-25,day,day,PD-1 monotherapy,DE
+162361151,nivolumab,42,2018-07-06,2018-08-17,day,day,PD-1 monotherapy,AT
+162582318,nivolumab,147,2016-07-13,2016-12-07,day,day,PD-1 monotherapy,JP
+162591962,nivolumab,17,2018-02-06,2018-02-23,day,day,COMBO (PD-[L]1 + CTLA-4),US
+162650709,nivolumab,20,2019-02-05,2019-02-25,day,day,COMBO (PD-[L]1 + CTLA-4),US
+162835592,nivolumab,638,2017-02-01,2018-11-01,month,month,PD-1 monotherapy,FR
+162996956,nivolumab,193,2018-09-20,2019-04-01,day,month,PD-1 monotherapy,JP
+163244032,nivolumab,37,2019-03-19,2019-04-25,day,day,PD-1 monotherapy,US
+163298429,atezolizumab,26,2019-04-11,2019-05-07,day,day,PD-L1 monotherapy,FR
+163378501,nivolumab,25,2019-03-22,2019-04-16,day,day,PD-1 monotherapy,US
+163405961,nivolumab,28,2019-03-19,2019-04-16,day,day,PD-1 monotherapy,JP
+163749221,atezolizumab,61,2019-03-07,2019-05-07,day,day,PD-L1 monotherapy,FR
+163932064,pembrolizumab,10,2019-01-08,2019-01-18,day,day,PD-1 monotherapy,JP
+164003945,tislelizumab,41,2019-01-17,2019-02-27,day,day,PD-1 monotherapy,CN
+164033283,ipilimumab,10,2019-04-04,2019-04-14,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+164087911,nivolumab,72,2019-02-08,2019-04-21,day,day,PD-1 monotherapy,FR
+164140641,nivolumab,0,2018-03-14,2018-03-14,day,day,PD-1 monotherapy,US
+164262541,pembrolizumab,17,2019-04-08,2019-04-25,day,day,PD-1 monotherapy,FR
+164338922,durvalumab,16,2019-04-02,2019-04-18,day,day,PD-L1 monotherapy,AU
+164430993,pembrolizumab,21,2018-12-27,2019-01-17,day,day,PD-1 monotherapy,DE
+164606562,nivolumab,28,2019-05-09,2019-06-06,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+164705322,durvalumab,388,2018-05-08,2019-05-31,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+164795162,nivolumab,35,2019-05-15,2019-06-19,day,day,COMBO (PD-[L]1 + CTLA-4),US
+164913728,nivolumab,114,2019-02-20,2019-06-14,day,day,PD-1 monotherapy,JP
+165343323,nivolumab,71,2018-12-13,2019-02-22,day,day,PD-1 monotherapy,IT
+165439164,ipilimumab,56,2019-02-26,2019-04-23,day,day,COMBO (PD-[L]1 + CTLA-4),US
+165619693,nivolumab,184,2017-05-01,2017-11-01,month,month,PD-1 monotherapy,JP
+165682412,nivolumab,47,2019-05-10,2019-06-26,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+165683954,nivolumab,55,2019-03-22,2019-05-16,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+165702207,pembrolizumab,47,2019-03-14,2019-04-30,day,day,PD-1 monotherapy,JP
+165771481,ipilimumab,54,2019-03-13,2019-05-06,day,day,CTLA-4 monotherapy,FR
+165778281,nivolumab,122,2018-02-02,2018-06-04,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+165936723,atezolizumab,37,2019-05-28,2019-07-04,day,day,PD-L1 monotherapy,FR
+165993323,nivolumab,21,2019-06-06,2019-06-27,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+166003701,nivolumab,56,2019-04-16,2019-06-11,day,day,PD-1 monotherapy,FR
+166063447,nivolumab,16,2019-01-05,2019-01-21,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+166138292,nivolumab,7,2019-06-24,2019-07-01,day,month,COMBO (PD-[L]1 + CTLA-4),US
+166223551,nivolumab,35,2019-04-23,2019-05-28,day,day,PD-1 monotherapy,PL
+166233842,atezolizumab,37,2019-05-28,2019-07-04,day,day,PD-L1 monotherapy,FR
+166281421,pembrolizumab,28,2019-06-20,2019-07-18,day,day,PD-1 monotherapy,US
+166339951,pembrolizumab,4,2018-08-01,2018-08-05,day,day,PD-1 monotherapy,CN
+166559603,nivolumab,229,2018-03-16,2018-10-31,day,day,PD-1 monotherapy,JP
+166594017,atezolizumab,116,2019-04-03,2019-07-28,day,day,PD-L1 monotherapy,RU
+166631548,pembrolizumab,14,2019-05-23,2019-06-06,day,day,PD-1 monotherapy,JP
+166634721,durvalumab,388,2018-05-08,2019-05-31,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+166660652,nivolumab,18,2019-06-13,2019-07-01,day,day,COMBO (PD-[L]1 + CTLA-4),IL
+166882061,pembrolizumab,2,2019-06-04,2019-06-06,day,day,PD-1 monotherapy,DE
+166891372,nivolumab,35,2019-06-17,2019-07-22,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+167056149,atezolizumab,80,2019-05-21,2019-08-09,day,day,PD-L1 monotherapy,BR
+167078373,atezolizumab,16,2019-07-16,2019-08-01,day,day,PD-L1 monotherapy,IT
+167149392,nivolumab,14,2019-05-24,2019-06-07,day,day,PD-1 monotherapy,NL
+167304311,nivolumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,US
+167318966,nivolumab,86,2019-04-09,2019-07-04,day,day,PD-1 monotherapy,NZ
+167475373,nivolumab,114,2019-03-07,2019-06-29,day,day,PD-1 monotherapy,JP
+167554021,nivolumab,31,2019-07-01,2019-08-01,day,day,PD-1 monotherapy,US
+167578242,nivolumab,40,2019-07-12,2019-08-21,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+167644792,nivolumab,23,2019-07-15,2019-08-07,day,day,PD-1 monotherapy,IT
+167659359,nivolumab,26,2019-04-08,2019-05-04,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+167692121,pembrolizumab,21,2018-12-27,2019-01-17,day,day,PD-1 monotherapy,DE
+167830291,pembrolizumab,21,2018-12-27,2019-01-17,day,day,PD-1 monotherapy,DE
+167873555,durvalumab,63,2018-12-28,2019-03-01,day,day,PD-L1 monotherapy,TR
+167922992,nivolumab,147,2016-07-13,2016-12-07,day,day,PD-1 monotherapy,JP
+167928931,pembrolizumab,29,2019-06-20,2019-07-19,day,day,PD-1 monotherapy,FR
+167981175,nivolumab,28,2019-07-25,2019-08-22,day,day,PD-1 monotherapy,JP
+168015821,pembrolizumab,21,2018-12-27,2019-01-17,day,day,PD-1 monotherapy,DE
+168195826,nivolumab,4,2018-12-28,2019-01-01,day,year,PD-1 monotherapy,JP
+168280186,nivolumab,547,2016-12-01,2018-06-01,month,month,PD-1 monotherapy,JP
+168359058,nivolumab,19,2019-08-26,2019-09-14,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+168511681,pembrolizumab,45,2019-07-18,2019-09-01,day,month,PD-1 monotherapy,US
+168587653,nivolumab,13,2019-07-05,2019-07-18,day,day,PD-1 monotherapy,JP
+168654491,nivolumab,33,2019-07-31,2019-09-02,day,day,PD-1 monotherapy,NL
+168790941,nivolumab,33,2019-07-24,2019-08-26,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+168871531,nivolumab,33,2019-07-24,2019-08-26,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+168875474,nivolumab,105,2019-05-30,2019-09-12,day,day,PD-1 monotherapy,US
+168894222,nivolumab,10,2019-09-12,2019-09-22,day,day,COMBO (PD-[L]1 + CTLA-4),US
+168904971,nivolumab,21,2019-04-19,2019-05-10,day,day,COMBO (PD-[L]1 + CTLA-4),NL
+168945322,nivolumab,32,2019-08-23,2019-09-24,day,day,PD-1 monotherapy,US
+169091701,nivolumab,113,2019-04-24,2019-08-15,day,day,PD-1 monotherapy,FR
+169209117,nivolumab,35,2019-04-24,2019-05-29,day,day,PD-1 monotherapy,JP
+169258834,nivolumab,28,2019-08-20,2019-09-17,day,day,PD-1 monotherapy,DE
+169321214,nivolumab,661,2016-10-21,2018-08-13,day,day,PD-1 monotherapy,JP
+169363961,pembrolizumab,0,2015-01-01,2015-01-01,year,year,PD-1 monotherapy,US
+169468978,nivolumab,15,2019-09-19,2019-10-04,day,day,PD-1 monotherapy,JP
+169474705,pembrolizumab,21,2019-05-23,2019-06-13,day,day,PD-1 monotherapy,JP
+169630022,nivolumab,375,2018-09-24,2019-10-04,day,day,PD-1 monotherapy,RO
+169769143,ipilimumab,5,2019-10-16,2019-10-21,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+169821465,ipilimumab,5,2019-10-16,2019-10-21,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+169958632,pembrolizumab,92,2019-07-01,2019-10-01,month,month,PD-1 monotherapy,JP
+170340692,nivolumab,144,2019-05-30,2019-10-21,day,day,PD-1 monotherapy,PL
+170536904,nivolumab,6,2019-10-17,2019-10-23,day,day,PD-1 monotherapy,ES
+170698992,pembrolizumab,0,2019-02-26,2019-02-26,day,day,PD-1 monotherapy,JP
+170892873,nivolumab,23,2019-10-21,2019-11-13,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+170893671,nivolumab,45,2019-07-16,2019-08-30,day,day,PD-1 monotherapy,US
+170938917,pembrolizumab,19,2019-09-20,2019-10-09,day,day,PD-1 monotherapy,JP
+171130741,pembrolizumab,28,2019-09-17,2019-10-15,day,day,PD-1 monotherapy,CH
+171186872,pembrolizumab,28,2019-09-17,2019-10-15,day,day,PD-1 monotherapy,CH
+171325281,ipilimumab,4,2018-12-01,2018-12-05,month,day,COMBO (PD-[L]1 + CTLA-4),US
+171465286,nivolumab,30,2019-10-09,2019-11-08,day,day,PD-1 monotherapy,US
+171473984,nivolumab,584,2018-05-03,2019-12-08,day,day,PD-1 monotherapy,US
+171975761,nivolumab,15,2019-10-30,2019-11-14,day,day,PD-1 monotherapy,FR
+172056893,pembrolizumab,80,2019-09-30,2019-12-19,day,day,PD-1 monotherapy,JP
+172157634,nivolumab,10,2019-12-12,2019-12-22,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+172337052,atezolizumab,86,2019-10-02,2019-12-27,day,day,PD-L1 monotherapy,JP
+172441861,pembrolizumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,DE
+172550481,nivolumab,31,2018-10-01,2018-11-01,month,month,PD-1 monotherapy,FR
+172557221,pembrolizumab,404,2018-09-01,2019-10-10,month,day,PD-1 monotherapy,DE
+172630781,nivolumab,24,2019-08-08,2019-09-01,day,month,PD-1 monotherapy,DK
+172685621,ipilimumab,17,2019-05-14,2019-05-31,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+172706751,pembrolizumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,DE
+172749272,nivolumab,27,2019-10-11,2019-11-07,day,day,PD-1 monotherapy,AU
+172825692,nivolumab,14,2019-12-20,2020-01-03,day,day,COMBO (PD-[L]1 + CTLA-4),US
+172856891,pembrolizumab,19,2017-12-20,2018-01-08,day,day,PD-1 monotherapy,FR
+172879401,nivolumab,91,2018-09-01,2018-12-01,month,month,PD-1 monotherapy,FR
+173053394,nivolumab,56,2019-11-19,2020-01-14,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+173166791,pembrolizumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,DE
+173527703,atezolizumab,8,2020-01-06,2020-01-14,day,day,PD-L1 monotherapy,MX
+173586042,atezolizumab,154,2019-06-25,2019-11-26,day,day,PD-L1 monotherapy,FR
+173591652,ipilimumab,21,2019-11-22,2019-12-13,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+173670551,pembrolizumab,155,2019-06-18,2019-11-20,day,day,PD-1 monotherapy,FR
+173702882,atezolizumab,154,2019-06-25,2019-11-26,day,day,PD-L1 monotherapy,FR
+173739882,nivolumab,28,2019-11-08,2019-12-06,day,day,PD-1 monotherapy,SE
+173906919,pembrolizumab,18,2019-11-13,2019-12-01,day,day,PD-1 monotherapy,JP
+173907313,durvalumab,52,2019-11-01,2019-12-23,month,day,PD-L1 monotherapy,JP
+173916712,nivolumab,44,2019-12-16,2020-01-29,day,day,PD-1 monotherapy,US
+174015202,atezolizumab,154,2019-06-25,2019-11-26,day,day,PD-L1 monotherapy,FR
+174042911,nivolumab,17,2019-11-28,2019-12-15,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+174085957,pembrolizumab,22,2019-11-12,2019-12-04,day,day,PD-1 monotherapy,JP
+174109183,nivolumab,34,2019-01-09,2019-02-12,day,day,PD-1 monotherapy,JP
+174161812,nivolumab,12,2019-12-02,2019-12-14,day,day,PD-1 monotherapy,FR
+174278701,pembrolizumab,101,2019-05-15,2019-08-24,day,day,PD-1 monotherapy,CH
+174354991,pembrolizumab,101,2019-05-15,2019-08-24,day,day,PD-1 monotherapy,CH
+174374282,pembrolizumab,117,2019-09-06,2020-01-01,day,month,PD-1 monotherapy,JP
+174378783,ipilimumab,7,2020-01-23,2020-01-30,day,day,COMBO (PD-[L]1 + CTLA-4),LU
+174380254,nivolumab,34,2019-11-19,2019-12-23,day,day,PD-1 monotherapy,AU
+174424733,nivolumab,142,2019-08-26,2020-01-15,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+174519911,pembrolizumab,55,2019-11-01,2019-12-26,month,day,PD-1 monotherapy,DE
+174538996,nivolumab,27,2020-01-22,2020-02-18,day,day,PD-1 monotherapy,US
+174561028,ipilimumab,194,2019-07-01,2020-01-11,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+174717642,nivolumab,14,2020-02-06,2020-02-20,day,day,COMBO (PD-[L]1 + CTLA-4),US
+174776102,nivolumab,47,2020-01-09,2020-02-25,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+174808911,nivolumab,42,2019-05-15,2019-06-26,day,day,PD-1 monotherapy,FR
+174852961,pembrolizumab,55,2019-11-01,2019-12-26,month,day,PD-1 monotherapy,DE
+174891281,nivolumab,5,2020-02-25,2020-03-01,day,day,COMBO (PD-[L]1 + CTLA-4),US
+174907752,nivolumab,59,2016-11-22,2017-01-20,day,day,PD-1 monotherapy,JP
+174984052,durvalumab,14,2019-09-18,2019-10-02,day,day,PD-L1 monotherapy,FR
+175030653,cemiplimab,114,2019-05-14,2019-09-05,day,day,PD-1 monotherapy,US
+175106911,pembrolizumab,132,2019-09-19,2020-01-29,day,day,PD-1 monotherapy,DK
+175163063,atezolizumab,154,2019-06-25,2019-11-26,day,day,PD-L1 monotherapy,FR
+175212611,pembrolizumab,35,2019-12-06,2020-01-10,day,day,PD-1 monotherapy,FR
+175298236,nivolumab,24,2020-01-31,2020-02-24,day,day,PD-1 monotherapy,DE
+175355691,nivolumab,47,2018-10-01,2018-11-17,month,day,PD-1 monotherapy,FR
+175390281,pembrolizumab,55,2019-11-01,2019-12-26,month,day,PD-1 monotherapy,DE
+175413952,atezolizumab,32,2019-08-08,2019-09-09,day,day,PD-L1 monotherapy,
+175526932,nivolumab,18,2020-01-06,2020-01-24,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+175686881,nivolumab,29,2019-08-22,2019-09-20,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+175930682,nivolumab,37,2020-01-30,2020-03-07,day,day,PD-1 monotherapy,US
+176032001,nivolumab,18,2020-02-20,2020-03-09,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+176069623,nivolumab,37,2020-01-30,2020-03-07,day,day,PD-1 monotherapy,US
+176084951,avelumab,44,2019-07-29,2019-09-11,day,day,PD-L1 monotherapy,FR
+176113463,nivolumab,37,2020-01-30,2020-03-07,day,day,PD-1 monotherapy,US
+176131652,pembrolizumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,US
+176211761,ipilimumab,19,2019-06-04,2019-06-23,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+176246761,nivolumab,5,2017-11-18,2017-11-23,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+176319921,pembrolizumab,33,2020-01-29,2020-03-02,day,day,PD-1 monotherapy,US
+176756922,pembrolizumab,84,2019-12-30,2020-03-23,day,day,PD-1 monotherapy,FR
+176804133,atezolizumab,563,2018-09-17,2020-04-02,day,day,PD-L1 monotherapy,DK
+176825353,pembrolizumab,28,2020-03-10,2020-04-07,day,day,PD-1 monotherapy,US
+176832582,nivolumab,28,2019-11-13,2019-12-11,day,day,PD-1 monotherapy,AU
+176837371,pembrolizumab,0,2019-01-01,2019-01-01,year,year,PD-1 monotherapy,DE
+176869353,nivolumab,31,2020-01-10,2020-02-10,day,day,COMBO (PD-[L]1 + CTLA-4),BE
+176869411,nivolumab,19,2020-02-11,2020-03-01,day,month,PD-1 monotherapy,FR
+176924831,durvalumab,36,2019-04-24,2019-05-30,day,day,PD-L1 monotherapy,US
+176988172,nivolumab,152,2019-10-30,2020-03-30,day,day,PD-1 monotherapy,FR
+177162241,ipilimumab,194,2019-07-01,2020-01-11,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+177199187,nivolumab,20,2020-03-20,2020-04-09,day,day,PD-1 monotherapy,CL
+177220661,pembrolizumab,36,2020-01-27,2020-03-03,day,day,PD-1 monotherapy,NO
+177454362,nivolumab,168,2019-10-01,2020-03-17,month,day,PD-1 monotherapy,FR
+177503185,pembrolizumab,120,2019-02-01,2019-06-01,month,day,PD-1 monotherapy,AT
+177615821,cemiplimab,22,2020-03-23,2020-04-14,day,day,PD-1 monotherapy,CH
+177632045,nivolumab,24,2020-02-03,2020-02-27,day,day,COMBO (PD-[L]1 + CTLA-4),US
+177661622,durvalumab,42,2019-01-28,2019-03-11,day,day,PD-L1 monotherapy,US
+177663862,pembrolizumab,84,2019-12-30,2020-03-23,day,day,PD-1 monotherapy,FR
+177665041,nivolumab,10,2020-02-26,2020-03-07,day,day,PD-1 monotherapy,US
+177681112,nivolumab,17,2020-01-21,2020-02-07,day,day,COMBO (PD-[L]1 + CTLA-4),BE
+177704921,pembrolizumab,55,2019-11-01,2019-12-26,month,day,PD-1 monotherapy,DE
+177856924,pembrolizumab,120,2019-02-01,2019-06-01,month,day,PD-1 monotherapy,AT
+177946191,nivolumab,21,2020-02-14,2020-03-06,day,day,PD-1 monotherapy,FR
+177955842,pembrolizumab,28,2020-03-10,2020-04-07,day,day,PD-1 monotherapy,US
+178027273,nivolumab,57,2020-03-10,2020-05-06,day,day,PD-1 monotherapy,US
+178173461,ipilimumab,16,2020-02-19,2020-03-06,day,day,COMBO (PD-[L]1 + CTLA-4),NO
+178212801,pembrolizumab,10,2020-04-03,2020-04-13,day,day,PD-1 monotherapy,FR
+178287411,atezolizumab,25,2019-06-06,2019-07-01,day,month,PD-L1 monotherapy,JP
+178409964,nivolumab,33,2020-04-17,2020-05-20,day,day,COMBO (PD-[L]1 + CTLA-4),TW
+178464782,pembrolizumab,30,2020-03-26,2020-04-25,day,day,PD-1 monotherapy,DE
+178475072,durvalumab,0,2020-04-03,2020-04-03,day,day,PD-L1 monotherapy,IT
+178717401,atezolizumab,171,2019-11-01,2020-04-20,month,day,PD-L1 monotherapy,FR
+178920611,ipilimumab,2,2020-04-29,2020-05-01,day,month,CTLA-4 monotherapy,DK
+179043061,nivolumab,18,2016-01-11,2016-01-29,day,day,PD-1 monotherapy,FR
+179095518,nivolumab,7,2020-06-01,2020-06-08,day,day,PD-1 monotherapy,JP
+179215832,nivolumab,6,2019-09-20,2019-09-26,day,day,COMBO (PD-[L]1 + CTLA-4),DK
+179261942,atezolizumab,36,2020-05-07,2020-06-12,day,day,PD-L1 monotherapy,US
+179460274,atezolizumab,5,2020-06-03,2020-06-08,day,day,PD-L1 monotherapy,JP
+179480288,nivolumab,45,2020-05-01,2020-06-15,day,day,PD-1 monotherapy,JP
+179629233,nivolumab,77,2020-03-04,2020-05-20,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+179708372,nivolumab,12,2019-09-20,2019-10-02,day,day,COMBO (PD-[L]1 + CTLA-4),DK
+179716292,pembrolizumab,182,2019-11-01,2020-05-01,month,month,PD-1 monotherapy,ES
+179762102,pembrolizumab,25,2019-09-23,2019-10-18,day,day,PD-1 monotherapy,FR
+179952541,pembrolizumab,84,2019-12-30,2020-03-23,day,day,PD-1 monotherapy,FR
+180064581,pembrolizumab,65,2020-02-01,2020-04-06,month,day,PD-1 monotherapy,FR
+180378323,nivolumab,16,2020-01-08,2020-01-24,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+180464042,pembrolizumab,25,2020-06-09,2020-07-04,day,day,PD-1 monotherapy,JP
+180513441,cemiplimab,14,2020-05-12,2020-05-26,day,day,PD-1 monotherapy,FR
+180773854,ipilimumab,16,2020-06-30,2020-07-16,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+180862391,pembrolizumab,15,2020-04-16,2020-05-01,day,month,PD-1 monotherapy,DE
+181097912,pembrolizumab,208,2019-01-05,2019-08-01,day,month,PD-1 monotherapy,CN
+181195431,pembrolizumab,59,2020-04-03,2020-06-01,day,month,PD-1 monotherapy,CN
+181211142,pembrolizumab,21,2020-03-30,2020-04-20,day,day,PD-1 monotherapy,KR
+181237502,dostarlimab,179,2019-07-15,2020-01-10,day,day,PD-1 monotherapy,US
+181431812,ipilimumab,42,2020-06-23,2020-08-04,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+181601562,pembrolizumab,0,2020-08-12,2020-08-12,day,day,PD-1 monotherapy,JP
+181605424,nivolumab,30,2020-07-02,2020-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+181645723,nivolumab,23,2020-07-14,2020-08-06,day,day,PD-1 monotherapy,IT
+181652873,nivolumab,85,2020-05-14,2020-08-07,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+181697091,pembrolizumab,0,2020-03-14,2020-03-14,day,day,PD-1 monotherapy,CN
+181726151,cemiplimab,16,2019-12-18,2020-01-03,day,day,PD-1 monotherapy,DE
+181869192,nivolumab,40,2020-06-03,2020-07-13,day,day,PD-1 monotherapy,IT
+181886343,nivolumab,20,2019-10-11,2019-10-31,day,day,PD-1 monotherapy,BE
+181958511,nivolumab,75,2020-01-06,2020-03-21,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+182056611,cemiplimab,35,2019-12-18,2020-01-22,day,day,PD-1 monotherapy,FR
+182140821,pembrolizumab,36,2018-12-27,2019-02-01,day,month,PD-1 monotherapy,DE
+182159602,durvalumab,41,2020-06-18,2020-07-29,day,day,PD-L1 monotherapy,NZ
+182245331,pembrolizumab,8,2020-06-23,2020-07-01,day,day,PD-1 monotherapy,CN
+182279731,pembrolizumab,36,2018-12-27,2019-02-01,day,month,PD-1 monotherapy,DE
+182343651,pembrolizumab,36,2018-12-27,2019-02-01,day,month,PD-1 monotherapy,DE
+182439702,nivolumab,25,2020-08-04,2020-08-29,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+182513527,nivolumab,14,2020-08-13,2020-08-27,day,day,PD-1 monotherapy,CZ
+182530131,pembrolizumab,62,2020-06-02,2020-08-03,day,day,PD-1 monotherapy,ES
+182559362,nivolumab,23,2020-07-14,2020-08-06,day,day,PD-1 monotherapy,IT
+182591095,nivolumab,7,2020-09-01,2020-09-08,day,day,PD-1 monotherapy,US
+182591897,ipilimumab,41,2020-07-16,2020-08-26,day,day,CTLA-4 monotherapy,DK
+182592081,nivolumab,12,2020-08-04,2020-08-16,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+182700212,avelumab,35,2020-05-06,2020-06-10,day,day,PD-L1 monotherapy,AU
+182766094,pembrolizumab,15,2019-08-21,2019-09-05,day,day,PD-1 monotherapy,JP
+182772192,dostarlimab,23,2020-08-17,2020-09-09,day,day,PD-1 monotherapy,US
+182856741,nivolumab,0,2020-08-12,2020-08-12,day,day,PD-1 monotherapy,FR
+182887151,nivolumab,328,2019-06-04,2020-04-27,day,day,PD-1 monotherapy,US
+183250771,nivolumab,8,2020-06-23,2020-07-01,day,month,PD-1 monotherapy,FR
+183256514,avelumab,79,2020-04-27,2020-07-15,day,day,PD-L1 monotherapy,DE
+183285972,atezolizumab,26,2020-08-05,2020-08-31,day,day,PD-L1 monotherapy,US
+183343661,cemiplimab,22,2020-09-01,2020-09-23,day,day,PD-1 monotherapy,FR
+183402225,ipilimumab,30,2020-07-02,2020-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+183404476,ipilimumab,28,2020-09-01,2020-09-29,day,day,CTLA-4 monotherapy,FR
+183471084,nivolumab,20,2019-10-03,2019-10-23,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+183540122,ipilimumab,67,2020-05-26,2020-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),US
+183660021,pembrolizumab,10,2020-09-03,2020-09-13,day,day,PD-1 monotherapy,FR
+183763301,pembrolizumab,204,2020-03-09,2020-09-29,day,day,PD-1 monotherapy,US
+183801022,cemiplimab,34,2020-08-28,2020-10-01,day,day,PD-1 monotherapy,FR
+183867691,pembrolizumab,32,2020-06-30,2020-08-01,day,month,PD-1 monotherapy,FR
+183882984,nivolumab,67,2020-05-26,2020-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),US
+183990712,nivolumab,13,2020-08-19,2020-09-01,day,month,PD-1 monotherapy,NO
+184012972,durvalumab,0,2020-01-16,2020-01-16,day,day,PD-L1 monotherapy,JP
+184083325,ipilimumab,17,2020-09-04,2020-09-21,day,day,COMBO (PD-[L]1 + CTLA-4),PL
+184170825,nivolumab,20,2020-09-16,2020-10-06,day,day,PD-1 monotherapy,GB
+184353635,atezolizumab,14,2020-08-26,2020-09-09,day,day,PD-L1 monotherapy,JP
+184426641,nivolumab,112,2020-02-10,2020-06-01,day,month,PD-1 monotherapy,NL
+184475771,nivolumab,445,2019-04-25,2020-07-13,day,day,PD-1 monotherapy,DE
+184507508,pembrolizumab,4,2020-09-23,2020-09-27,day,day,PD-1 monotherapy,JP
+184555051,atezolizumab,245,2019-06-01,2020-02-01,month,month,PD-L1 monotherapy,FR
+184738132,nivolumab,3,2020-09-28,2020-10-01,day,month,COMBO (PD-[L]1 + CTLA-4),US
+184845222,atezolizumab,182,2020-01-01,2020-07-01,year,day,PD-L1 monotherapy,JP
+184934713,atezolizumab,21,2020-07-24,2020-08-14,day,day,PD-L1 monotherapy,CN
+185143702,nivolumab,568,2019-03-13,2020-10-01,day,month,PD-1 monotherapy,SE
+185179842,atezolizumab,260,2019-09-16,2020-06-02,day,day,PD-L1 monotherapy,CN
+185193451,pembrolizumab,109,2020-07-06,2020-10-23,day,day,PD-1 monotherapy,FR
+185255093,atezolizumab,260,2019-09-16,2020-06-02,day,day,PD-L1 monotherapy,CN
+185338691,pembrolizumab,366,2019-08-01,2020-08-01,day,month,PD-1 monotherapy,DK
+185596678,nivolumab,21,2019-12-06,2019-12-27,day,day,PD-1 monotherapy,FR
+185642971,atezolizumab,12,2020-11-10,2020-11-22,day,day,PD-L1 monotherapy,US
+185673349,nivolumab,42,2020-10-08,2020-11-19,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+185723033,pembrolizumab,13,2020-01-08,2020-01-21,day,day,PD-1 monotherapy,JP
+185896482,nivolumab,28,2019-09-10,2019-10-08,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+185905485,pembrolizumab,116,2020-07-21,2020-11-14,day,day,PD-1 monotherapy,JP
+186348481,nivolumab,25,2020-08-10,2020-09-04,day,day,PD-1 monotherapy,DK
+186385551,pembrolizumab,10,2020-11-06,2020-11-16,day,day,PD-1 monotherapy,GB
+186391378,nivolumab,19,2020-11-10,2020-11-29,day,day,PD-1 monotherapy,FR
+186393741,pembrolizumab,19,2020-09-10,2020-09-29,day,day,PD-1 monotherapy,GB
+186551251,atezolizumab,44,2018-10-23,2018-12-06,day,day,PD-L1 monotherapy,US
+186969521,pembrolizumab,280,2020-02-24,2020-11-30,day,day,PD-1 monotherapy,FR
+187446516,atezolizumab,4,2020-11-11,2020-11-15,day,day,PD-L1 monotherapy,JP
+187803502,atezolizumab,31,2020-12-08,2021-01-08,day,day,PD-L1 monotherapy,JP
+187844231,atezolizumab,62,2019-09-10,2019-11-11,day,day,PD-L1 monotherapy,JP
+187938868,nivolumab,27,2020-12-23,2021-01-19,day,day,COMBO (PD-[L]1 + CTLA-4),US
+187991833,pembrolizumab,0,2020-10-01,2020-10-01,day,day,PD-1 monotherapy,JP
+188075061,nivolumab,20,2020-12-21,2021-01-10,day,day,PD-1 monotherapy,AT
+188100192,nivolumab,9,2020-12-15,2020-12-24,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+188124072,nivolumab,28,2019-09-10,2019-10-08,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+188502111,nivolumab,31,2020-11-13,2020-12-14,day,day,PD-1 monotherapy,FR
+188547259,atezolizumab,42,2020-12-21,2021-02-01,day,day,PD-L1 monotherapy,
+188604891,pembrolizumab,21,2020-12-16,2021-01-06,day,day,PD-1 monotherapy,NO
+188695811,nivolumab,20,2020-10-12,2020-11-01,day,month,COMBO (PD-[L]1 + CTLA-4),FR
+188698414,nivolumab,69,2020-11-27,2021-02-04,day,day,PD-1 monotherapy,GB
+188729502,pembrolizumab,24,2020-12-03,2020-12-27,day,day,PD-1 monotherapy,CH
+188847549,nivolumab,27,2020-12-23,2021-01-19,day,day,COMBO (PD-[L]1 + CTLA-4),US
+189170883,nivolumab,41,2020-11-24,2021-01-04,day,day,COMBO (PD-[L]1 + CTLA-4),BR
+189174234,nivolumab,252,2020-05-12,2021-01-19,day,day,PD-1 monotherapy,JP
+189203901,pembrolizumab,68,2020-09-03,2020-11-10,day,day,PD-1 monotherapy,TW
+189299872,ipilimumab,355,2019-12-12,2020-12-01,day,day,COMBO (PD-[L]1 + CTLA-4),SG
+189326515,atezolizumab,33,2021-01-07,2021-02-09,day,day,PD-L1 monotherapy,US
+189381022,pembrolizumab,81,2017-08-03,2017-10-23,day,day,PD-1 monotherapy,US
+189471601,atezolizumab,15,2020-12-10,2020-12-25,day,day,PD-L1 monotherapy,FR
+189528371,pembrolizumab,21,2020-12-16,2021-01-06,day,day,PD-1 monotherapy,NO
+189546401,pembrolizumab,387,2019-11-06,2020-11-27,day,day,PD-1 monotherapy,DE
+189617852,nivolumab,28,2021-01-05,2021-02-02,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+189667554,pembrolizumab,0,2020-06-10,2020-06-10,day,day,PD-1 monotherapy,JP
+190124494,nivolumab,0,2020-12-15,2020-12-15,day,day,PD-1 monotherapy,JP
+190141511,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+190182401,pembrolizumab,0,2021-01-25,2021-01-25,day,day,PD-1 monotherapy,FR
+190364811,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+190390387,ipilimumab,20,2019-09-27,2019-10-17,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+190417321,nivolumab,27,2020-01-14,2020-02-10,day,day,PD-1 monotherapy,NL
+190487801,ipilimumab,17,2020-11-17,2020-12-04,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+190567281,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+190612316,ipilimumab,21,2020-09-10,2020-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+190615292,pembrolizumab,0,2020-01-01,2020-01-01,year,day,PD-1 monotherapy,CA
+190653634,pembrolizumab,13,2019-11-20,2019-12-03,day,day,PD-1 monotherapy,US
+190653975,pembrolizumab,0,2019-11-06,2019-11-06,day,day,PD-1 monotherapy,US
+190663791,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+190703769,nivolumab,5,2020-08-03,2020-08-08,day,day,PD-1 monotherapy,JP
+190736732,atezolizumab,3,2021-03-02,2021-03-05,day,day,PD-L1 monotherapy,JP
+190772733,nivolumab,21,2020-12-10,2020-12-31,day,day,PD-1 monotherapy,JP
+191418844,ipilimumab,236,2020-08-12,2021-04-05,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+191423854,nivolumab,39,2021-01-06,2021-02-14,day,day,PD-1 monotherapy,US
+191461682,nivolumab,83,2020-12-16,2021-03-09,day,day,PD-1 monotherapy,US
+191561103,nivolumab,1,2020-10-12,2020-10-13,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+191602601,nivolumab,24,2018-10-17,2018-11-10,day,day,PD-1 monotherapy,ES
+191704997,ipilimumab,15,2021-03-04,2021-03-19,day,day,COMBO (PD-[L]1 + CTLA-4),CL
+191747011,nivolumab,5,2021-02-26,2021-03-03,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+192180832,nivolumab,59,2021-01-07,2021-03-07,day,day,PD-1 monotherapy,US
+192281955,ipilimumab,1,2021-03-11,2021-03-12,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+192443973,nivolumab,64,2021-03-01,2021-05-04,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+192469291,nivolumab,12,2021-04-28,2021-05-10,day,day,COMBO (PD-[L]1 + CTLA-4),US
+192502293,nivolumab,714,2017-07-17,2019-07-01,day,month,COMBO (PD-[L]1 + CTLA-4),BE
+192533381,pembrolizumab,0,2021-01-01,2021-01-01,year,year,PD-1 monotherapy,US
+192639562,pembrolizumab,0,2021-01-01,2021-01-01,month,year,PD-1 monotherapy,JP
+192717661,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+192930911,pembrolizumab,23,2021-04-07,2021-04-30,day,day,PD-1 monotherapy,US
+192966711,pembrolizumab,150,2018-05-04,2018-10-01,day,month,PD-1 monotherapy,CN
+193527441,ipilimumab,11,2021-01-29,2021-02-09,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+193608321,pembrolizumab,0,2019-05-24,2019-05-24,day,day,PD-1 monotherapy,CN
+193732861,avelumab,19,2021-02-10,2021-03-01,day,month,PD-L1 monotherapy,FR
+193736124,nivolumab,13,2021-05-11,2021-05-24,day,day,PD-1 monotherapy,JP
+193795113,nivolumab,1,2021-05-27,2021-05-28,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+193969621,avelumab,44,2021-04-07,2021-05-21,day,day,PD-L1 monotherapy,CA
+194076906,atezolizumab,7,2021-05-13,2021-05-20,day,day,PD-L1 monotherapy,JP
+194230952,nivolumab,28,2021-05-12,2021-06-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+194628454,nivolumab,81,2020-11-12,2021-02-01,day,month,COMBO (PD-[L]1 + CTLA-4),DE
+194950691,atezolizumab,572,2019-10-07,2021-05-01,day,month,PD-L1 monotherapy,ES
+195189851,nivolumab,21,2021-06-02,2021-06-23,day,day,PD-1 monotherapy,US
+195251647,nivolumab,35,2021-05-26,2021-06-30,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+195517462,pembrolizumab,8,2019-11-06,2019-11-14,day,day,PD-1 monotherapy,JP
+195661201,atezolizumab,77,2021-04-07,2021-06-23,day,day,PD-L1 monotherapy,JP
+195776961,pembrolizumab,125,2020-06-11,2020-10-14,day,day,PD-1 monotherapy,FR
+195824622,nivolumab,1,2021-06-23,2021-06-24,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+195887792,pembrolizumab,42,2021-04-20,2021-06-01,day,day,PD-1 monotherapy,FR
+195916091,pembrolizumab,218,2020-08-26,2021-04-01,day,month,PD-1 monotherapy,FR
+195955622,nivolumab,62,2020-07-01,2020-09-01,month,day,COMBO (PD-[L]1 + CTLA-4),BR
+196280831,pembrolizumab,218,2020-08-26,2021-04-01,day,month,PD-1 monotherapy,FR
+196541291,pembrolizumab,10,2021-03-22,2021-04-01,day,month,PD-1 monotherapy,FR
+196705737,nivolumab,25,2021-06-28,2021-07-23,day,day,PD-1 monotherapy,US
+196707677,nivolumab,15,2021-06-22,2021-07-07,day,day,PD-1 monotherapy,FR
+196752211,atezolizumab,137,2021-02-09,2021-06-26,day,day,PD-L1 monotherapy,NL
+196823121,atezolizumab,39,2021-04-30,2021-06-08,day,day,PD-L1 monotherapy,FR
+197016431,atezolizumab,39,2021-04-30,2021-06-08,day,day,PD-L1 monotherapy,FR
+197091231,atezolizumab,137,2021-02-09,2021-06-26,day,day,PD-L1 monotherapy,NL
+197091632,atezolizumab,39,2021-04-30,2021-06-08,day,day,PD-L1 monotherapy,FR
+197115791,pembrolizumab,86,2020-12-15,2021-03-11,day,day,PD-1 monotherapy,CH
+197167269,nivolumab,7,2020-12-25,2021-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+197292681,pembrolizumab,8,2021-01-25,2021-02-02,day,day,PD-1 monotherapy,FR
+197662816,nivolumab,5,2021-08-19,2021-08-24,day,day,PD-1 monotherapy,FR
+197882918,nivolumab,26,2021-07-30,2021-08-25,day,day,PD-1 monotherapy,US
+197941731,atezolizumab,87,2020-12-11,2021-03-08,day,day,PD-L1 monotherapy,JP
+198172734,nivolumab,42,2021-07-22,2021-09-02,day,day,PD-1 monotherapy,US
+198287252,pembrolizumab,0,2016-01-01,2016-01-01,year,year,PD-1 monotherapy,US
+198448191,nivolumab,17,2021-03-03,2021-03-20,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+198582044,atezolizumab,20,2021-08-10,2021-08-30,day,day,PD-L1 monotherapy,
+198732203,nivolumab,24,2020-12-10,2021-01-03,day,day,PD-1 monotherapy,JP
+198778362,nivolumab,108,2021-05-21,2021-09-06,day,day,PD-1 monotherapy,FR
+198869281,pembrolizumab,472,2020-03-13,2021-06-28,day,day,PD-1 monotherapy,IT
+198880631,nivolumab,37,2021-08-11,2021-09-17,day,day,PD-1 monotherapy,US
+198895531,durvalumab,92,2020-06-01,2020-09-01,month,month,PD-L1 monotherapy,IT
+198938501,pembrolizumab,5,2021-06-28,2021-07-03,day,day,PD-1 monotherapy,FR
+198952621,nivolumab,246,2020-02-26,2020-10-29,day,day,PD-1 monotherapy,US
+199087704,nivolumab,21,2021-06-16,2021-07-07,day,day,PD-1 monotherapy,JP
+199133664,ipilimumab,62,2020-09-15,2020-11-16,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+199205304,nivolumab,9,2021-08-18,2021-08-27,day,day,PD-1 monotherapy,AU
+199326951,atezolizumab,101,2021-01-05,2021-04-16,day,day,PD-L1 monotherapy,US
+199347411,nivolumab,20,2021-08-13,2021-09-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+199358461,nivolumab,142,2021-01-27,2021-06-18,day,day,PD-1 monotherapy,FR
+199370321,atezolizumab,281,2020-10-15,2021-07-23,day,day,PD-L1 monotherapy,FR
+199386281,atezolizumab,281,2020-10-15,2021-07-23,day,day,PD-L1 monotherapy,FR
+199394681,pembrolizumab,33,2021-06-07,2021-07-10,day,day,PD-1 monotherapy,FR
+199471801,pembrolizumab,19,2021-03-10,2021-03-29,day,day,PD-1 monotherapy,FR
+199517881,pembrolizumab,35,2021-05-20,2021-06-24,day,day,PD-1 monotherapy,FR
+199576147,nivolumab,71,2021-07-28,2021-10-07,day,day,PD-1 monotherapy,CA
+199660361,atezolizumab,0,2020-10-15,2020-10-15,day,day,PD-L1 monotherapy,FR
+199769626,nivolumab,30,2021-08-30,2021-09-29,day,day,PD-1 monotherapy,JP
+199983672,pembrolizumab,69,2021-06-22,2021-08-30,day,day,PD-1 monotherapy,FR
+200165221,pembrolizumab,22,2021-06-02,2021-06-24,day,day,PD-1 monotherapy,
+200190151,atezolizumab,413,2020-07-01,2021-08-18,month,day,PD-L1 monotherapy,FR
+200202938,nivolumab,20,2021-09-07,2021-09-27,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+200209191,atezolizumab,137,2021-02-09,2021-06-26,day,day,PD-L1 monotherapy,NL
+200235629,nivolumab,13,2020-11-17,2020-11-30,day,day,PD-1 monotherapy,JP
+200324763,pembrolizumab,16,2021-10-04,2021-10-20,day,day,PD-1 monotherapy,GB
+200365742,atezolizumab,8,2020-02-07,2020-02-15,day,day,PD-L1 monotherapy,JP
+200366141,atezolizumab,413,2020-07-01,2021-08-18,month,day,PD-L1 monotherapy,
+200390671,atezolizumab,413,2020-07-01,2021-08-18,month,day,PD-L1 monotherapy,FR
+200499592,pembrolizumab,84,2021-04-08,2021-07-01,day,day,PD-1 monotherapy,NO
+200609421,atezolizumab,20,2021-10-05,2021-10-25,day,day,PD-L1 monotherapy,JP
+200612341,durvalumab,479,2019-10-22,2021-02-12,day,day,PD-L1 monotherapy,
+200623093,nivolumab,28,2021-07-20,2021-08-17,day,day,PD-1 monotherapy,JP
+200746485,cemiplimab,28,2021-10-14,2021-11-11,day,day,PD-1 monotherapy,US
+200755871,ipilimumab,18,2021-09-27,2021-10-15,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+200959771,atezolizumab,21,2021-04-30,2021-05-21,day,day,PD-L1 monotherapy,
+201024801,durvalumab,11,2021-09-20,2021-10-01,day,day,PD-L1 monotherapy,
+201027975,nivolumab,23,2020-07-29,2020-08-21,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+201196711,nivolumab,134,2021-06-08,2021-10-20,day,day,PD-1 monotherapy,CN
+201325981,pembrolizumab,0,2021-01-01,2021-01-01,year,day,PD-1 monotherapy,BE
+201430972,nivolumab,34,2020-12-31,2021-02-03,day,day,PD-1 monotherapy,IT
+201533663,nivolumab,21,2021-07-29,2021-08-19,day,day,PD-1 monotherapy,US
+201662875,durvalumab,9,2021-11-15,2021-11-24,day,day,COMBO (PD-[L]1 + CTLA-4),
+201723892,nivolumab,18,2021-11-10,2021-11-28,day,day,COMBO (PD-[L]1 + CTLA-4),US
+201774602,nivolumab,114,2021-08-16,2021-12-08,day,day,PD-1 monotherapy,FR
+201779152,nivolumab,44,2021-06-08,2021-07-22,day,day,PD-1 monotherapy,DE
+201886852,nivolumab,526,2016-12-22,2018-06-01,day,day,PD-1 monotherapy,JP
+201953542,nivolumab,14,2019-05-24,2019-06-07,day,day,PD-1 monotherapy,NL
+202024932,cemiplimab,47,2021-10-14,2021-11-30,day,day,PD-1 monotherapy,GB
+202166411,pembrolizumab,48,2021-07-22,2021-09-08,day,day,PD-1 monotherapy,
+202187031,nivolumab,21,2021-09-09,2021-09-30,day,day,PD-1 monotherapy,CN
+202249803,nivolumab,91,2021-09-15,2021-12-15,day,day,PD-1 monotherapy,ES
+202283153,ipilimumab,27,2020-08-05,2020-09-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+202326951,avelumab,57,2021-09-07,2021-11-03,day,day,PD-L1 monotherapy,
+202340361,ipilimumab,21,2021-08-04,2021-08-25,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+202457164,atezolizumab,13,2021-12-07,2021-12-20,day,day,PD-L1 monotherapy,
+202574721,pembrolizumab,29,2021-03-22,2021-04-20,day,day,PD-1 monotherapy,FR
+202875511,atezolizumab,42,2021-08-05,2021-09-16,day,day,PD-L1 monotherapy,FR
+202916032,nivolumab,25,2021-09-03,2021-09-28,day,day,PD-1 monotherapy,ES
+202970744,ipilimumab,2,2021-05-18,2021-05-20,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+203000741,atezolizumab,42,2021-08-05,2021-09-16,day,day,PD-L1 monotherapy,FR
+203043021,pembrolizumab,40,2021-09-30,2021-11-09,day,day,PD-1 monotherapy,PT
+203117171,pembrolizumab,105,2021-08-18,2021-12-01,day,day,PD-1 monotherapy,DK
+203220922,atezolizumab,0,2021-08-05,2021-08-05,day,day,PD-L1 monotherapy,FR
+203302983,nivolumab,38,2018-01-11,2018-02-18,day,day,PD-1 monotherapy,IT
+203320581,pembrolizumab,25,2021-11-19,2021-12-14,day,day,PD-1 monotherapy,FR
+203398233,nivolumab,25,2021-11-12,2021-12-07,day,day,PD-1 monotherapy,IT
+203648351,atezolizumab,115,2021-09-07,2021-12-31,day,day,PD-L1 monotherapy,FR
+203721111,pembrolizumab,23,2021-12-09,2022-01-01,day,day,PD-1 monotherapy,GB
+203771462,pembrolizumab,23,2021-12-09,2022-01-01,day,day,PD-1 monotherapy,GB
+203833982,atezolizumab,115,2021-09-07,2021-12-31,day,day,PD-L1 monotherapy,FR
+203834161,nivolumab,48,2018-01-01,2018-02-18,month,day,PD-1 monotherapy,IT
+203856291,pembrolizumab,22,2021-12-10,2022-01-01,day,day,PD-1 monotherapy,CN
+203889591,atezolizumab,115,2021-09-07,2021-12-31,day,day,PD-L1 monotherapy,FR
+204565152,atezolizumab,77,2020-06-05,2020-08-21,day,day,PD-L1 monotherapy,
+204599713,atezolizumab,8,2022-01-18,2022-01-26,day,day,PD-L1 monotherapy,
+204629726,nivolumab,28,2022-01-04,2022-02-01,day,day,PD-1 monotherapy,US
+204752744,nivolumab,116,2020-10-09,2021-02-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+204786382,nivolumab,116,2020-10-09,2021-02-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+204822694,nivolumab,116,2020-10-09,2021-02-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+204923602,atezolizumab,14,2022-01-13,2022-01-27,day,day,PD-L1 monotherapy,JP
+204944243,atezolizumab,25,2021-12-01,2021-12-26,day,day,PD-L1 monotherapy,FR
+205424923,atezolizumab,297,2020-09-05,2021-06-29,day,day,PD-L1 monotherapy,JP
+205609634,pembrolizumab,3,2021-04-09,2021-04-12,day,day,PD-1 monotherapy,JP
+205717501,atezolizumab,251,2021-02-18,2021-10-27,day,day,PD-L1 monotherapy,FR
+205729887,pembrolizumab,21,2022-01-18,2022-02-08,day,day,PD-1 monotherapy,JP
+205793473,avelumab,1,2021-09-30,2021-10-01,day,day,PD-L1 monotherapy,
+205801201,atezolizumab,251,2021-02-18,2021-10-27,day,day,PD-L1 monotherapy,FR
+205849943,nivolumab,120,2021-11-04,2022-03-04,day,day,PD-1 monotherapy,US
+205872683,ipilimumab,145,2021-04-09,2021-09-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+205915501,pembrolizumab,0,2021-09-09,2021-09-09,day,day,PD-1 monotherapy,CN
+205988791,nivolumab,32,2021-12-17,2022-01-18,day,day,PD-1 monotherapy,ES
+206088301,pembrolizumab,125,2021-09-29,2022-02-01,day,day,PD-1 monotherapy,CN
+206095423,atezolizumab,21,2021-12-06,2021-12-27,day,day,PD-L1 monotherapy,
+206205704,dostarlimab,447,2020-12-15,2022-03-07,day,day,PD-1 monotherapy,FR
+206249661,pembrolizumab,21,2022-02-14,2022-03-07,day,day,PD-1 monotherapy,IT
+206317401,pembrolizumab,402,2019-06-26,2020-08-01,day,day,PD-1 monotherapy,CN
+206355092,nivolumab,196,2021-08-27,2022-03-11,day,day,PD-1 monotherapy,CN
+206403451,nivolumab,108,2021-12-01,2022-03-19,month,day,COMBO (PD-[L]1 + CTLA-4),US
+206469351,nivolumab,377,2021-01-27,2022-02-08,day,day,PD-1 monotherapy,ES
+206522481,nivolumab,28,2021-04-23,2021-05-21,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+206637767,pembrolizumab,0,2022-03-04,2022-03-04,day,day,PD-1 monotherapy,JP
+206642681,pembrolizumab,92,2021-09-02,2021-12-03,day,day,PD-1 monotherapy,FR
+206651913,pembrolizumab,213,2019-09-01,2020-04-01,month,day,PD-1 monotherapy,JP
+206674934,nivolumab,353,2021-03-30,2022-03-18,day,day,PD-1 monotherapy,US
+206838051,tislelizumab,79,2021-12-15,2022-03-04,day,day,PD-1 monotherapy,
+207052201,pembrolizumab,52,2021-04-29,2021-06-20,day,day,PD-1 monotherapy,ES
+207208641,pembrolizumab,25,2022-01-17,2022-02-11,day,day,PD-1 monotherapy,
+207233713,atezolizumab,183,2021-08-31,2022-03-02,day,day,PD-L1 monotherapy,JP
+207383562,pembrolizumab,13,2021-02-16,2021-03-01,day,day,PD-1 monotherapy,JP
+207432051,nivolumab,28,2022-01-25,2022-02-22,day,day,COMBO (PD-[L]1 + CTLA-4),US
+207465713,pembrolizumab,37,2022-02-21,2022-03-30,day,day,PD-1 monotherapy,JP
+207480231,atezolizumab,45,2021-10-19,2021-12-03,day,day,PD-L1 monotherapy,JP
+207481485,atezolizumab,2,2022-01-14,2022-01-16,day,day,PD-L1 monotherapy,
+207573537,pembrolizumab,43,2022-02-22,2022-04-06,day,day,PD-1 monotherapy,JP
+207810623,atezolizumab,61,2021-04-27,2021-06-27,day,day,PD-L1 monotherapy,JP
+207818753,ipilimumab,42,2022-01-18,2022-03-01,day,day,COMBO (PD-[L]1 + CTLA-4),CZ
+207844631,nivolumab,19,2022-03-11,2022-03-30,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+207847531,cemiplimab,59,2022-01-18,2022-03-18,day,day,PD-1 monotherapy,ES
+207924913,atezolizumab,90,2021-12-01,2022-03-01,day,day,PD-L1 monotherapy,
+207965151,nivolumab,32,2021-12-17,2022-01-18,day,day,PD-1 monotherapy,ES
+208007171,nivolumab,24,2022-02-08,2022-03-04,day,day,PD-1 monotherapy,FR
+208015005,atezolizumab,294,2021-07-13,2022-05-03,day,day,PD-L1 monotherapy,
+208238071,atezolizumab,30,2021-06-01,2021-07-01,day,day,PD-L1 monotherapy,
+208297062,pembrolizumab,91,2021-10-20,2022-01-19,day,day,PD-1 monotherapy,US
+208360091,ipilimumab,31,2021-07-01,2021-08-01,month,day,COMBO (PD-[L]1 + CTLA-4),DE
+208530452,nivolumab,84,2021-11-24,2022-02-16,day,day,PD-1 monotherapy,JP
+208590031,atezolizumab,30,2021-06-01,2021-07-01,day,day,PD-L1 monotherapy,BE
+208653596,atezolizumab,34,2022-02-09,2022-03-15,day,day,PD-L1 monotherapy,JP
+208668072,pembrolizumab,35,2022-02-07,2022-03-14,day,day,PD-1 monotherapy,JP
+208672631,atezolizumab,30,2021-06-01,2021-07-01,day,day,PD-L1 monotherapy,BE
+208693084,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,JP
+208762801,nivolumab,15,2021-09-22,2021-10-07,day,day,PD-1 monotherapy,AU
+208834354,atezolizumab,20,2022-04-27,2022-05-17,day,day,PD-L1 monotherapy,
+208954643,atezolizumab,20,2020-11-03,2020-11-23,day,day,PD-L1 monotherapy,
+209072511,pembrolizumab,20,2022-02-15,2022-03-07,day,day,PD-1 monotherapy,FR
+209166242,pembrolizumab,6,2022-05-17,2022-05-23,day,day,PD-1 monotherapy,JP
+209234138,pembrolizumab,5,2022-04-26,2022-05-01,day,day,PD-1 monotherapy,JP
+209302262,nivolumab,69,2021-11-24,2022-02-01,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+209553234,nivolumab,80,2021-11-25,2022-02-13,day,day,PD-1 monotherapy,JP
+209644264,pembrolizumab,13,2022-05-17,2022-05-30,day,day,PD-1 monotherapy,JP
+209644775,pembrolizumab,43,2022-02-22,2022-04-06,day,day,PD-1 monotherapy,JP
+209666521,nivolumab,134,2021-06-09,2021-10-21,day,day,PD-1 monotherapy,
+209674021,nivolumab,52,2021-10-29,2021-12-20,day,day,PD-1 monotherapy,JP
+209839114,nivolumab,69,2022-01-18,2022-03-28,day,day,COMBO (PD-[L]1 + CTLA-4),CZ
+209908934,pembrolizumab,4,2022-05-27,2022-05-31,day,day,PD-1 monotherapy,JP
+209940153,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,JP
+209952891,pembrolizumab,68,2022-03-15,2022-05-22,day,day,PD-1 monotherapy,FR
+209992821,durvalumab,50,2022-03-08,2022-04-27,day,day,PD-1 monotherapy,FR
+210073303,atezolizumab,8,2022-05-17,2022-05-25,day,day,PD-L1 monotherapy,JP
+210278281,nivolumab,117,2022-02-14,2022-06-11,day,day,PD-1 monotherapy,CH
+210406719,pembrolizumab,1,2022-06-07,2022-06-08,day,day,PD-1 monotherapy,JP
+210417512,nivolumab,25,2022-04-06,2022-05-01,day,day,PD-1 monotherapy,US
+210489935,pembrolizumab,1,2022-06-07,2022-06-08,day,day,PD-1 monotherapy,JP
+210524121,nivolumab,0,2022-03-28,2022-03-28,day,day,PD-1 monotherapy,
+210595602,pembrolizumab,8,2021-12-12,2021-12-20,day,day,PD-1 monotherapy,
+210783872,pembrolizumab,26,2022-04-14,2022-05-10,day,day,PD-1 monotherapy,FR
+210852851,pembrolizumab,12,2022-06-22,2022-07-04,day,day,PD-1 monotherapy,JP
+210866304,atezolizumab,18,2022-06-13,2022-07-01,day,day,PD-L1 monotherapy,
+210968541,atezolizumab,19,2021-12-17,2022-01-05,day,day,PD-L1 monotherapy,JP
+211083593,atezolizumab,14,2022-05-03,2022-05-17,day,day,PD-L1 monotherapy,
+211085851,nivolumab,14,2022-04-27,2022-05-11,day,day,COMBO (PD-[L]1 + CTLA-4),US
+211235172,nivolumab,25,2022-06-14,2022-07-09,day,day,PD-1 monotherapy,JP
+211288585,atezolizumab,230,2021-11-12,2022-06-30,day,day,PD-L1 monotherapy,
+211356602,atezolizumab,86,2022-03-29,2022-06-23,day,day,PD-L1 monotherapy,
+211556391,durvalumab,50,2022-03-08,2022-04-27,day,day,PD-1 monotherapy,FR
+211724812,pembrolizumab,18,2022-04-13,2022-05-01,day,day,PD-1 monotherapy,CH
+211743852,nivolumab,40,2022-06-10,2022-07-20,day,day,PD-1 monotherapy,FR
+211903694,ipilimumab,21,2022-05-25,2022-06-15,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+212059611,ipilimumab,112,2022-04-13,2022-08-03,day,day,COMBO (PD-[L]1 + CTLA-4),US
+212124521,nivolumab,45,2022-05-23,2022-07-07,day,day,PD-1 monotherapy,
+212283063,cemiplimab,41,2022-06-29,2022-08-09,day,day,PD-1 monotherapy,CL
+212323225,pembrolizumab,6,2022-08-02,2022-08-08,day,day,PD-1 monotherapy,JP
+212389342,ipilimumab,41,2022-06-22,2022-08-02,day,day,COMBO (PD-[L]1 + CTLA-4),US
+212437352,atezolizumab,8,2022-07-27,2022-08-04,day,day,PD-L1 monotherapy,JP
+212459109,pembrolizumab,6,2022-08-02,2022-08-08,day,day,PD-1 monotherapy,JP
+212483431,nivolumab,9,2019-11-09,2019-11-18,day,day,PD-1 monotherapy,FR
+212521032,nivolumab,17,2022-07-15,2022-08-01,day,day,PD-1 monotherapy,JP
+212574963,nivolumab,40,2022-06-22,2022-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),US
+212631531,nivolumab,217,2019-08-02,2020-03-06,day,day,PD-1 monotherapy,FR
+212685597,pembrolizumab,1,2022-06-30,2022-07-01,day,day,PD-1 monotherapy,JP
+212695113,atezolizumab,7,2022-08-05,2022-08-12,day,day,PD-L1 monotherapy,JP
+212740142,pembrolizumab,31,2021-12-01,2022-01-01,month,day,PD-1 monotherapy,JP
+212747691,nivolumab,24,2022-07-08,2022-08-01,day,day,COMBO (PD-[L]1 + CTLA-4),
+212750804,pembrolizumab,1,2022-06-30,2022-07-01,day,day,PD-1 monotherapy,JP
+212864501,pembrolizumab,0,2018-11-21,2018-11-21,day,day,PD-1 monotherapy,CN
+212868062,atezolizumab,245,2021-11-12,2022-07-15,day,day,PD-L1 monotherapy,
+212920861,atezolizumab,14,2022-08-05,2022-08-19,day,day,PD-L1 monotherapy,JP
+212931931,nivolumab,227,2020-08-13,2021-03-28,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+212946802,nivolumab,22,2022-07-25,2022-08-16,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+213126901,pembrolizumab,21,2022-08-12,2022-09-02,day,day,PD-1 monotherapy,
+213223389,nivolumab,63,2022-06-07,2022-08-09,day,day,PD-1 monotherapy,JP
+213332641,pembrolizumab,8,2022-07-13,2022-07-21,day,day,PD-1 monotherapy,PL
+213426993,atezolizumab,240,2021-12-17,2022-08-14,day,day,PD-L1 monotherapy,JP
+213567874,nivolumab,76,2022-06-09,2022-08-24,day,day,PD-1 monotherapy,AR
+213741093,nivolumab,104,2022-03-16,2022-06-28,day,day,PD-1 monotherapy,EU
+213741762,tislelizumab,52,2022-07-28,2022-09-18,day,day,PD-1 monotherapy,CN
+213771901,durvalumab,142,2021-12-17,2022-05-08,day,day,PD-L1 monotherapy,
+213775242,ipilimumab,9,2022-09-02,2022-09-11,day,day,COMBO (PD-[L]1 + CTLA-4),US
+213792172,nivolumab,18,2022-08-26,2022-09-13,day,day,PD-1 monotherapy,DE
+213819082,avelumab,14,2022-08-24,2022-09-07,day,day,PD-L1 monotherapy,FR
+213978631,cemiplimab,65,2019-05-13,2019-07-17,day,day,PD-1 monotherapy,FR
+214003221,ipilimumab,13,2022-09-08,2022-09-21,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+214041322,pembrolizumab,22,2022-06-03,2022-06-25,day,day,PD-1 monotherapy,IE
+214088805,nivolumab,91,2022-06-22,2022-09-21,day,day,PD-1 monotherapy,US
+214118241,pembrolizumab,20,2022-08-26,2022-09-15,day,day,PD-1 monotherapy,CN
+214219127,ipilimumab,0,2020-10-01,2020-10-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+214361921,nivolumab,25,2022-07-29,2022-08-23,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+214368291,pembrolizumab,20,2022-08-26,2022-09-15,day,day,PD-1 monotherapy,
+214376311,toripalimab,23,2020-02-18,2020-03-12,day,day,PD-1 monotherapy,CN
+214457261,ipilimumab,13,2022-09-08,2022-09-21,day,day,COMBO (PD-[L]1 + CTLA-4),
+214477282,pembrolizumab,20,2022-07-07,2022-07-27,day,day,PD-1 monotherapy,FR
+214513061,ipilimumab,40,2020-06-23,2020-08-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+214521174,pembrolizumab,30,2021-11-01,2021-12-01,month,day,PD-1 monotherapy,JP
+214533912,pembrolizumab,28,2022-08-24,2022-09-21,day,day,PD-1 monotherapy,FR
+214540942,pembrolizumab,153,2021-09-01,2022-02-01,month,day,PD-1 monotherapy,JP
+214549761,nivolumab,23,2022-08-09,2022-09-01,day,day,PD-1 monotherapy,HR
+214577192,nivolumab,201,2022-03-24,2022-10-11,day,day,PD-1 monotherapy,AU
+214624786,nivolumab,103,2021-06-22,2021-10-03,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+214625668,ipilimumab,97,2021-06-10,2021-09-15,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+214661352,nivolumab,80,2021-11-25,2022-02-13,day,day,PD-1 monotherapy,JP
+214720922,durvalumab,32,2022-08-19,2022-09-20,day,day,PD-L1 monotherapy,
+214779842,nivolumab,112,2022-06-10,2022-09-30,day,day,PD-1 monotherapy,FR
+214808841,atezolizumab,8,2022-07-27,2022-08-04,day,day,PD-L1 monotherapy,JP
+214851061,nivolumab,89,2022-07-21,2022-10-18,day,day,PD-1 monotherapy,
+214851071,nivolumab,35,2022-08-30,2022-10-04,day,day,PD-1 monotherapy,
+214858491,nivolumab,42,2022-07-01,2022-08-12,day,day,PD-1 monotherapy,
+214961801,pembrolizumab,8,2022-07-13,2022-07-21,day,day,PD-1 monotherapy,PL
+214974071,nivolumab,20,2021-06-01,2021-06-21,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+215029266,pembrolizumab,58,2022-02-01,2022-03-31,day,day,PD-1 monotherapy,JP
+215032371,nivolumab,0,2022-10-06,2022-10-06,day,day,COMBO (PD-[L]1 + CTLA-4),
+215033032,pembrolizumab,141,2022-04-14,2022-09-02,day,day,PD-1 monotherapy,FR
+215074461,pembrolizumab,9,2022-08-11,2022-08-20,day,day,PD-1 monotherapy,FR
+215085011,pembrolizumab,0,2021-11-01,2021-11-01,month,day,PD-1 monotherapy,JP
+215111841,atezolizumab,12,2022-08-08,2022-08-20,day,day,PD-L1 monotherapy,
+215211721,ipilimumab,28,2022-08-11,2022-09-08,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+215261572,pembrolizumab,141,2022-04-14,2022-09-02,day,day,PD-1 monotherapy,FR
+215286382,atezolizumab,0,2022-08-17,2022-08-17,day,day,PD-L1 monotherapy,JP
+215302063,ipilimumab,21,2022-02-04,2022-02-25,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+215314322,pembrolizumab,141,2022-04-14,2022-09-02,day,day,PD-1 monotherapy,FR
+215315223,nivolumab,7,2020-02-20,2020-02-27,day,day,PD-1 monotherapy,JP
+215372995,nivolumab,12,2022-10-06,2022-10-18,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+215374843,pembrolizumab,32,2022-09-22,2022-10-24,day,day,PD-1 monotherapy,JP
+215470224,ipilimumab,15,2022-10-06,2022-10-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+215508461,avelumab,0,2022-08-01,2022-08-01,month,day,PD-L1 monotherapy,
+215556492,pembrolizumab,141,2022-04-14,2022-09-02,day,day,PD-1 monotherapy,FR
+215563891,nivolumab,122,2022-06-29,2022-10-29,day,day,PD-1 monotherapy,
+215947112,nivolumab,142,2022-05-01,2022-09-20,month,day,COMBO (PD-[L]1 + CTLA-4),ES
+215973771,ipilimumab,15,2022-10-10,2022-10-25,day,day,COMBO (PD-[L]1 + CTLA-4),
+216046033,nivolumab,52,2021-10-29,2021-12-20,day,day,PD-1 monotherapy,JP
+216099032,nivolumab,45,2022-09-26,2022-11-10,day,day,PD-1 monotherapy,NL
+216153061,pembrolizumab,21,2022-08-11,2022-09-01,day,day,PD-1 monotherapy,FR
+216185302,pembrolizumab,147,2022-04-29,2022-09-23,day,day,PD-1 monotherapy,SI
+216207861,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,JP
+216241662,pembrolizumab,20,2020-02-17,2020-03-08,day,day,PD-1 monotherapy,CH
+216296701,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,ES
+216341625,pembrolizumab,7,2022-10-25,2022-11-01,day,day,PD-1 monotherapy,JP
+216385344,nivolumab,27,2022-09-29,2022-10-26,day,day,PD-1 monotherapy,EU
+216417422,ipilimumab,67,2022-04-07,2022-06-13,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+216506004,avelumab,26,2022-10-05,2022-10-31,day,day,PD-L1 monotherapy,
+216530691,nivolumab,39,2022-09-01,2022-10-10,month,day,COMBO (PD-[L]1 + CTLA-4),DE
+216545201,pembrolizumab,5,2022-10-27,2022-11-01,day,day,PD-1 monotherapy,GB
+216639792,ipilimumab,6,2021-09-28,2021-10-04,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+216804674,pembrolizumab,120,2019-02-01,2019-06-01,month,day,PD-1 monotherapy,AT
+216924711,nivolumab,27,2022-10-18,2022-11-14,day,day,PD-1 monotherapy,FR
+216954032,pembrolizumab,19,2022-10-14,2022-11-02,day,day,PD-1 monotherapy,FR
+216969101,nivolumab,37,2022-10-10,2022-11-16,day,day,PD-1 monotherapy,FR
+216980011,ipilimumab,28,2020-10-15,2020-11-12,day,day,COMBO (PD-[L]1 + CTLA-4),BE
+217009772,durvalumab,27,2022-04-20,2022-05-17,day,day,PD-L1 monotherapy,
+217011951,pembrolizumab,21,2021-09-26,2021-10-17,day,day,PD-1 monotherapy,CN
+217020801,pembrolizumab,0,2022-11-17,2022-11-17,day,day,PD-1 monotherapy,CN
+217021361,nivolumab,477,2021-08-10,2022-11-30,day,day,PD-1 monotherapy,US
+217026341,ipilimumab,39,2022-10-14,2022-11-22,day,day,COMBO (PD-[L]1 + CTLA-4),US
+217077591,tislelizumab,20,2022-11-09,2022-11-29,day,day,PD-1 monotherapy,CN
+217144801,pembrolizumab,375,2020-03-02,2021-03-12,day,day,PD-1 monotherapy,HR
+217183791,nivolumab,40,2022-09-23,2022-11-02,day,day,PD-1 monotherapy,FR
+217207212,pembrolizumab,91,2022-05-31,2022-08-30,day,day,PD-1 monotherapy,JP
+217282822,pembrolizumab,120,2019-02-01,2019-06-01,month,day,PD-1 monotherapy,AT
+217315723,atezolizumab,249,2022-01-21,2022-09-27,day,day,PD-L1 monotherapy,
+217325262,atezolizumab,8,2022-08-30,2022-09-07,day,day,PD-L1 monotherapy,
+217402201,pembrolizumab,10,2022-10-10,2022-10-20,day,day,PD-1 monotherapy,IT
+217481663,pembrolizumab,151,2019-01-01,2019-06-01,year,day,PD-1 monotherapy,AT
+217487801,ipilimumab,122,2021-06-01,2021-10-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+217638243,nivolumab,13,2022-11-15,2022-11-28,day,day,COMBO (PD-[L]1 + CTLA-4),CA
+217666411,pembrolizumab,65,2021-06-11,2021-08-15,day,day,PD-1 monotherapy,CN
+217671791,nivolumab,20,2022-11-04,2022-11-24,day,day,PD-1 monotherapy,FR
+218006901,durvalumab,34,2022-08-19,2022-09-22,day,day,PD-L1 monotherapy,
+218171461,pembrolizumab,224,2022-05-17,2022-12-27,day,day,PD-1 monotherapy,IT
+218327826,nivolumab,14,2022-11-30,2022-12-14,day,day,PD-1 monotherapy,ES
+218392812,pembrolizumab,130,2022-05-30,2022-10-07,day,day,PD-1 monotherapy,IT
+218503172,nivolumab,334,2022-01-01,2022-12-01,year,day,COMBO (PD-[L]1 + CTLA-4),US
+218516758,ipilimumab,11,2022-12-27,2023-01-07,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+218590311,pembrolizumab,120,2019-02-01,2019-06-01,month,day,PD-1 monotherapy,AT
+218612303,nivolumab,0,2022-12-02,2022-12-02,day,day,PD-1 monotherapy,JP
+218672521,ipilimumab,0,2022-11-28,2022-11-28,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+218695155,atezolizumab,25,2022-12-16,2023-01-10,day,day,PD-L1 monotherapy,
+218952923,nivolumab,154,2022-01-06,2022-06-09,day,day,PD-1 monotherapy,JP
+218970571,atezolizumab,250,2021-08-04,2022-04-11,day,day,PD-L1 monotherapy,
+219014191,nivolumab,0,2022-12-02,2022-12-02,day,day,PD-1 monotherapy,JP
+219056961,avelumab,15,2021-02-08,2021-02-23,day,day,PD-L1 monotherapy,
+219154167,atezolizumab,425,2020-12-16,2022-02-14,day,day,PD-L1 monotherapy,
+219180013,pembrolizumab,3,2022-11-28,2022-12-01,day,day,PD-1 monotherapy,US
+219271286,pembrolizumab,20,2022-11-15,2022-12-05,day,day,PD-1 monotherapy,FR
+219318313,pembrolizumab,20,2022-11-15,2022-12-05,day,day,PD-1 monotherapy,FR
+219618551,nivolumab,15,2022-12-14,2022-12-29,day,day,PD-1 monotherapy,FR
+219647811,pembrolizumab,22,2022-11-29,2022-12-21,day,day,PD-1 monotherapy,CN
+219654684,ipilimumab,25,2023-01-01,2023-01-26,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+219695382,pembrolizumab,0,2022-01-01,2022-01-01,month,day,PD-1 monotherapy,JP
+219742552,ipilimumab,18,2023-01-05,2023-01-23,day,day,COMBO (PD-[L]1 + CTLA-4),US
+219743243,nivolumab,56,2022-07-08,2022-09-02,day,day,PD-1 monotherapy,IT
+220060041,nivolumab,138,2022-09-01,2023-01-17,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+220066361,durvalumab,6,2023-01-10,2023-01-16,day,day,PD-L1 monotherapy,FR
+220074581,nivolumab,138,2022-09-01,2023-01-17,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+220195971,durvalumab,6,2023-01-10,2023-01-16,day,day,PD-L1 monotherapy,FR
+220325952,ipilimumab,11,2023-01-05,2023-01-16,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+220363681,durvalumab,6,2023-01-10,2023-01-16,day,day,PD-L1 monotherapy,FR
+220417492,pembrolizumab,35,2023-01-10,2023-02-14,day,day,PD-1 monotherapy,
+220511392,pembrolizumab,70,2022-08-23,2022-11-01,day,day,PD-1 monotherapy,JP
+220522883,nivolumab,0,2023-02-01,2023-02-01,day,day,PD-1 monotherapy,US
+220533584,nivolumab,49,2022-07-14,2022-09-01,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+220550601,avelumab,28,2023-01-17,2023-02-14,day,day,PD-L1 monotherapy,JP
+220559892,pembrolizumab,0,2023-01-31,2023-01-31,day,day,PD-1 monotherapy,DE
+220641283,pembrolizumab,14,2023-01-13,2023-01-27,day,day,PD-1 monotherapy,GR
+220668271,pembrolizumab,8,2023-02-17,2023-02-25,day,day,PD-1 monotherapy,GB
+220803793,pembrolizumab,25,2023-01-24,2023-02-18,day,day,PD-1 monotherapy,DE
+220825161,nivolumab,21,2023-01-24,2023-02-14,day,day,PD-1 monotherapy,FR
+220828404,pembrolizumab,167,2022-07-28,2023-01-11,day,day,PD-1 monotherapy,JP
+220836862,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+220859903,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+220914062,nivolumab,18,2022-12-12,2022-12-30,day,day,COMBO (PD-[L]1 + CTLA-4),CZ
+220960822,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+220995882,pembrolizumab,86,2022-10-01,2022-12-26,month,day,PD-1 monotherapy,FR
+221002441,pembrolizumab,1,2023-02-24,2023-02-25,day,day,PD-1 monotherapy,FR
+221025831,pembrolizumab,86,2022-10-01,2022-12-26,month,day,PD-1 monotherapy,FR
+221035893,nivolumab,11,2022-12-13,2022-12-24,day,day,PD-1 monotherapy,US
+221037541,pembrolizumab,21,2022-08-23,2022-09-13,day,day,PD-1 monotherapy,JP
+221087832,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+221113421,nivolumab,88,2021-05-07,2021-08-03,day,day,PD-1 monotherapy,FR
+221161572,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+221170281,durvalumab,23,2022-04-20,2022-05-13,day,day,PD-L1 monotherapy,
+221184514,atezolizumab,105,2022-11-30,2023-03-15,day,day,PD-L1 monotherapy,
+221195371,pembrolizumab,21,2023-02-24,2023-03-17,day,day,PD-1 monotherapy,
+221316672,pembrolizumab,5,2022-12-27,2023-01-01,day,day,PD-1 monotherapy,JP
+221371491,pembrolizumab,26,2022-09-08,2022-10-04,day,day,PD-1 monotherapy,FR
+221383772,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+221457632,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+221503212,nivolumab,11,2022-12-13,2022-12-24,day,day,PD-1 monotherapy,US
+221541171,nivolumab,161,2022-01-21,2022-07-01,day,day,PD-1 monotherapy,FR
+221547431,ipilimumab,18,2023-02-03,2023-02-21,day,day,COMBO (PD-[L]1 + CTLA-4),US
+221626051,pembrolizumab,79,2022-12-12,2023-03-01,day,day,PD-1 monotherapy,CN
+221661721,ipilimumab,39,2023-02-09,2023-03-20,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+221672104,pembrolizumab,203,2022-08-25,2023-03-16,day,day,PD-1 monotherapy,JP
+221706821,pembrolizumab,61,2022-04-01,2022-06-01,month,day,PD-1 monotherapy,JP
+221728311,pembrolizumab,21,2023-02-24,2023-03-17,day,day,PD-1 monotherapy,
+221847312,durvalumab,15,2023-03-16,2023-03-31,day,day,COMBO (PD-[L]1 + CTLA-4),
+221876241,nivolumab,9,2022-03-23,2022-04-01,day,day,PD-1 monotherapy,FR
+221907356,tremelimumab,61,2023-02-01,2023-04-03,day,day,COMBO (PD-[L]1 + CTLA-4),VN
+221991392,pembrolizumab,49,2023-02-02,2023-03-23,day,day,PD-1 monotherapy,JP
+222011453,pembrolizumab,34,2023-02-02,2023-03-08,day,day,PD-1 monotherapy,JP
+222034913,pembrolizumab,27,2023-02-02,2023-03-01,day,day,PD-1 monotherapy,JP
+222038981,pembrolizumab,203,2022-08-25,2023-03-16,day,day,PD-1 monotherapy,JP
+222146205,cemiplimab,65,2023-01-31,2023-04-06,day,day,PD-1 monotherapy,PL
+222172661,pembrolizumab,19,2023-02-02,2023-02-21,day,day,PD-1 monotherapy,ES
+222251511,atezolizumab,25,2022-12-16,2023-01-10,day,day,PD-L1 monotherapy,US
+222447775,ipilimumab,12,2022-12-05,2022-12-17,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+222465175,nivolumab,19,2023-03-08,2023-03-27,day,day,PD-1 monotherapy,US
+222495021,durvalumab,5,2023-02-15,2023-02-20,day,day,PD-L1 monotherapy,
+222571972,nivolumab,83,2022-04-13,2022-07-05,day,day,PD-1 monotherapy,FR
+222595491,pembrolizumab,0,2021-03-04,2021-03-04,day,day,PD-1 monotherapy,CN
+222697962,durvalumab,20,2023-03-15,2023-04-04,day,day,PD-L1 monotherapy,JP
+222702301,nivolumab,89,2022-04-06,2022-07-04,day,day,PD-1 monotherapy,
+222719731,nivolumab,29,2023-01-24,2023-02-22,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+222785463,pembrolizumab,14,2023-03-15,2023-03-29,day,day,PD-1 monotherapy,JP
+222885062,avelumab,31,2022-03-01,2022-04-01,month,day,PD-L1 monotherapy,GB
+223003062,avelumab,31,2022-03-01,2022-04-01,month,day,PD-L1 monotherapy,
+223066701,nivolumab,21,2023-02-06,2023-02-27,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+223092731,pembrolizumab,156,2022-11-01,2023-04-06,month,day,PD-1 monotherapy,FR
+223099425,pembrolizumab,47,2022-12-30,2023-02-15,day,day,PD-1 monotherapy,FR
+223100205,nivolumab,43,2022-10-18,2022-11-30,day,day,PD-1 monotherapy,JP
+223149451,pembrolizumab,33,2023-02-03,2023-03-08,day,day,PD-1 monotherapy,FI
+223208062,pembrolizumab,130,2022-12-01,2023-04-10,day,day,PD-1 monotherapy,FR
+223227271,atezolizumab,6,2023-05-06,2023-05-12,day,day,PD-L1 monotherapy,
+223281651,pembrolizumab,134,2022-12-08,2023-04-21,day,day,PD-1 monotherapy,FR
+223316471,pembrolizumab,156,2022-11-01,2023-04-06,month,day,PD-1 monotherapy,FR
+223481061,durvalumab,39,2023-01-02,2023-02-10,day,day,PD-L1 monotherapy,
+223515462,pembrolizumab,48,2021-12-14,2022-01-31,day,day,PD-1 monotherapy,AT
+223526583,atezolizumab,12,2023-04-27,2023-05-09,day,day,PD-L1 monotherapy,JP
+223581245,nivolumab,15,2023-02-14,2023-03-01,day,day,PD-1 monotherapy,JP
+223636441,pembrolizumab,156,2022-11-01,2023-04-06,month,day,PD-1 monotherapy,FR
+223645591,nivolumab,144,2019-05-30,2019-10-21,day,day,PD-1 monotherapy,PL
+223660503,durvalumab,39,2023-01-02,2023-02-10,day,day,PD-L1 monotherapy,EU
+223745731,durvalumab,28,2023-02-01,2023-03-01,month,day,PD-L1 monotherapy,
+223822091,atezolizumab,35,2023-01-12,2023-02-16,day,day,PD-L1 monotherapy,
+225205161,pembrolizumab,140,2022-08-16,2023-01-03,day,day,PD-1 monotherapy,FR
+225249541,pembrolizumab,42,2023-04-05,2023-05-17,day,day,PD-1 monotherapy,ES
+225257911,pembrolizumab,64,2023-01-12,2023-03-17,day,day,PD-1 monotherapy,SE
+225266711,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225267041,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225292331,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225301811,pembrolizumab,51,2023-01-05,2023-02-25,day,day,PD-1 monotherapy,
+225379241,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225388791,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225949671,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+225955071,avelumab,21,2023-02-13,2023-03-06,day,day,PD-L1 monotherapy,CZ
+226080691,nivolumab,22,2023-02-28,2023-03-22,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+226163651,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+226218602,pembrolizumab,32,2023-03-31,2023-05-02,day,day,PD-1 monotherapy,IT
+226221511,pembrolizumab,21,2023-04-11,2023-05-02,day,day,PD-1 monotherapy,FR
+226260432,nivolumab,73,2023-03-13,2023-05-25,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+226298642,pembrolizumab,13,2023-03-25,2023-04-07,day,day,PD-1 monotherapy,JP
+226302921,pembrolizumab,235,2022-10-03,2023-05-26,day,day,PD-1 monotherapy,NO
+226374735,nivolumab,272,2021-06-16,2022-03-15,day,day,PD-1 monotherapy,JP
+226417092,pembrolizumab,32,2023-03-31,2023-05-02,day,day,PD-1 monotherapy,IT
+226422992,pembrolizumab,19,2021-12-02,2021-12-21,day,day,PD-1 monotherapy,CN
+226504621,nivolumab,21,2023-05-15,2023-06-05,day,day,PD-1 monotherapy,FR
+226543413,durvalumab,42,2023-05-10,2023-06-21,day,day,PD-L1 monotherapy,
+226558431,pembrolizumab,32,2023-03-31,2023-05-02,day,day,PD-1 monotherapy,IT
+226614222,pembrolizumab,175,2022-08-22,2023-02-13,day,day,PD-1 monotherapy,FR
+226670967,atezolizumab,24,2023-06-02,2023-06-26,day,day,PD-L1 monotherapy,
+226791532,nivolumab,41,2023-05-16,2023-06-26,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+226833981,cemiplimab,14,2022-12-01,2022-12-15,day,day,PD-1 monotherapy,US
+226871497,durvalumab,22,2023-05-26,2023-06-17,day,day,PD-L1 monotherapy,
+226892291,pembrolizumab,20,2023-05-12,2023-06-01,day,day,PD-1 monotherapy,RS
+226960221,pembrolizumab,21,2023-04-11,2023-05-02,day,day,PD-1 monotherapy,FR
+226985082,nivolumab,19,2023-05-11,2023-05-30,day,day,PD-1 monotherapy,JP
+227002052,pembrolizumab,32,2023-03-31,2023-05-02,day,day,PD-1 monotherapy,IT
+227002742,nivolumab,35,2023-03-10,2023-04-14,day,day,PD-1 monotherapy,JP
+227024313,nivolumab,153,2021-03-01,2021-08-01,month,day,PD-1 monotherapy,RU
+227037741,atezolizumab,3,2023-06-30,2023-07-03,day,day,PD-L1 monotherapy,ES
+227046815,ipilimumab,110,2019-08-01,2019-11-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+227083441,pembrolizumab,48,2021-12-14,2022-01-31,day,day,PD-1 monotherapy,AT
+227112302,atezolizumab,22,2023-05-10,2023-06-01,day,day,PD-L1 monotherapy,JP
+227248941,durvalumab,61,2023-03-01,2023-05-01,month,day,PD-L1 monotherapy,
+227383602,pembrolizumab,171,2023-01-06,2023-06-26,day,day,PD-1 monotherapy,JP
+227439611,durvalumab,14,2021-06-22,2021-07-06,day,day,PD-L1 monotherapy,
+227444092,pembrolizumab,78,2023-05-01,2023-07-18,month,day,PD-1 monotherapy,JP
+227505482,atezolizumab,5,2023-07-07,2023-07-12,day,day,PD-L1 monotherapy,
+227515592,nivolumab,57,2023-04-27,2023-06-23,day,day,PD-1 monotherapy,CH
+227591001,atezolizumab,62,2023-03-31,2023-06-01,day,day,PD-L1 monotherapy,IT
+227692161,pembrolizumab,17,2023-05-26,2023-06-12,day,day,PD-1 monotherapy,SI
+227730182,atezolizumab,5,2023-07-07,2023-07-12,day,day,PD-L1 monotherapy,AT
+227742503,atezolizumab,5,2023-07-07,2023-07-12,day,day,PD-L1 monotherapy,AT
+227757101,atezolizumab,0,2023-03-31,2023-03-31,day,day,PD-L1 monotherapy,IT
+227758593,pembrolizumab,38,2023-05-17,2023-06-24,day,day,PD-1 monotherapy,DE
+227789683,pembrolizumab,19,2023-06-21,2023-07-10,day,day,PD-1 monotherapy,JP
+227789761,pembrolizumab,415,2022-05-01,2023-06-20,month,day,PD-1 monotherapy,FR
+227876282,atezolizumab,5,2023-07-07,2023-07-12,day,day,PD-L1 monotherapy,AT
+227894013,tremelimumab,24,2023-05-16,2023-06-09,day,day,CTLA-4 monotherapy,
+227948889,ipilimumab,22,2023-02-22,2023-03-16,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+228005551,pembrolizumab,22,2023-02-23,2023-03-17,day,day,PD-1 monotherapy,CN
+228008691,atezolizumab,652,2021-09-17,2023-07-01,day,day,PD-L1 monotherapy,JP
+228031671,atezolizumab,25,2022-12-29,2023-01-23,day,day,PD-L1 monotherapy,
+228179022,nivolumab,39,2020-11-16,2020-12-25,day,day,PD-1 monotherapy,JP
+228242652,pembrolizumab,77,2023-04-14,2023-06-30,day,day,PD-1 monotherapy,IS
+228318184,pembrolizumab,21,2022-10-14,2022-11-04,day,day,PD-1 monotherapy,JP
+228366101,pembrolizumab,147,2023-02-10,2023-07-07,day,day,PD-1 monotherapy,FR
+228558361,pembrolizumab,0,2023-06-05,2023-06-05,day,day,PD-1 monotherapy,CN
+228564251,pembrolizumab,30,2023-07-04,2023-08-03,day,day,PD-1 monotherapy,FR
+228567421,pembrolizumab,217,2022-12-15,2023-07-20,day,day,PD-1 monotherapy,FR
+228672301,nivolumab,4,2023-06-27,2023-07-01,day,day,PD-1 monotherapy,GB
+228682242,pembrolizumab,13,2023-07-19,2023-08-01,day,day,PD-1 monotherapy,FR
+228737191,pembrolizumab,36,2023-07-04,2023-08-09,day,day,PD-1 monotherapy,GB
+228865145,nivolumab,36,2022-02-04,2022-03-12,day,day,PD-1 monotherapy,JP
+228880832,ipilimumab,18,2023-04-11,2023-04-29,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+228945742,nivolumab,272,2021-06-16,2022-03-15,day,day,PD-1 monotherapy,JP
+229052219,nivolumab,11,2023-07-19,2023-07-30,day,day,PD-1 monotherapy,JP
+229188452,pembrolizumab,62,2020-08-24,2020-10-25,day,day,PD-1 monotherapy,JP
+229250394,durvalumab,61,2023-02-01,2023-04-03,day,day,COMBO (PD-[L]1 + CTLA-4),
+229259322,durvalumab,38,2023-06-02,2023-07-10,day,day,PD-L1 monotherapy,
+229263251,tislelizumab,210,2022-12-05,2023-07-03,day,day,PD-1 monotherapy,US
+229428011,atezolizumab,71,2022-07-19,2022-09-28,day,day,PD-L1 monotherapy,CN
+229493801,pembrolizumab,19,2022-10-05,2022-10-24,day,day,PD-1 monotherapy,
+229590682,pembrolizumab,0,2020-03-01,2020-03-01,month,day,PD-1 monotherapy,US
+229669801,pembrolizumab,13,2023-07-19,2023-08-01,day,day,PD-1 monotherapy,FR
+229738723,nivolumab,262,2019-10-24,2020-07-12,day,day,PD-1 monotherapy,JP
+229747922,pembrolizumab,80,2023-05-27,2023-08-15,day,day,PD-1 monotherapy,CN
+229923511,pembrolizumab,23,2023-07-24,2023-08-16,day,day,PD-1 monotherapy,FR
+229956721,nivolumab,9,2023-08-22,2023-08-31,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+229983251,pembrolizumab,13,2023-07-19,2023-08-01,day,day,PD-1 monotherapy,FR
+230010281,ipilimumab,67,2021-12-24,2022-03-01,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+230023831,pembrolizumab,13,2023-07-19,2023-08-01,day,day,PD-1 monotherapy,FR
+230090921,pembrolizumab,13,2023-07-19,2023-08-01,day,day,PD-1 monotherapy,FR
+230118993,nivolumab,14,2023-08-31,2023-09-14,day,day,COMBO (PD-[L]1 + CTLA-4),IL
+230161473,pembrolizumab,337,2022-09-09,2023-08-12,day,day,PD-1 monotherapy,JP
+230177081,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+230213651,pembrolizumab,21,2023-01-18,2023-02-08,day,day,PD-1 monotherapy,JP
+230236087,pembrolizumab,200,2022-07-01,2023-01-17,month,day,PD-1 monotherapy,JP
+230501981,pembrolizumab,20,2023-07-05,2023-07-25,day,day,PD-1 monotherapy,IT
+230502601,nivolumab,8,2023-08-31,2023-09-08,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+230536371,nivolumab,8,2023-08-31,2023-09-08,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+230564163,pembrolizumab,169,2023-04-04,2023-09-20,day,day,PD-1 monotherapy,JP
+230564206,pembrolizumab,8,2023-07-20,2023-07-28,day,day,PD-1 monotherapy,JP
+230579796,ipilimumab,21,2023-08-01,2023-08-22,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+230608545,nivolumab,18,2023-08-14,2023-09-01,day,day,PD-1 monotherapy,JP
+230613911,nivolumab,28,2019-08-06,2019-09-03,day,day,PD-1 monotherapy,US
+230617471,pembrolizumab,0,2021-03-01,2021-03-01,month,day,PD-1 monotherapy,HK
+230631501,ipilimumab,62,2023-08-02,2023-10-03,day,day,COMBO (PD-[L]1 + CTLA-4),
+230650031,pembrolizumab,112,2022-09-21,2023-01-11,day,day,PD-1 monotherapy,
+230652771,pembrolizumab,8,2023-06-23,2023-07-01,day,day,PD-1 monotherapy,GB
+230763321,pembrolizumab,0,2023-01-01,2023-01-01,year,day,PD-1 monotherapy,US
+230830535,pembrolizumab,21,2023-08-11,2023-09-01,day,day,PD-1 monotherapy,FR
+230850551,pembrolizumab,25,2023-09-12,2023-10-07,day,day,PD-1 monotherapy,CN
+230982491,pembrolizumab,6,2022-08-02,2022-08-08,day,day,PD-1 monotherapy,JP
+230984062,nivolumab,81,2023-03-02,2023-05-22,day,day,PD-1 monotherapy,FR
+230984125,pembrolizumab,10,2023-10-02,2023-10-12,day,day,PD-1 monotherapy,JP
+231009267,pembrolizumab,142,2023-05-30,2023-10-19,day,day,PD-1 monotherapy,JP
+231010201,pembrolizumab,293,2022-11-30,2023-09-19,day,day,PD-1 monotherapy,FR
+231018731,nivolumab,64,2021-12-23,2022-02-25,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+231049911,pembrolizumab,19,2022-10-05,2022-10-24,day,day,PD-1 monotherapy,US
+231059074,pembrolizumab,21,2023-01-18,2023-02-08,day,day,PD-1 monotherapy,JP
+231079351,pembrolizumab,342,2022-01-24,2023-01-01,day,day,PD-1 monotherapy,FR
+231169291,pembrolizumab,15,2020-11-02,2020-11-17,day,day,PD-1 monotherapy,CN
+231267881,pembrolizumab,51,2022-06-08,2022-07-29,day,day,PD-1 monotherapy,FR
+231268192,pembrolizumab,145,2023-04-27,2023-09-19,day,day,PD-1 monotherapy,FR
+231279684,nivolumab,14,2021-04-01,2021-04-15,day,day,PD-1 monotherapy,JP
+231298011,pembrolizumab,375,2022-10-01,2023-10-11,month,day,PD-1 monotherapy,GB
+231330731,pembrolizumab,13,2022-11-15,2022-11-28,day,day,PD-1 monotherapy,SE
+231356391,pembrolizumab,19,2023-06-21,2023-07-10,day,day,PD-1 monotherapy,JP
+231448443,durvalumab,110,2023-05-04,2023-08-22,day,day,PD-L1 monotherapy,EU
+231502891,nivolumab,0,2021-01-01,2021-01-01,year,day,PD-1 monotherapy,CZ
+231617681,pembrolizumab,214,2023-03-20,2023-10-20,day,day,PD-1 monotherapy,FR
+231630643,durvalumab,66,2023-05-04,2023-07-09,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+231670143,durvalumab,66,2023-05-04,2023-07-09,day,day,PD-L1 monotherapy,FR
+231678482,pembrolizumab,145,2023-03-09,2023-08-01,day,day,PD-1 monotherapy,FR
+231707914,durvalumab,66,2023-05-04,2023-07-09,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+231773401,pembrolizumab,0,2023-04-12,2023-04-12,day,day,PD-1 monotherapy,
+231783413,tremelimumab,66,2023-05-04,2023-07-09,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+231803296,durvalumab,18,2023-10-03,2023-10-21,day,day,COMBO (PD-[L]1 + CTLA-4),
+231823932,pembrolizumab,191,2023-01-23,2023-08-02,day,day,PD-1 monotherapy,FR
+231837303,pembrolizumab,37,2023-04-25,2023-06-01,day,day,PD-1 monotherapy,JP
+231981822,pembrolizumab,20,2023-10-19,2023-11-08,day,day,PD-1 monotherapy,US
+231984524,nivolumab,97,2023-05-25,2023-08-30,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+232194454,pembrolizumab,1,2023-10-25,2023-10-26,day,day,PD-1 monotherapy,JP
+232194684,pembrolizumab,13,2023-03-30,2023-04-12,day,day,PD-1 monotherapy,JP
+232210012,dostarlimab,55,2023-09-12,2023-11-06,day,day,PD-1 monotherapy,FR
+232227761,pembrolizumab,30,2022-11-01,2022-12-01,month,day,PD-1 monotherapy,HU
+232264793,durvalumab,22,2023-10-26,2023-11-17,day,day,PD-L1 monotherapy,
+232268964,durvalumab,123,2023-07-01,2023-11-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+232275831,atezolizumab,4,2023-08-28,2023-09-01,day,day,PD-L1 monotherapy,JP
+232297071,atezolizumab,111,2023-07-04,2023-10-23,day,day,PD-L1 monotherapy,
+232315096,toripalimab,0,2023-08-11,2023-08-11,day,day,PD-1 monotherapy,CN
+232321721,pembrolizumab,21,2023-09-28,2023-10-19,day,day,PD-1 monotherapy,GB
+232426952,pembrolizumab,0,2023-11-01,2023-11-01,month,day,PD-1 monotherapy,JP
+232462795,pembrolizumab,62,2023-07-01,2023-09-01,month,day,PD-1 monotherapy,JP
+232501543,nivolumab,13,2023-03-14,2023-03-27,day,day,PD-1 monotherapy,SE
+232647502,dostarlimab,92,2023-07-26,2023-10-26,day,day,PD-1 monotherapy,KR
+232764531,pembrolizumab,12,2023-11-09,2023-11-21,day,day,PD-1 monotherapy,CN
+232787571,pembrolizumab,129,2022-08-25,2023-01-01,day,day,PD-1 monotherapy,JP
+232788051,pembrolizumab,203,2022-08-25,2023-03-16,day,day,PD-1 monotherapy,JP
+232865432,durvalumab,21,2023-10-21,2023-11-11,day,day,PD-L1 monotherapy,
+232937763,pembrolizumab,49,2023-02-02,2023-03-23,day,day,PD-1 monotherapy,JP
+232943253,nivolumab,24,2023-09-22,2023-10-16,day,day,PD-1 monotherapy,JP
+232947777,durvalumab,21,2023-11-16,2023-12-07,day,day,COMBO (PD-[L]1 + CTLA-4),
+232965549,nivolumab,56,2023-09-06,2023-11-01,day,day,PD-1 monotherapy,JP
+232982705,pembrolizumab,17,2023-10-10,2023-10-27,day,day,PD-1 monotherapy,ES
+233010802,avelumab,19,2023-10-16,2023-11-04,day,day,PD-L1 monotherapy,GB
+233093824,nivolumab,273,2022-09-13,2023-06-13,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+233157965,pembrolizumab,253,2023-03-30,2023-12-08,day,day,PD-1 monotherapy,US
+233161521,pembrolizumab,4,2023-11-07,2023-11-11,day,day,PD-1 monotherapy,ES
+233228272,nivolumab,349,2022-11-17,2023-11-01,day,day,PD-1 monotherapy,CH
+233273901,pembrolizumab,14,2023-10-25,2023-11-08,day,day,PD-1 monotherapy,JP
+233443262,pembrolizumab,14,2023-11-30,2023-12-14,day,day,PD-1 monotherapy,JP
+233459451,pembrolizumab,63,2022-07-05,2022-09-06,day,day,PD-1 monotherapy,FR
+233473071,atezolizumab,13,2023-08-10,2023-08-23,day,day,PD-L1 monotherapy,FR
+233513443,pembrolizumab,23,2023-09-05,2023-09-28,day,day,PD-1 monotherapy,JP
+233611983,pembrolizumab,0,2023-12-01,2023-12-01,month,day,PD-1 monotherapy,JP
+233617341,nivolumab,615,2022-04-14,2023-12-20,day,day,PD-1 monotherapy,
+233628693,ipilimumab,45,2021-06-30,2021-08-14,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+233645741,atezolizumab,11,2023-11-16,2023-11-27,day,day,PD-L1 monotherapy,FR
+233709504,nivolumab,21,2021-10-19,2021-11-09,day,day,PD-1 monotherapy,DE
+233715611,cemiplimab,19,2023-10-19,2023-11-07,day,day,PD-1 monotherapy,FR
+233761431,atezolizumab,11,2023-11-16,2023-11-27,day,day,PD-L1 monotherapy,FR
+233774391,atezolizumab,13,2023-08-10,2023-08-23,day,day,PD-L1 monotherapy,FR
+233812151,pembrolizumab,63,2022-07-05,2022-09-06,day,day,PD-1 monotherapy,FR
+233820171,pembrolizumab,292,2023-01-26,2023-11-14,day,day,PD-1 monotherapy,CH
+233826191,atezolizumab,11,2023-11-16,2023-11-27,day,day,PD-L1 monotherapy,FR
+233840252,pembrolizumab,88,2023-01-03,2023-04-01,day,day,PD-1 monotherapy,SE
+233860342,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+233876771,pembrolizumab,292,2023-01-26,2023-11-14,day,day,PD-1 monotherapy,CH
+233882311,pembrolizumab,63,2022-07-05,2022-09-06,day,day,PD-1 monotherapy,FR
+233942061,pembrolizumab,63,2022-07-05,2022-09-06,day,day,PD-1 monotherapy,FR
+233967221,pembrolizumab,63,2022-07-05,2022-09-06,day,day,PD-1 monotherapy,FR
+233977241,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+233994271,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+234053381,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+234070001,durvalumab,310,2023-01-01,2023-11-07,month,day,PD-L1 monotherapy,FR
+234103721,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+234114221,durvalumab,0,2023-01-01,2023-01-01,month,day,PD-L1 monotherapy,FR
+234174221,durvalumab,310,2023-01-01,2023-11-07,month,day,PD-L1 monotherapy,FR
+234369162,pembrolizumab,1,2023-10-25,2023-10-26,day,day,PD-1 monotherapy,JP
+234420881,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+234432442,durvalumab,243,2023-03-09,2023-11-07,day,day,PD-L1 monotherapy,
+234532851,pembrolizumab,325,2023-01-01,2023-11-22,year,day,PD-1 monotherapy,CN
+234533592,pembrolizumab,0,2023-01-01,2023-01-01,year,day,PD-1 monotherapy,FR
+234566892,pembrolizumab,130,2022-05-30,2022-10-07,day,day,PD-1 monotherapy,IT
+234585167,durvalumab,8,2023-11-22,2023-11-30,day,day,COMBO (PD-[L]1 + CTLA-4),
+234602571,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+234635811,pembrolizumab,25,2023-12-23,2024-01-17,day,day,PD-1 monotherapy,CN
+234707561,avelumab,26,2023-08-18,2023-09-13,day,day,PD-L1 monotherapy,FR
+234726373,pembrolizumab,50,2023-11-12,2024-01-01,day,day,PD-1 monotherapy,PE
+234736871,durvalumab,310,2023-01-01,2023-11-07,month,day,PD-L1 monotherapy,FR
+234886878,pembrolizumab,136,2023-03-24,2023-08-07,day,day,PD-1 monotherapy,JP
+234889063,pembrolizumab,161,2023-01-01,2023-06-11,year,day,PD-1 monotherapy,JP
+234943322,pembrolizumab,17,2023-06-02,2023-06-19,day,day,PD-1 monotherapy,JP
+235179126,nivolumab,14,2023-04-12,2023-04-26,day,day,PD-1 monotherapy,JP
+235191441,cemiplimab,131,2023-09-01,2024-01-10,month,day,PD-1 monotherapy,DE
+235201773,pembrolizumab,23,2023-12-01,2023-12-24,month,day,PD-1 monotherapy,JP
+235209741,atezolizumab,11,2023-11-16,2023-11-27,day,day,PD-L1 monotherapy,FR
+235209803,pembrolizumab,5,2022-10-07,2022-10-12,day,day,PD-1 monotherapy,JP
+235226301,atezolizumab,13,2023-08-10,2023-08-23,day,day,PD-L1 monotherapy,FR
+235242304,pembrolizumab,3,2022-05-24,2022-05-27,day,day,PD-1 monotherapy,JP
+235288498,ipilimumab,13,2023-08-29,2023-09-11,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+235463464,nivolumab,130,2023-07-20,2023-11-27,day,day,COMBO (PD-[L]1 + CTLA-4),GB
+235483463,nivolumab,40,2023-08-14,2023-09-23,day,day,PD-1 monotherapy,ES
+235523824,nivolumab,17,2023-11-29,2023-12-16,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+235556181,pembrolizumab,8,2023-02-21,2023-03-01,day,day,PD-1 monotherapy,CH
+235556231,pembrolizumab,44,2023-12-04,2024-01-17,day,day,PD-1 monotherapy,CH
+235589761,cemiplimab,22,2023-12-20,2024-01-11,day,day,PD-1 monotherapy,CH
+235605151,pembrolizumab,8,2023-02-21,2023-03-01,day,day,PD-1 monotherapy,CH
+235614111,atezolizumab,12,2023-12-19,2023-12-31,day,day,PD-L1 monotherapy,FR
+235671581,durvalumab,310,2023-01-01,2023-11-07,month,day,PD-L1 monotherapy,FR
+235687881,nivolumab,376,2016-10-01,2017-10-12,month,day,PD-1 monotherapy,JP
+235704481,pembrolizumab,197,2023-07-05,2024-01-18,day,day,PD-1 monotherapy,FR
+235734873,atezolizumab,17,2024-02-02,2024-02-19,day,day,PD-L1 monotherapy,JP
+235824451,ipilimumab,91,2022-11-30,2023-03-01,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+235893911,ipilimumab,35,2023-10-27,2023-12-01,day,day,COMBO (PD-[L]1 + CTLA-4),SE
+235927841,nivolumab,23,2023-04-22,2023-05-15,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+236026781,pembrolizumab,43,2023-12-19,2024-01-31,day,day,PD-1 monotherapy,FR
+236090092,ipilimumab,6,2024-01-26,2024-02-01,day,day,COMBO (PD-[L]1 + CTLA-4),AT
+236113721,durvalumab,24,2023-08-08,2023-09-01,day,day,PD-L1 monotherapy,
+236166344,pembrolizumab,4,2023-09-27,2023-10-01,day,day,PD-1 monotherapy,NZ
+236176431,cemiplimab,52,2023-12-06,2024-01-27,day,day,PD-1 monotherapy,
+236211263,pembrolizumab,39,2023-12-25,2024-02-02,day,day,PD-1 monotherapy,JP
+236242385,pembrolizumab,243,2023-01-01,2023-09-01,year,day,PD-1 monotherapy,JP
+236287501,durvalumab,0,2024-01-22,2024-01-22,day,day,PD-L1 monotherapy,FR
+236291236,pembrolizumab,221,2023-04-24,2023-12-01,day,day,PD-1 monotherapy,JP
+236291591,pembrolizumab,213,2023-06-02,2024-01-01,day,day,PD-1 monotherapy,DK
+236493872,durvalumab,4,2024-01-22,2024-01-26,day,day,PD-L1 monotherapy,FR
+236548012,durvalumab,4,2024-01-22,2024-01-26,day,day,PD-L1 monotherapy,FR
+236576541,durvalumab,16,2023-05-10,2023-05-26,day,day,COMBO (PD-[L]1 + CTLA-4),
+236652541,ipilimumab,11,2023-12-20,2023-12-31,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+236770481,durvalumab,4,2024-01-22,2024-01-26,day,day,PD-L1 monotherapy,FR
+236849673,pembrolizumab,20,2024-01-24,2024-02-13,day,day,PD-1 monotherapy,US
+236883432,durvalumab,27,2023-12-07,2024-01-03,day,day,PD-L1 monotherapy,
+236887191,pembrolizumab,0,2022-07-28,2022-07-28,day,day,PD-1 monotherapy,CN
+236887706,nivolumab,98,2023-11-14,2024-02-20,day,day,PD-1 monotherapy,JP
+236941274,nivolumab,29,2024-02-01,2024-03-01,month,day,PD-1 monotherapy,JP
+237096981,tislelizumab,29,2024-02-21,2024-03-21,day,day,PD-1 monotherapy,CN
+237109821,durvalumab,310,2023-01-01,2023-11-07,month,day,PD-L1 monotherapy,FR
+237124921,pembrolizumab,14,2024-02-29,2024-03-14,day,day,PD-1 monotherapy,FR
+237140121,pembrolizumab,69,2023-12-06,2024-02-13,day,day,PD-1 monotherapy,FR
+237173531,durvalumab,4,2024-01-22,2024-01-26,day,day,PD-L1 monotherapy,FR
+237188202,pembrolizumab,60,2024-01-01,2024-03-01,month,day,PD-1 monotherapy,JP
+237209254,atezolizumab,44,2024-01-09,2024-02-22,day,day,PD-L1 monotherapy,JP
+237323781,pembrolizumab,108,2023-11-14,2024-03-01,day,day,PD-1 monotherapy,FR
+237344492,pembrolizumab,140,2023-09-12,2024-01-30,day,day,PD-1 monotherapy,US
+237359501,pembrolizumab,14,2024-02-29,2024-03-14,day,day,PD-1 monotherapy,FR
+237409722,pembrolizumab,17,2023-09-27,2023-10-14,day,day,PD-1 monotherapy,JP
+237525072,pembrolizumab,8,2024-02-09,2024-02-17,day,day,PD-1 monotherapy,IT
+237603821,tislelizumab,105,2023-12-12,2024-03-26,day,day,PD-1 monotherapy,CN
+237636605,pembrolizumab,1,2022-06-07,2022-06-08,day,day,PD-1 monotherapy,JP
+237654221,nivolumab,16,2023-09-15,2023-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+237677921,pembrolizumab,108,2023-11-14,2024-03-01,day,day,PD-1 monotherapy,FR
+237741388,pembrolizumab,113,2023-11-20,2024-03-12,day,day,PD-1 monotherapy,JP
+237748642,pembrolizumab,31,2022-12-01,2023-01-01,month,day,PD-1 monotherapy,US
+237755161,pembrolizumab,4,2024-02-15,2024-02-19,day,day,PD-1 monotherapy,FR
+237757321,nivolumab,27,2024-03-01,2024-03-28,day,day,PD-1 monotherapy,SE
+237772142,ipilimumab,0,2023-03-01,2023-03-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+237776051,atezolizumab,48,2023-11-14,2024-01-01,day,day,PD-L1 monotherapy,JP
+237793451,pembrolizumab,108,2023-11-14,2024-03-01,day,day,PD-1 monotherapy,FR
+237803463,nivolumab,14,2024-04-01,2024-04-15,day,day,PD-1 monotherapy,JP
+237839246,pembrolizumab,24,2024-03-04,2024-03-28,day,day,PD-1 monotherapy,JP
+237852441,atezolizumab,38,2024-01-08,2024-02-15,day,day,PD-L1 monotherapy,
+237888301,pembrolizumab,164,2023-10-30,2024-04-11,day,day,PD-1 monotherapy,SE
+238010102,pembrolizumab,151,2022-12-01,2023-05-01,month,day,PD-1 monotherapy,FR
+238040831,pembrolizumab,350,2022-02-01,2023-01-17,day,day,PD-1 monotherapy,
+238079886,atezolizumab,2,2024-04-02,2024-04-04,day,day,PD-L1 monotherapy,JP
+238111831,atezolizumab,38,2024-01-08,2024-02-15,day,day,PD-L1 monotherapy,SK
+238202931,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238317661,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238484476,durvalumab,21,2023-07-19,2023-08-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+238501791,atezolizumab,38,2024-01-08,2024-02-15,day,day,PD-L1 monotherapy,SK
+238501811,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238504091,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238512181,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238547334,nivolumab,19,2024-04-02,2024-04-21,day,day,PD-1 monotherapy,AT
+238571461,ipilimumab,11,2024-01-24,2024-02-04,day,day,COMBO (PD-[L]1 + CTLA-4),AU
+238618241,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238670411,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238676241,pembrolizumab,45,2024-01-25,2024-03-10,day,day,PD-1 monotherapy,FR
+238743132,atezolizumab,0,2023-12-22,2023-12-22,day,day,PD-L1 monotherapy,FR
+238775302,atezolizumab,99,2023-12-22,2024-03-30,day,day,PD-L1 monotherapy,FR
+238831761,pembrolizumab,42,2024-03-28,2024-05-09,day,day,PD-1 monotherapy,JP
+238860112,pembrolizumab,133,2023-10-26,2024-03-07,day,day,PD-1 monotherapy,FR
+238866321,pembrolizumab,42,2024-03-28,2024-05-09,day,day,PD-1 monotherapy,JP
+238894561,pembrolizumab,50,2024-01-09,2024-02-28,day,day,PD-1 monotherapy,DK
+238901731,ipilimumab,12,2023-05-23,2023-06-04,day,day,CTLA-4 monotherapy,AU
+239058523,pembrolizumab,31,2024-03-01,2024-04-01,month,day,PD-1 monotherapy,JP
+239061332,atezolizumab,99,2023-12-22,2024-03-30,day,day,PD-L1 monotherapy,FR
+239160871,dostarlimab,0,2024-04-25,2024-04-25,day,day,PD-1 monotherapy,
+239164131,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239202401,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239211721,atezolizumab,87,2023-12-22,2024-03-18,day,day,PD-L1 monotherapy,FR
+239213944,tremelimumab,21,2024-03-21,2024-04-11,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+239237521,dostarlimab,22,2024-04-25,2024-05-17,day,day,PD-1 monotherapy,US
+239246361,pembrolizumab,38,2024-04-05,2024-05-13,day,day,PD-1 monotherapy,FR
+239305472,nivolumab,16,2024-04-24,2024-05-10,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+239361652,durvalumab,4,2024-01-22,2024-01-26,day,day,PD-L1 monotherapy,FR
+239376111,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239420821,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239432302,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239528681,pembrolizumab,56,2024-03-04,2024-04-29,day,day,PD-1 monotherapy,IT
+239586251,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239623445,nivolumab,30,2024-04-02,2024-05-02,day,day,PD-1 monotherapy,JP
+239637301,pembrolizumab,0,2019-09-03,2019-09-03,day,day,PD-1 monotherapy,CN
+239717172,pembrolizumab,13,2024-05-07,2024-05-20,day,day,PD-1 monotherapy,JP
+239759211,pembrolizumab,26,2024-04-05,2024-05-01,day,day,PD-1 monotherapy,FR
+239759291,nivolumab,29,2024-03-28,2024-04-26,day,day,PD-1 monotherapy,FR
+239779011,nivolumab,11,2024-05-24,2024-06-04,day,day,PD-1 monotherapy,CN
+239903456,nivolumab,22,2023-05-09,2023-05-31,day,day,PD-1 monotherapy,JP
+239904132,nivolumab,31,2023-12-01,2024-01-01,month,day,PD-1 monotherapy,US
+239958231,tislelizumab,4,2024-05-25,2024-05-29,day,day,PD-1 monotherapy,CN
+240055061,pembrolizumab,5,2024-05-24,2024-05-29,day,day,PD-1 monotherapy,FR
+240099382,pembrolizumab,30,2024-04-01,2024-05-01,month,day,PD-1 monotherapy,JP
+240102894,pembrolizumab,86,2023-03-01,2023-05-26,day,day,PD-1 monotherapy,FR
+240120893,pembrolizumab,8,2024-02-09,2024-02-17,day,day,PD-1 monotherapy,IT
+240166013,pembrolizumab,86,2023-03-01,2023-05-26,day,day,PD-1 monotherapy,FR
+240169434,ipilimumab,0,2024-05-01,2024-05-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+240176452,pembrolizumab,86,2023-03-01,2023-05-26,day,day,PD-1 monotherapy,FR
+240262621,tislelizumab,27,2024-05-18,2024-06-14,day,day,PD-1 monotherapy,CN
+240379751,tislelizumab,18,2024-04-16,2024-05-04,day,day,PD-1 monotherapy,CN
+240393697,durvalumab,71,2024-04-04,2024-06-14,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+240398271,nivolumab,6,2024-04-11,2024-04-17,day,day,PD-1 monotherapy,ES
+240461023,pembrolizumab,62,2024-03-01,2024-05-02,day,day,PD-1 monotherapy,JP
+240475893,pembrolizumab,86,2023-03-01,2023-05-26,day,day,PD-1 monotherapy,FR
+240520601,pembrolizumab,5,2024-05-24,2024-05-29,day,day,PD-1 monotherapy,FR
+240562451,cemiplimab,45,2024-02-16,2024-04-01,day,day,PD-1 monotherapy,GB
+240565411,pembrolizumab,93,2024-03-20,2024-06-21,day,day,PD-1 monotherapy,CN
+240569632,atezolizumab,17,2024-03-15,2024-04-01,day,day,PD-L1 monotherapy,JP
+240592392,pembrolizumab,162,2023-10-25,2024-04-04,day,day,PD-1 monotherapy,SE
+240620421,pembrolizumab,0,2024-04-24,2024-04-24,day,day,PD-1 monotherapy,
+240804493,avelumab,26,2024-03-15,2024-04-10,day,day,PD-L1 monotherapy,FR
+240812401,durvalumab,99,2024-03-12,2024-06-19,day,day,PD-L1 monotherapy,
+240830413,toripalimab,0,2024-03-01,2024-03-01,month,day,PD-1 monotherapy,CN
+240875432,pembrolizumab,21,2024-05-29,2024-06-19,day,day,PD-1 monotherapy,FR
+240878301,tislelizumab,46,2024-01-06,2024-02-21,day,day,PD-1 monotherapy,CN
+240943933,toripalimab,79,2024-01-01,2024-03-20,month,day,PD-1 monotherapy,CN
+240955592,dostarlimab,17,2024-06-06,2024-06-23,day,day,PD-1 monotherapy,IT
+240973761,pembrolizumab,86,2023-03-01,2023-05-26,day,day,PD-1 monotherapy,FR
+240979553,atezolizumab,83,2024-04-05,2024-06-27,day,day,PD-L1 monotherapy,FR
+241017601,pembrolizumab,62,2024-03-29,2024-05-30,day,day,PD-1 monotherapy,JP
+241114461,pembrolizumab,21,2024-05-29,2024-06-19,day,day,PD-1 monotherapy,FR
+241116933,atezolizumab,83,2024-04-05,2024-06-27,day,day,PD-L1 monotherapy,FR
+241288514,ipilimumab,16,2023-11-15,2023-12-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+241293931,ipilimumab,19,2024-06-21,2024-07-10,day,day,COMBO (PD-[L]1 + CTLA-4),HR
+241582801,pembrolizumab,21,2024-06-20,2024-07-11,day,day,PD-1 monotherapy,
+241679341,pembrolizumab,22,2024-06-16,2024-07-08,day,day,PD-1 monotherapy,CN
+241756981,pembrolizumab,212,2023-01-01,2023-08-01,year,day,PD-1 monotherapy,US
+241847052,ipilimumab,43,2024-06-11,2024-07-24,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+241916026,ipilimumab,12,2024-05-28,2024-06-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+241964201,pembrolizumab,21,2024-06-10,2024-07-01,day,day,PD-1 monotherapy,FR
+241973381,nivolumab,6,2024-07-02,2024-07-08,day,day,PD-1 monotherapy,FR
+242013592,durvalumab,4,2024-07-23,2024-07-27,day,day,COMBO (PD-[L]1 + CTLA-4),
+242022621,pembrolizumab,92,2020-10-01,2021-01-01,month,day,PD-1 monotherapy,RU
+242139081,pembrolizumab,28,2020-03-10,2020-04-07,day,day,PD-1 monotherapy,US
+242205853,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+242353024,pembrolizumab,2,2023-11-26,2023-11-28,day,day,PD-1 monotherapy,JP
+242546751,durvalumab,28,2023-10-03,2023-10-31,day,day,COMBO (PD-[L]1 + CTLA-4),
+242582982,pembrolizumab,215,2023-12-29,2024-07-31,day,day,PD-1 monotherapy,FR
+242600751,pembrolizumab,70,2024-06-10,2024-08-19,day,day,PD-1 monotherapy,
+242633761,dostarlimab,45,2024-05-03,2024-06-17,day,day,PD-1 monotherapy,FR
+242637371,pembrolizumab,0,2023-02-23,2023-02-23,day,day,PD-1 monotherapy,FR
+242676241,nivolumab,0,2024-07-08,2024-07-08,day,day,PD-1 monotherapy,NO
+242730342,pembrolizumab,215,2023-12-29,2024-07-31,day,day,PD-1 monotherapy,FR
+242757605,pembrolizumab,134,2024-04-10,2024-08-22,day,day,PD-1 monotherapy,JP
+242758061,pembrolizumab,42,2024-06-24,2024-08-05,day,day,PD-1 monotherapy,IT
+242778012,atezolizumab,21,2024-07-24,2024-08-14,day,day,PD-L1 monotherapy,ES
+242785321,pembrolizumab,53,2023-02-23,2023-04-17,day,day,PD-1 monotherapy,FR
+242806481,atezolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+242816011,pembrolizumab,215,2023-12-29,2024-07-31,day,day,PD-1 monotherapy,FR
+242822041,pembrolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+242823594,nivolumab,83,2024-05-08,2024-07-30,day,day,PD-1 monotherapy,JP
+242842925,nivolumab,1,2024-05-31,2024-06-01,day,day,PD-1 monotherapy,JP
+242861981,atezolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+242878321,pembrolizumab,63,2023-04-13,2023-06-15,day,day,PD-1 monotherapy,CN
+242970581,pembrolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+242990191,pembrolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+242995741,pembrolizumab,107,2023-08-22,2023-12-07,day,day,PD-1 monotherapy,FR
+243077451,pembrolizumab,0,2024-04-30,2024-04-30,day,day,PD-1 monotherapy,CN
+243099361,tislelizumab,21,2024-08-02,2024-08-23,day,day,PD-1 monotherapy,CN
+243119061,pembrolizumab,215,2023-12-29,2024-07-31,day,day,PD-1 monotherapy,FR
+243128911,toripalimab,37,2024-06-04,2024-07-11,day,day,PD-1 monotherapy,CN
+243149081,atezolizumab,39,2024-05-30,2024-07-08,day,day,PD-L1 monotherapy,JP
+243262133,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243265772,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243283144,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,EU
+243349292,pembrolizumab,0,2024-03-01,2024-03-01,month,day,PD-1 monotherapy,JP
+243395843,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243442341,pembrolizumab,38,2024-07-01,2024-08-08,month,day,PD-1 monotherapy,FR
+243444202,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243468082,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243547261,pembrolizumab,20,2024-06-13,2024-07-03,day,day,PD-1 monotherapy,FR
+243563622,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+243564041,nivolumab,117,2024-04-07,2024-08-02,day,day,PD-1 monotherapy,FR
+243642285,nivolumab,46,2024-01-04,2024-02-19,day,day,PD-1 monotherapy,JP
+243709611,avelumab,7,2024-07-05,2024-07-12,day,day,PD-L1 monotherapy,ES
+243715891,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243749231,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243750433,pembrolizumab,27,2024-08-26,2024-09-22,day,day,PD-1 monotherapy,US
+243793461,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243889221,pembrolizumab,26,2024-08-14,2024-09-09,day,day,PD-1 monotherapy,FR
+243895641,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243901401,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243938402,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+243939092,pembrolizumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,JP
+243940071,tislelizumab,160,2024-04-03,2024-09-10,day,day,PD-1 monotherapy,CN
+243961361,ipilimumab,24,2024-07-09,2024-08-02,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+244096651,tislelizumab,65,2024-07-11,2024-09-14,day,day,PD-1 monotherapy,CN
+244136331,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+244155983,nivolumab,28,2024-07-22,2024-08-19,day,day,PD-1 monotherapy,JP
+244172741,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+244287991,pembrolizumab,391,2023-07-28,2024-08-22,day,day,PD-1 monotherapy,GB
+244291391,cemiplimab,28,2024-06-10,2024-07-08,day,day,PD-1 monotherapy,NO
+244310571,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+244322391,pembrolizumab,21,2024-07-08,2024-07-29,day,day,PD-1 monotherapy,ES
+244360481,pembrolizumab,141,2024-04-24,2024-09-12,day,day,PD-1 monotherapy,FR
+244369351,nivolumab,39,2024-05-27,2024-07-05,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+244375391,nivolumab,58,2024-07-30,2024-09-26,day,day,PD-1 monotherapy,FR
+244666651,pembrolizumab,41,2024-07-16,2024-08-26,day,day,PD-1 monotherapy,FR
+244684011,pembrolizumab,690,2022-08-22,2024-07-12,day,day,PD-1 monotherapy,JP
+245243164,durvalumab,17,2024-02-13,2024-03-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+245300251,pembrolizumab,55,2023-09-01,2023-10-26,month,day,PD-1 monotherapy,FR
+245300711,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245302591,pembrolizumab,168,2024-04-19,2024-10-04,day,day,PD-1 monotherapy,FR
+245308102,pembrolizumab,10,2024-08-22,2024-09-01,day,day,PD-1 monotherapy,JP
+245409761,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245457571,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+245457901,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245462381,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245498401,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+245500261,dostarlimab,47,2024-08-29,2024-10-15,day,day,PD-1 monotherapy,
+245521421,pembrolizumab,21,2024-09-18,2024-10-09,day,day,PD-1 monotherapy,ES
+245527041,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245540111,pembrolizumab,23,2024-05-22,2024-06-14,day,day,PD-1 monotherapy,AU
+245554891,pembrolizumab,244,2024-01-01,2024-09-01,year,day,PD-1 monotherapy,JP
+245597351,pembrolizumab,168,2024-04-19,2024-10-04,day,day,PD-1 monotherapy,FR
+245610332,pembrolizumab,16,2020-03-25,2020-04-10,day,day,PD-1 monotherapy,TW
+245636811,pembrolizumab,94,2023-03-09,2023-06-11,day,day,PD-1 monotherapy,SE
+245643061,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+245670023,pembrolizumab,45,2023-10-04,2023-11-18,day,day,PD-1 monotherapy,ES
+245684041,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+245693891,pembrolizumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,RS
+245724521,pembrolizumab,168,2024-04-19,2024-10-04,day,day,PD-1 monotherapy,FR
+245724611,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+245729494,pembrolizumab,17,2024-09-03,2024-09-20,day,day,PD-1 monotherapy,JP
+245768411,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+245816621,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+245874102,atezolizumab,99,2024-04-23,2024-07-31,day,day,PD-L1 monotherapy,FR
+245915492,tremelimumab,28,2024-01-23,2024-02-20,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+245949321,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+245949821,ipilimumab,1,2024-10-07,2024-10-08,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+246012371,pembrolizumab,419,2023-08-04,2024-09-26,day,day,PD-1 monotherapy,FR
+246029671,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+246030882,durvalumab,81,2024-05-24,2024-08-13,day,day,PD-L1 monotherapy,EU
+246088111,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+246089691,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+246103073,pembrolizumab,152,2023-10-01,2024-03-01,month,day,PD-1 monotherapy,JP
+246103611,pembrolizumab,148,2024-05-21,2024-10-16,day,day,PD-1 monotherapy,FR
+246132341,pembrolizumab,148,2024-05-21,2024-10-16,day,day,PD-1 monotherapy,FR
+246136632,toripalimab,0,2024-10-14,2024-10-14,day,day,PD-1 monotherapy,CN
+246145164,pembrolizumab,397,2023-10-01,2024-11-01,month,day,PD-1 monotherapy,JP
+246169941,atezolizumab,99,2023-12-22,2024-03-30,day,day,PD-L1 monotherapy,FR
+246170681,atezolizumab,217,2023-05-29,2024-01-01,day,day,PD-L1 monotherapy,CN
+246174543,nivolumab,14,2024-10-24,2024-11-07,day,day,PD-1 monotherapy,BR
+246211491,avelumab,31,2024-08-13,2024-09-13,day,day,PD-L1 monotherapy,ES
+246230792,tremelimumab,11,2024-08-29,2024-09-09,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+246240624,durvalumab,30,2024-09-01,2024-10-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+246250182,nivolumab,14,2024-09-05,2024-09-19,day,day,PD-1 monotherapy,JP
+246261071,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+246277132,tremelimumab,52,2024-09-17,2024-11-08,day,day,COMBO (PD-[L]1 + CTLA-4),
+246286061,tislelizumab,400,2023-10-01,2024-11-04,day,day,PD-1 monotherapy,CN
+246318612,pembrolizumab,20,2024-09-11,2024-10-01,day,day,PD-1 monotherapy,IT
+246328623,cemiplimab,18,2024-09-27,2024-10-15,day,day,PD-1 monotherapy,FR
+246376102,toripalimab,23,2024-10-08,2024-10-31,day,day,PD-1 monotherapy,CN
+246376722,pembrolizumab,242,2024-01-01,2024-08-30,year,day,PD-1 monotherapy,FR
+246407525,nivolumab,49,2024-08-27,2024-10-15,day,day,PD-1 monotherapy,JP
+246411712,nivolumab,18,2024-10-07,2024-10-25,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+246458501,dostarlimab,101,2024-06-25,2024-10-04,day,day,PD-1 monotherapy,FR
+246531211,pembrolizumab,26,2024-08-15,2024-09-10,day,day,PD-1 monotherapy,CN
+246556842,durvalumab,34,2024-07-30,2024-09-02,day,day,PD-L1 monotherapy,
+246569783,nivolumab,11,2024-09-20,2024-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),DE
+246594712,pembrolizumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,TW
+246678141,nivolumab,37,2024-07-29,2024-09-04,day,day,PD-1 monotherapy,CH
+246699861,pembrolizumab,21,2024-08-28,2024-09-18,day,day,PD-1 monotherapy,FR
+246704691,cemiplimab,31,2024-10-08,2024-11-08,day,day,PD-1 monotherapy,
+246707311,pembrolizumab,55,2024-04-16,2024-06-10,day,day,PD-1 monotherapy,JP
+246760632,pembrolizumab,38,2020-08-14,2020-09-21,day,day,PD-1 monotherapy,FR
+246777311,tislelizumab,23,2024-10-14,2024-11-06,day,day,PD-1 monotherapy,CN
+246833411,tislelizumab,255,2024-03-04,2024-11-14,day,day,PD-1 monotherapy,CN
+246863361,pembrolizumab,212,2024-04-08,2024-11-06,day,day,PD-1 monotherapy,FR
+246869071,pembrolizumab,18,2022-12-14,2023-01-01,day,day,PD-1 monotherapy,IT
+246891593,nivolumab,0,2023-07-01,2023-07-01,month,day,COMBO (PD-[L]1 + CTLA-4),RU
+246922012,toripalimab,13,2024-10-30,2024-11-12,day,day,PD-1 monotherapy,CN
+246991551,tislelizumab,18,2024-10-18,2024-11-05,day,day,PD-1 monotherapy,CN
+247001511,pembrolizumab,212,2024-04-08,2024-11-06,day,day,PD-1 monotherapy,FR
+247015221,avelumab,28,2024-09-10,2024-10-08,day,day,PD-L1 monotherapy,FR
+247043581,nivolumab,305,2023-11-01,2024-09-01,month,day,COMBO (PD-[L]1 + CTLA-4),FR
+247123921,atezolizumab,225,2024-04-02,2024-11-13,day,day,PD-L1 monotherapy,FR
+247125972,toripalimab,25,2024-10-10,2024-11-04,day,day,PD-1 monotherapy,CN
+247131732,pembrolizumab,36,2024-06-10,2024-07-16,day,day,PD-1 monotherapy,ES
+247133955,atezolizumab,219,2024-04-02,2024-11-07,day,day,PD-1 monotherapy,EU
+247160506,atezolizumab,219,2024-04-02,2024-11-07,day,day,PD-1 monotherapy,EU
+247213023,pembrolizumab,5,2024-11-28,2024-12-03,day,day,PD-1 monotherapy,JP
+247251012,pembrolizumab,14,2024-10-18,2024-11-01,day,day,PD-1 monotherapy,CH
+247284911,pembrolizumab,212,2024-04-08,2024-11-06,day,day,PD-1 monotherapy,FR
+247288331,tislelizumab,22,2024-11-07,2024-11-29,day,day,PD-1 monotherapy,CN
+247313171,nivolumab,28,2024-06-03,2024-07-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+247314271,pembrolizumab,51,2023-09-21,2023-11-11,day,day,PD-1 monotherapy,IT
+247325972,nivolumab,38,2024-05-06,2024-06-13,day,day,PD-1 monotherapy,IT
+247327811,pembrolizumab,18,2024-10-18,2024-11-05,day,day,PD-1 monotherapy,CH
+247347301,ipilimumab,28,2024-06-03,2024-07-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+247400802,pembrolizumab,40,2024-11-01,2024-12-11,month,day,PD-1 monotherapy,JP
+247406561,ipilimumab,12,2024-11-19,2024-12-01,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+247431001,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,US
+247458885,nivolumab,2,2024-10-25,2024-10-27,day,day,COMBO (PD-[L]1 + CTLA-4),IT
+247472542,pembrolizumab,51,2023-09-21,2023-11-11,day,day,PD-1 monotherapy,IT
+247498381,pembrolizumab,15,2024-09-11,2024-09-26,day,day,PD-1 monotherapy,FR
+247543232,durvalumab,22,2024-10-24,2024-11-15,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+247613491,pembrolizumab,88,2024-07-15,2024-10-11,day,day,PD-1 monotherapy,FR
+247662931,pembrolizumab,88,2024-07-15,2024-10-11,day,day,PD-1 monotherapy,FR
+247662981,pembrolizumab,213,2024-04-02,2024-11-01,day,day,PD-1 monotherapy,FR
+247665624,pembrolizumab,88,2024-09-04,2024-12-01,day,day,PD-1 monotherapy,JP
+247672531,pembrolizumab,241,2024-04-02,2024-11-29,day,day,PD-1 monotherapy,FR
+247711033,pembrolizumab,0,2024-09-04,2024-09-04,day,day,PD-1 monotherapy,JP
+247711741,pembrolizumab,88,2024-07-15,2024-10-11,day,day,PD-1 monotherapy,FR
+247735571,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+247780371,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+247837251,pembrolizumab,0,2024-11-14,2024-11-14,day,day,PD-1 monotherapy,FR
+247839501,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+247876074,pembrolizumab,34,2024-11-20,2024-12-24,day,day,PD-1 monotherapy,JP
+247882321,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+247907591,nivolumab,50,2024-09-01,2024-10-21,month,day,PD-1 monotherapy,CH
+247907791,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+247909631,pembrolizumab,30,2024-06-01,2024-07-01,month,day,PD-1 monotherapy,JP
+247942321,pembrolizumab,323,2024-01-01,2024-11-19,year,day,PD-1 monotherapy,FR
+247946471,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+247967641,pembrolizumab,88,2024-07-15,2024-10-11,day,day,PD-1 monotherapy,FR
+247992841,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+247998361,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+248008602,toripalimab,0,2024-06-04,2024-06-04,day,day,PD-1 monotherapy,CN
+248059821,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+248066281,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+248097801,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+248136421,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+248169721,tislelizumab,31,2024-11-22,2024-12-23,day,day,PD-1 monotherapy,CN
+248172092,nivolumab,7,2024-11-20,2024-11-27,day,day,COMBO (PD-[L]1 + CTLA-4),SE
+248184551,nivolumab,20,2024-11-12,2024-12-02,day,day,COMBO (PD-[L]1 + CTLA-4),IS
+248197121,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+248242171,nivolumab,15,2024-11-05,2024-11-20,day,day,COMBO (PD-[L]1 + CTLA-4),IS
+248258595,durvalumab,3,2024-12-27,2024-12-30,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+248303953,pembrolizumab,20,2024-12-19,2025-01-08,day,day,PD-1 monotherapy,JP
+248436852,ipilimumab,19,2024-12-07,2024-12-26,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+248622841,pembrolizumab,335,2024-01-01,2024-12-01,year,day,PD-1 monotherapy,AT
+248635282,durvalumab,13,2024-12-19,2025-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+248641031,pembrolizumab,204,2023-11-02,2024-05-24,day,day,PD-1 monotherapy,JP
+248752661,pembrolizumab,39,2024-07-04,2024-08-12,day,day,PD-1 monotherapy,FR
+248767571,nivolumab,42,2024-06-27,2024-08-08,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+248839052,durvalumab,168,2024-06-11,2024-11-26,day,day,PD-L1 monotherapy,EU
+248859851,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+248877451,pembrolizumab,335,2024-01-01,2024-12-01,year,day,PD-1 monotherapy,AT
+248904631,pembrolizumab,335,2024-01-01,2024-12-01,year,day,PD-1 monotherapy,AT
+248915931,pembrolizumab,335,2024-01-01,2024-12-01,year,day,PD-1 monotherapy,AT
+248916912,pembrolizumab,15,2024-12-12,2024-12-27,day,day,PD-1 monotherapy,JP
+248938931,pembrolizumab,203,2024-05-17,2024-12-06,day,day,PD-1 monotherapy,FR
+248957342,nivolumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,US
+248985391,pembrolizumab,125,2024-08-30,2025-01-02,day,day,PD-1 monotherapy,FR
+249010398,pembrolizumab,70,2024-11-15,2025-01-24,day,day,PD-1 monotherapy,US
+249163581,pembrolizumab,62,2024-03-29,2024-05-30,day,day,PD-1 monotherapy,JP
+249214931,pembrolizumab,125,2024-08-30,2025-01-02,day,day,PD-1 monotherapy,FR
+249215661,nivolumab,40,2024-10-22,2024-12-01,day,day,PD-1 monotherapy,SE
+249227981,pembrolizumab,335,2024-01-01,2024-12-01,year,day,PD-1 monotherapy,AT
+249294001,pembrolizumab,0,2024-11-15,2024-11-15,day,day,PD-1 monotherapy,
+249531981,nivolumab,28,2024-05-28,2024-06-25,day,day,PD-1 monotherapy,CH
+249663403,dostarlimab,88,2024-10-03,2024-12-30,day,day,PD-1 monotherapy,FR
+249758423,pembrolizumab,0,2022-01-01,2022-01-01,year,day,PD-1 monotherapy,US
+249768492,tremelimumab,26,2024-12-17,2025-01-12,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+249783071,nivolumab,16,2024-09-09,2024-09-25,day,day,PD-1 monotherapy,CH
+249877601,pembrolizumab,42,2024-03-28,2024-05-09,day,day,PD-1 monotherapy,JP
+249892791,nivolumab,8,2023-12-18,2023-12-26,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+249893454,dostarlimab,119,2024-06-06,2024-10-03,day,day,PD-1 monotherapy,FR
+249916614,dostarlimab,136,2024-08-09,2024-12-23,day,day,PD-1 monotherapy,FR
+249917914,pembrolizumab,21,2024-11-21,2024-12-12,day,day,PD-1 monotherapy,CN
+249963903,durvalumab,16,2025-01-23,2025-02-08,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+250049041,pembrolizumab,25,2024-12-06,2024-12-31,day,day,PD-1 monotherapy,FR
+250051591,pembrolizumab,0,2024-11-01,2024-11-01,month,day,PD-1 monotherapy,FR
+250062375,ipilimumab,88,2024-07-05,2024-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+250087242,pembrolizumab,113,2023-11-20,2024-03-12,day,day,PD-1 monotherapy,JP
+250105691,nivolumab,18,2025-01-07,2025-01-25,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+250116832,pembrolizumab,3,2024-09-18,2024-09-21,day,day,PD-1 monotherapy,RS
+250134811,pembrolizumab,0,2025-01-08,2025-01-08,day,day,PD-1 monotherapy,CN
+250198397,dostarlimab,136,2024-08-09,2024-12-23,day,day,PD-1 monotherapy,EU
+250235621,pembrolizumab,690,2022-08-22,2024-07-12,day,day,PD-1 monotherapy,JP
+250252772,atezolizumab,21,2025-01-22,2025-02-12,day,day,PD-L1 monotherapy,JP
+250288421,pembrolizumab,21,2022-06-29,2022-07-20,day,day,PD-1 monotherapy,JP
+250303423,durvalumab,16,2025-01-23,2025-02-08,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+250383141,pembrolizumab,721,2022-02-07,2024-01-29,day,day,PD-1 monotherapy,FR
+250401242,pembrolizumab,140,2024-03-18,2024-08-05,day,day,PD-1 monotherapy,DE
+250415661,pembrolizumab,94,2023-03-09,2023-06-11,day,day,PD-1 monotherapy,SE
+250435304,pembrolizumab,33,2025-01-24,2025-02-26,day,day,PD-1 monotherapy,JP
+250523501,pembrolizumab,138,2024-07-12,2024-11-27,day,day,PD-1 monotherapy,FR
+250583063,pembrolizumab,0,2022-03-04,2022-03-04,day,day,PD-1 monotherapy,JP
+250617565,dostarlimab,136,2024-08-09,2024-12-23,day,day,PD-1 monotherapy,EU
+250660432,durvalumab,6,2024-12-24,2024-12-30,day,day,PD-L1 monotherapy,EU
+250673663,pembrolizumab,43,2025-01-16,2025-02-28,day,day,PD-1 monotherapy,JP
+250682113,durvalumab,43,2025-01-03,2025-02-15,day,day,PD-L1 monotherapy,EU
+250760981,ipilimumab,15,2025-02-06,2025-02-21,day,day,COMBO (PD-[L]1 + CTLA-4),GR
+250773362,pembrolizumab,2,2023-11-26,2023-11-28,day,day,PD-1 monotherapy,JP
+250799591,pembrolizumab,29,2023-12-11,2024-01-09,day,day,PD-1 monotherapy,PE
+250843601,pembrolizumab,162,2023-10-25,2024-04-04,day,day,PD-1 monotherapy,SE
+250859421,pembrolizumab,665,2023-05-01,2025-02-24,month,day,PD-1 monotherapy,FR
+250902423,nivolumab,33,2025-02-01,2025-03-06,month,day,PD-1 monotherapy,JP
+250927771,nivolumab,52,2021-10-29,2021-12-20,day,day,PD-1 monotherapy,JP
+250936181,pembrolizumab,164,2023-10-30,2024-04-11,day,day,PD-1 monotherapy,SE
+250947282,pembrolizumab,27,2024-04-16,2024-05-13,day,day,PD-1 monotherapy,JP
+250948562,pembrolizumab,41,2025-01-10,2025-02-20,day,day,PD-1 monotherapy,PL
+250965591,pembrolizumab,135,2024-08-19,2025-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+251005551,cemiplimab,0,2025-01-01,2025-01-01,year,day,PD-1 monotherapy,US
+251009691,pembrolizumab,147,2024-09-30,2025-02-24,day,day,PD-1 monotherapy,FR
+251060133,atezolizumab,99,2024-11-19,2025-02-26,day,day,PD-L1 monotherapy,FR
+251060683,atezolizumab,99,2024-11-19,2025-02-26,day,day,PD-L1 monotherapy,EU
+251069611,pembrolizumab,135,2024-08-19,2025-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+251134312,durvalumab,462,2023-10-28,2025-02-01,day,day,PD-L1 monotherapy,EU
+251144411,pembrolizumab,41,2023-04-21,2023-06-01,day,day,PD-1 monotherapy,PL
+251204032,pembrolizumab,17,2025-01-29,2025-02-15,day,day,PD-1 monotherapy,FR
+251224392,atezolizumab,0,2018-01-01,2018-01-01,year,day,PD-L1 monotherapy,JP
+251294051,pembrolizumab,41,2023-04-21,2023-06-01,day,day,PD-1 monotherapy,PL
+251304713,atezolizumab,143,2023-06-23,2023-11-13,day,day,PD-L1 monotherapy,JP
+251316181,pembrolizumab,68,2024-01-08,2024-03-16,day,day,PD-1 monotherapy,FR
+251337902,pembrolizumab,27,2024-09-04,2024-10-01,day,day,PD-1 monotherapy,JP
+251388823,atezolizumab,99,2024-11-19,2025-02-26,day,day,PD-L1 monotherapy,EU
+251452182,pembrolizumab,122,2024-09-01,2025-01-01,month,day,PD-1 monotherapy,JP
+251499943,atezolizumab,0,2024-10-30,2024-10-30,day,day,PD-L1 monotherapy,FR
+251538522,atezolizumab,118,2024-10-30,2025-02-25,day,day,PD-L1 monotherapy,FR
+251562682,pembrolizumab,90,2024-12-01,2025-03-01,month,day,PD-1 monotherapy,SI
+251563171,pembrolizumab,26,2023-07-21,2023-08-16,day,day,PD-1 monotherapy,FR
+251612161,pembrolizumab,42,2025-02-05,2025-03-19,day,day,PD-1 monotherapy,
+251617751,dostarlimab,88,2024-10-03,2024-12-30,day,day,PD-1 monotherapy,FR
+251682913,pembrolizumab,31,2024-12-01,2025-01-01,month,day,PD-1 monotherapy,SI
+251698871,pembrolizumab,200,2022-07-01,2023-01-17,month,day,PD-1 monotherapy,JP
+251723563,pembrolizumab,37,2023-12-27,2024-02-02,day,day,PD-1 monotherapy,JP
+251813721,nivolumab,30,2025-02-07,2025-03-09,day,day,PD-1 monotherapy,FR
+251848031,ipilimumab,20,2025-02-17,2025-03-09,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+251851082,pembrolizumab,115,2024-11-15,2025-03-10,day,day,PD-1 monotherapy,EU
+251852091,pembrolizumab,28,2025-02-04,2025-03-04,day,day,PD-1 monotherapy,CN
+251856174,pembrolizumab,37,2024-10-09,2024-11-15,day,day,PD-1 monotherapy,EU
+251934137,durvalumab,525,2023-01-09,2024-06-17,day,day,PD-L1 monotherapy,JP
+251964152,pembrolizumab,90,2024-12-01,2025-03-01,month,day,PD-1 monotherapy,SI
+251964391,pembrolizumab,2,2025-01-13,2025-01-15,day,day,PD-1 monotherapy,ES
+252026231,pembrolizumab,31,2022-12-01,2023-01-01,month,day,PD-1 monotherapy,BE
+252062971,pembrolizumab,41,2025-01-10,2025-02-20,day,day,PD-1 monotherapy,PL
+252089862,nivolumab,31,2025-03-01,2025-04-01,month,day,PD-1 monotherapy,JP
+252114506,nivolumab,20,2025-03-14,2025-04-03,day,day,PD-1 monotherapy,JP
+252128191,nivolumab,30,2024-12-16,2025-01-15,day,day,PD-1 monotherapy,CZ
+252181463,durvalumab,14,2025-02-26,2025-03-12,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+252221171,nivolumab,63,2024-12-18,2025-02-19,day,day,PD-1 monotherapy,CH
+252231121,pembrolizumab,41,2025-01-10,2025-02-20,day,day,PD-1 monotherapy,PL
+252253491,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252288321,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252346171,atezolizumab,344,2023-12-04,2024-11-12,day,day,PD-L1 monotherapy,JP
+252354851,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252363631,nivolumab,63,2024-12-18,2025-02-19,day,day,PD-1 monotherapy,CH
+252366332,durvalumab,36,2024-12-24,2025-01-29,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+252381742,pembrolizumab,21,2025-03-25,2025-04-15,day,day,PD-1 monotherapy,JP
+252408362,pembrolizumab,15,2024-12-12,2024-12-27,day,day,PD-1 monotherapy,JP
+252408732,pembrolizumab,31,2024-07-14,2024-08-14,day,day,PD-1 monotherapy,FR
+252411961,ipilimumab,16,2025-03-27,2025-04-12,day,day,COMBO (PD-[L]1 + CTLA-4),SE
+252456981,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252464831,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252474601,pembrolizumab,0,2025-03-14,2025-03-14,day,day,PD-1 monotherapy,CN
+252502673,dostarlimab,42,2024-05-06,2024-06-17,day,day,PD-1 monotherapy,FR
+252511371,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252557451,pembrolizumab,116,2024-11-21,2025-03-17,day,day,PD-1 monotherapy,GB
+252586681,nivolumab,0,2025-02-18,2025-02-18,day,day,COMBO (PD-[L]1 + CTLA-4),GR
+252588841,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252727771,pembrolizumab,62,2022-12-01,2023-02-01,month,day,PD-1 monotherapy,BE
+252734961,ipilimumab,14,2025-04-02,2025-04-16,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+252738451,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+252787531,pembrolizumab,62,2022-12-01,2023-02-01,month,day,PD-1 monotherapy,BE
+253058671,toripalimab,0,2023-01-01,2023-01-01,year,day,PD-1 monotherapy,CN
+253113251,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,FR
+253115081,pembrolizumab,212,2024-09-12,2025-04-12,day,day,PD-1 monotherapy,FR
+253138771,pembrolizumab,47,2025-03-01,2025-04-17,month,day,PD-1 monotherapy,FR
+253171311,pembrolizumab,212,2024-09-12,2025-04-12,day,day,PD-1 monotherapy,FR
+253178322,nivolumab,0,2025-02-17,2025-02-17,day,day,PD-1 monotherapy,AT
+253187782,pembrolizumab,19,2024-01-11,2024-01-30,day,day,PD-1 monotherapy,FR
+253364393,pembrolizumab,21,2024-11-18,2024-12-09,day,day,PD-1 monotherapy,EU
+253437872,pembrolizumab,120,2025-01-01,2025-05-01,year,day,PD-1 monotherapy,US
+253451362,nivolumab,30,2022-11-01,2022-12-01,month,day,COMBO (PD-[L]1 + CTLA-4),DE
+253464201,ipilimumab,13,2025-03-31,2025-04-13,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+253523701,ipilimumab,47,2025-01-03,2025-02-19,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+253583961,nivolumab,5,2025-03-20,2025-03-25,day,day,COMBO (PD-[L]1 + CTLA-4),CH
+253601411,pembrolizumab,196,2024-10-04,2025-04-18,day,day,PD-1 monotherapy,FR
+253605142,durvalumab,28,2025-02-18,2025-03-18,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+253605951,pembrolizumab,196,2024-10-04,2025-04-18,day,day,PD-1 monotherapy,FR
+253645661,pembrolizumab,196,2024-10-04,2025-04-18,day,day,PD-1 monotherapy,FR
+253707931,ipilimumab,42,2025-02-05,2025-03-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+253728961,pembrolizumab,210,2024-10-07,2025-05-05,day,day,PD-1 monotherapy,FR
+253748412,tremelimumab,29,2023-05-09,2023-06-07,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+253751611,pembrolizumab,196,2024-10-04,2025-04-18,day,day,PD-1 monotherapy,FR
+253755671,pembrolizumab,210,2024-10-07,2025-05-05,day,day,PD-1 monotherapy,FR
+253806591,ipilimumab,21,2024-12-23,2025-01-13,day,day,COMBO (PD-[L]1 + CTLA-4),ES
+253849571,pembrolizumab,127,2024-12-11,2025-04-17,day,day,PD-1 monotherapy,FR
+253850731,pembrolizumab,48,2024-06-28,2024-08-15,day,day,PD-1 monotherapy,PL
+253855061,avelumab,29,2024-05-23,2024-06-21,day,day,PD-L1 monotherapy,ES
+253891891,pembrolizumab,210,2024-10-07,2025-05-05,day,day,PD-1 monotherapy,FR
+253899081,pembrolizumab,44,2024-01-23,2024-03-07,day,day,PD-1 monotherapy,
+253903901,pembrolizumab,196,2024-10-04,2025-04-18,day,day,PD-1 monotherapy,FR
+253921853,pembrolizumab,366,2024-01-01,2025-01-01,year,day,PD-1 monotherapy,EU
+253963834,pembrolizumab,0,2025-01-01,2025-01-01,year,day,PD-1 monotherapy,JP
+253964331,dostarlimab,29,2025-04-07,2025-05-06,day,day,PD-1 monotherapy,FR
+253976161,pembrolizumab,19,2024-01-11,2024-01-30,day,day,PD-1 monotherapy,FR
+254004361,atezolizumab,365,2024-04-01,2025-04-01,month,day,PD-L1 monotherapy,JP
+254015401,pembrolizumab,210,2024-10-07,2025-05-05,day,day,PD-1 monotherapy,FR
+254028501,pembrolizumab,210,2024-10-07,2025-05-05,day,day,PD-1 monotherapy,FR
+254047941,pembrolizumab,329,2024-06-01,2025-04-26,month,day,PD-1 monotherapy,JP
+254067612,nivolumab,8,2025-03-27,2025-04-04,day,day,PD-1 monotherapy,JP
+254087311,pembrolizumab,5,2024-11-14,2024-11-19,day,day,PD-1 monotherapy,FR
+254103891,toripalimab,0,2024-06-04,2024-06-04,day,day,PD-1 monotherapy,CN
+254126661,pembrolizumab,236,2024-07-11,2025-03-04,day,day,PD-1 monotherapy,
+254220751,atezolizumab,73,2025-01-21,2025-04-04,day,day,PD-L1 monotherapy,CN
+254229781,pembrolizumab,48,2024-06-28,2024-08-15,day,day,PD-1 monotherapy,PL
+254307091,pembrolizumab,109,2024-12-13,2025-04-01,day,day,PD-1 monotherapy,CH
+254456501,pembrolizumab,11,2025-03-21,2025-04-01,day,day,PD-1 monotherapy,JP
+254526363,pembrolizumab,377,2023-07-01,2024-07-12,month,day,PD-1 monotherapy,JP
+254529522,pembrolizumab,152,2023-10-01,2024-03-01,month,day,PD-1 monotherapy,JP
+254627707,pembrolizumab,13,2025-04-04,2025-04-17,day,day,PD-1 monotherapy,AU
+254634171,nivolumab,31,2024-01-01,2024-02-01,month,day,COMBO (PD-[L]1 + CTLA-4),DE
+254640831,pembrolizumab,3,2025-05-08,2025-05-11,day,day,PD-1 monotherapy,ES
+254674932,pembrolizumab,366,2024-01-01,2025-01-01,year,day,PD-1 monotherapy,EU
+254751761,pembrolizumab,22,2025-05-15,2025-06-06,day,day,PD-1 monotherapy,CN
+254922091,nivolumab,24,2025-01-17,2025-02-10,day,day,PD-1 monotherapy,DE
+254967332,atezolizumab,224,2024-10-25,2025-06-06,day,day,PD-L1 monotherapy,EU
+255204902,atezolizumab,224,2024-10-25,2025-06-06,day,day,PD-L1 monotherapy,EU
+255205702,pembrolizumab,0,2023-08-24,2023-08-24,day,day,PD-1 monotherapy,EU
+255266351,pembrolizumab,0,2025-01-01,2025-01-01,year,day,PD-1 monotherapy,GB
+255267651,pembrolizumab,19,2025-05-06,2025-05-25,day,day,PD-1 monotherapy,GB
+255283301,nivolumab,31,2022-07-07,2022-08-07,day,day,PD-1 monotherapy,EU
+255307521,nivolumab,90,2024-10-23,2025-01-21,day,day,PD-1 monotherapy,EU
+255329793,pembrolizumab,78,2025-04-01,2025-06-18,month,day,PD-1 monotherapy,JP
+255341952,atezolizumab,224,2024-10-25,2025-06-06,day,day,PD-L1 monotherapy,EU
+255430102,durvalumab,17,2025-05-27,2025-06-13,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+255440831,ipilimumab,105,2024-10-21,2025-02-03,day,day,CTLA-4 monotherapy,EU
+255457472,pembrolizumab,28,2025-04-03,2025-05-01,day,day,PD-1 monotherapy,GB
+255487571,atezolizumab,247,2023-03-29,2023-12-01,day,day,PD-L1 monotherapy,EU
+255529152,atezolizumab,179,2024-12-19,2025-06-16,day,day,PD-L1 monotherapy,JP
+255538501,nivolumab,39,2025-02-21,2025-04-01,day,day,COMBO (PD-[L]1 + CTLA-4),CN
+255591832,pembrolizumab,0,2025-02-27,2025-02-27,day,day,PD-1 monotherapy,JP
+255626642,pembrolizumab,29,2025-05-27,2025-06-25,day,day,PD-1 monotherapy,JP
+255683711,pembrolizumab,57,2025-04-07,2025-06-03,day,day,PD-1 monotherapy,CN
+255704221,nivolumab,76,2023-05-25,2023-08-09,day,day,PD-1 monotherapy,EU
+255769632,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+255787912,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+255833363,atezolizumab,106,2024-10-30,2025-02-13,day,day,PD-L1 monotherapy,EU
+255859921,pembrolizumab,1,2023-10-25,2023-10-26,day,day,PD-1 monotherapy,JP
+255908334,dostarlimab,61,2025-02-03,2025-04-05,day,day,PD-1 monotherapy,EU
+255918721,durvalumab,31,2025-05-12,2025-06-12,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+255937463,atezolizumab,69,2025-04-15,2025-06-23,day,day,PD-L1 monotherapy,EU
+255941823,atezolizumab,99,2025-02-04,2025-05-14,day,day,PD-L1 monotherapy,JP
+255956812,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+255958431,pembrolizumab,27,2025-05-21,2025-06-17,day,day,PD-1 monotherapy,EU
+255976802,durvalumab,15,2025-06-17,2025-07-02,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+255988292,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+256003153,nivolumab,42,2025-06-04,2025-07-16,day,day,PD-1 monotherapy,JP
+256051482,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+256086221,pembrolizumab,22,2024-02-09,2024-03-02,day,day,PD-1 monotherapy,EU
+256109883,atezolizumab,148,2025-01-23,2025-06-20,day,day,PD-L1 monotherapy,EU
+256111704,dostarlimab,61,2025-02-03,2025-04-05,day,day,PD-1 monotherapy,EU
+256124293,atezolizumab,0,2025-04-15,2025-04-15,day,day,PD-L1 monotherapy,EU
+256137263,atezolizumab,0,2025-01-23,2025-01-23,day,day,PD-L1 monotherapy,EU
+256167251,pembrolizumab,72,2025-01-13,2025-03-26,day,day,PD-1 monotherapy,EU
+256204072,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+256309743,atezolizumab,148,2025-01-23,2025-06-20,day,day,PD-L1 monotherapy,EU
+256313332,pembrolizumab,32,2025-04-18,2025-05-20,day,day,PD-1 monotherapy,JP
+256343872,durvalumab,31,2025-06-01,2025-07-02,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+256419481,pembrolizumab,138,2025-01-31,2025-06-18,day,day,PD-1 monotherapy,EU
+256441631,pembrolizumab,138,2025-01-31,2025-06-18,day,day,PD-1 monotherapy,EU
+256457401,pembrolizumab,138,2025-01-31,2025-06-18,day,day,PD-1 monotherapy,EU
+256460911,pembrolizumab,5,2025-07-01,2025-07-06,day,day,PD-1 monotherapy,
+256511535,atezolizumab,0,2025-03-27,2025-03-27,day,day,PD-L1 monotherapy,EU
+256545512,atezolizumab,70,2025-04-15,2025-06-24,day,day,PD-L1 monotherapy,EU
+256595311,pembrolizumab,0,2024-12-31,2024-12-31,day,day,PD-1 monotherapy,CN
+256605561,pembrolizumab,186,2024-12-31,2025-07-05,day,day,PD-1 monotherapy,CN
+256610232,tremelimumab,22,2025-04-30,2025-05-22,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+256615831,pembrolizumab,83,2025-04-10,2025-07-02,day,day,PD-1 monotherapy,EU
+256703112,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+256716781,durvalumab,27,2025-05-20,2025-06-16,day,day,PD-L1 monotherapy,EU
+256748943,atezolizumab,107,2025-03-27,2025-07-12,day,day,PD-L1 monotherapy,EU
+256750201,nivolumab,31,2025-07-01,2025-08-01,month,day,PD-1 monotherapy,US
+256756711,pembrolizumab,138,2025-01-31,2025-06-18,day,day,PD-1 monotherapy,EU
+256799691,nivolumab,24,2023-12-11,2024-01-04,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+256805041,pembrolizumab,65,2024-03-29,2024-06-02,day,day,PD-1 monotherapy,JP
+256816441,pembrolizumab,138,2025-01-31,2025-06-18,day,day,PD-1 monotherapy,EU
+256837401,pembrolizumab,6,2025-07-01,2025-07-07,day,day,PD-1 monotherapy,EU
+256912371,pembrolizumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,JP
+257023123,pembrolizumab,257,2024-12-01,2025-08-15,month,day,PD-1 monotherapy,JP
+257124641,pembrolizumab,23,2023-03-16,2023-04-08,day,day,PD-1 monotherapy,CN
+257199182,atezolizumab,32,2025-06-26,2025-07-28,day,day,PD-L1 monotherapy,EU
+257212644,nivolumab,42,2025-01-15,2025-02-26,day,day,PD-1 monotherapy,JP
+257212721,pembrolizumab,5,2025-06-24,2025-06-29,day,day,PD-1 monotherapy,EU
+257220223,pembrolizumab,257,2024-12-01,2025-08-15,month,day,PD-1 monotherapy,JP
+257236861,pembrolizumab,195,2025-01-01,2025-07-15,month,day,PD-1 monotherapy,EU
+257260721,pembrolizumab,109,2025-04-14,2025-08-01,day,day,PD-1 monotherapy,EU
+257306891,pembrolizumab,25,2025-07-17,2025-08-11,day,day,PD-1 monotherapy,
+257307911,pembrolizumab,52,2025-03-10,2025-05-01,day,day,PD-1 monotherapy,
+257372332,pembrolizumab,192,2025-01-01,2025-07-12,year,day,PD-1 monotherapy,EU
+257379241,pembrolizumab,231,2024-12-13,2025-08-01,day,day,PD-1 monotherapy,EU
+257382201,pembrolizumab,153,2025-02-26,2025-07-29,day,day,PD-1 monotherapy,EU
+257424301,pembrolizumab,231,2024-12-13,2025-08-01,day,day,PD-1 monotherapy,EU
+257424391,pembrolizumab,153,2025-02-26,2025-07-29,day,day,PD-1 monotherapy,EU
+257510371,pembrolizumab,153,2025-02-26,2025-07-29,day,day,PD-1 monotherapy,EU
+257510411,pembrolizumab,231,2024-12-13,2025-08-01,day,day,PD-1 monotherapy,EU
+257541094,tremelimumab,11,2025-07-30,2025-08-10,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+257660241,pembrolizumab,231,2024-12-13,2025-08-01,day,day,PD-1 monotherapy,EU
+257674401,pembrolizumab,153,2025-02-26,2025-07-29,day,day,PD-1 monotherapy,EU
+257676551,pembrolizumab,153,2025-02-26,2025-07-29,day,day,PD-1 monotherapy,EU
+257677301,pembrolizumab,231,2024-12-13,2025-08-01,day,day,PD-1 monotherapy,EU
+257687291,pembrolizumab,18,2025-06-18,2025-07-06,day,day,PD-1 monotherapy,EU
+257754301,toripalimab,19,2025-08-06,2025-08-25,day,day,PD-1 monotherapy,CN
+257905791,nivolumab,22,2025-07-22,2025-08-13,day,day,PD-1 monotherapy,EU
+257943401,toripalimab,19,2025-08-06,2025-08-25,day,day,PD-1 monotherapy,CN
+258043521,dostarlimab,19,2024-11-15,2024-12-04,day,day,PD-1 monotherapy,EU
+258089231,pembrolizumab,22,2023-03-07,2023-03-29,day,day,PD-1 monotherapy,EU
+258169161,pembrolizumab,45,2025-03-11,2025-04-25,day,day,PD-1 monotherapy,CH
+258179351,pembrolizumab,358,2023-12-05,2024-11-27,day,day,PD-1 monotherapy,EU
+258231761,dostarlimab,19,2024-11-15,2024-12-04,day,day,PD-1 monotherapy,EU
+258250741,pembrolizumab,366,2024-01-01,2025-01-01,year,day,PD-1 monotherapy,EU
+258291131,tremelimumab,26,2025-07-11,2025-08-06,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+258323884,ipilimumab,8,2025-08-19,2025-08-27,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+258323942,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258324394,pembrolizumab,77,2025-06-17,2025-09-02,day,day,PD-1 monotherapy,JP
+258350462,atezolizumab,638,2023-04-04,2025-01-01,day,day,PD-L1 monotherapy,JP
+258379772,pembrolizumab,298,2024-11-06,2025-08-31,day,day,PD-1 monotherapy,EU
+258420982,pembrolizumab,20,2025-07-15,2025-08-04,day,day,PD-1 monotherapy,CN
+258496571,nivolumab,53,2025-06-17,2025-08-09,day,day,PD-1 monotherapy,EU
+258502742,durvalumab,55,2025-05-07,2025-07-01,day,day,PD-L1 monotherapy,EU
+258528401,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258529121,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258571081,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258647761,pembrolizumab,25,2025-08-01,2025-08-26,day,day,PD-1 monotherapy,EU
+258663651,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258829961,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258838051,nivolumab,21,2024-01-24,2024-02-14,day,day,PD-1 monotherapy,EU
+258850521,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258893401,nivolumab,5,2025-08-23,2025-08-28,day,day,PD-1 monotherapy,GB
+258909361,durvalumab,61,2025-07-10,2025-09-09,day,day,PD-L1 monotherapy,EU
+258988091,pembrolizumab,24,2025-07-25,2025-08-18,day,day,PD-1 monotherapy,EU
+259005581,nivolumab,19,2025-05-27,2025-06-15,day,day,PD-1 monotherapy,EU
+259065211,pembrolizumab,16,2025-08-20,2025-09-05,day,day,PD-1 monotherapy,
+259077751,pembrolizumab,18,2025-08-11,2025-08-29,day,day,PD-1 monotherapy,EU
+259082211,pembrolizumab,16,2025-08-20,2025-09-05,day,day,PD-1 monotherapy,US
+259241491,pembrolizumab,21,2025-04-10,2025-05-01,day,day,PD-1 monotherapy,EU
+259283881,pembrolizumab,19,2025-09-08,2025-09-27,day,day,PD-1 monotherapy,EU
+259284321,pembrolizumab,30,2025-07-08,2025-08-07,day,day,PD-1 monotherapy,EU
+259324671,pembrolizumab,5,2024-11-28,2024-12-03,day,day,PD-1 monotherapy,JP
+259357662,atezolizumab,145,2025-04-25,2025-09-17,day,day,PD-L1 monotherapy,EU
+259470021,nivolumab,84,2025-06-30,2025-09-22,day,day,PD-1 monotherapy,EU
+259523171,pembrolizumab,40,2025-07-11,2025-08-20,day,day,PD-1 monotherapy,EU
+259547612,durvalumab,41,2025-08-29,2025-10-09,day,day,PD-L1 monotherapy,CN
+259609003,atezolizumab,157,2025-04-25,2025-09-29,day,day,PD-L1 monotherapy,EU
+259633592,atezolizumab,0,2025-04-25,2025-04-25,day,day,PD-L1 monotherapy,EU
+259648321,pembrolizumab,40,2025-07-11,2025-08-20,day,day,PD-1 monotherapy,EU
+259680621,nivolumab,16,2025-08-19,2025-09-04,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+259713751,nivolumab,389,2024-06-12,2025-07-06,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+259722982,pembrolizumab,61,2025-08-01,2025-10-01,month,day,PD-1 monotherapy,JP
+259755111,pembrolizumab,40,2025-07-11,2025-08-20,day,day,PD-1 monotherapy,EU
+259766731,pembrolizumab,5,2025-08-13,2025-08-18,day,day,PD-1 monotherapy,EU
+259967833,pembrolizumab,17,2025-10-03,2025-10-20,day,day,PD-1 monotherapy,EU
+259981501,atezolizumab,107,2025-03-27,2025-07-12,day,day,PD-L1 monotherapy,EU
+260073641,pembrolizumab,106,2025-07-03,2025-10-17,day,day,PD-1 monotherapy,TW
+260191602,durvalumab,10,2023-12-05,2023-12-15,day,day,PD-L1 monotherapy,JP
+260371432,pembrolizumab,22,2025-09-02,2025-09-24,day,day,PD-1 monotherapy,CN
+260430702,pembrolizumab,17,2025-10-03,2025-10-20,day,day,PD-1 monotherapy,EU
+260430871,atezolizumab,107,2025-03-27,2025-07-12,day,day,PD-L1 monotherapy,EU
+260609221,pembrolizumab,34,2025-09-10,2025-10-14,day,day,PD-1 monotherapy,EU
+260631562,pembrolizumab,0,2025-10-08,2025-10-08,day,day,PD-1 monotherapy,JP
+260835691,pembrolizumab,286,2021-05-20,2022-03-02,day,day,PD-1 monotherapy,EU
+260895591,pembrolizumab,52,2021-04-29,2021-06-20,day,day,PD-1 monotherapy,EU
+260925551,pembrolizumab,0,2025-10-01,2025-10-01,month,day,PD-1 monotherapy,JP
+261087331,nivolumab,0,2025-10-13,2025-10-13,day,day,PD-1 monotherapy,
+261135021,pembrolizumab,242,2024-08-01,2025-03-31,day,day,PD-1 monotherapy,EU
+261159412,nivolumab,16,2025-10-27,2025-11-12,day,day,PD-1 monotherapy,EU
+261184431,pembrolizumab,22,2025-09-29,2025-10-21,day,day,PD-1 monotherapy,CN
+261203201,durvalumab,178,2025-05-09,2025-11-03,day,day,PD-L1 monotherapy,EU
+261231451,pembrolizumab,2,2024-11-22,2024-11-24,day,day,PD-1 monotherapy,EU
+261260641,pembrolizumab,35,2024-11-28,2025-01-02,day,day,PD-1 monotherapy,EU
+261306092,nivolumab,230,2025-02-27,2025-10-15,day,day,PD-1 monotherapy,JP
+261357111,pembrolizumab,0,2024-11-22,2024-11-22,day,day,PD-1 monotherapy,EU
+261410011,pembrolizumab,22,2025-10-16,2025-11-07,day,day,PD-1 monotherapy,EU
+261467312,ipilimumab,24,2020-07-03,2020-07-27,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+261473791,pembrolizumab,2,2024-11-22,2024-11-24,day,day,PD-1 monotherapy,EU
+261498802,pembrolizumab,109,2024-07-12,2024-10-29,day,day,PD-1 monotherapy,CH
+261559751,pembrolizumab,2,2024-11-22,2024-11-24,day,day,PD-1 monotherapy,EU
+261599163,pembrolizumab,365,2024-07-01,2025-07-01,month,day,PD-1 monotherapy,JP
+261640571,toripalimab,17,2025-10-28,2025-11-14,day,day,PD-1 monotherapy,CN
+261682123,nivolumab,21,2025-10-17,2025-11-07,day,day,PD-1 monotherapy,GB
+261695581,pembrolizumab,2,2024-11-22,2024-11-24,day,day,PD-1 monotherapy,EU
+261718863,ipilimumab,40,2025-10-29,2025-12-08,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+261820112,pembrolizumab,84,2025-03-04,2025-05-27,day,day,PD-1 monotherapy,JP
+261885651,tislelizumab,81,2025-08-23,2025-11-12,day,day,PD-1 monotherapy,CN
+262011972,durvalumab,33,2025-09-22,2025-10-25,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+262015853,ipilimumab,0,2025-11-19,2025-11-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+262063282,durvalumab,380,2024-07-18,2025-08-02,day,day,PD-L1 monotherapy,JP
+262063932,atezolizumab,19,2025-11-19,2025-12-08,day,day,PD-L1 monotherapy,EU
+262139961,toripalimab,14,2025-04-16,2025-04-30,day,day,PD-1 monotherapy,CN
+262252681,pembrolizumab,2,2024-11-22,2024-11-24,day,day,PD-1 monotherapy,EU
+262408111,pembrolizumab,181,2025-01-01,2025-07-01,year,day,PD-1 monotherapy,IL
+262507361,pembrolizumab,40,2025-09-24,2025-11-03,day,day,PD-1 monotherapy,TW
+262507641,ipilimumab,29,2022-11-08,2022-12-07,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+262514991,nivolumab,205,2025-06-10,2026-01-01,day,day,PD-1 monotherapy,
+262530671,nivolumab,13,2025-12-22,2026-01-04,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+262620394,pembrolizumab,6,2025-12-09,2025-12-15,day,day,PD-1 monotherapy,JP
+262661422,pembrolizumab,87,2025-08-06,2025-11-01,day,day,PD-1 monotherapy,EU
+262687091,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+262690981,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+262757441,ipilimumab,29,2022-11-08,2022-12-07,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+262869501,pembrolizumab,109,2025-02-18,2025-06-07,day,day,PD-1 monotherapy,EU
+262887291,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+262903831,pembrolizumab,444,2024-08-28,2025-11-15,day,day,PD-1 monotherapy,
+262903841,pembrolizumab,62,2025-11-13,2026-01-14,day,day,PD-1 monotherapy,
+262905621,dostarlimab,22,2025-02-12,2025-03-06,day,day,PD-1 monotherapy,EU
+262964791,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+262979071,tislelizumab,21,2025-10-28,2025-11-18,day,day,PD-1 monotherapy,CN
+262989091,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+263029601,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+263054001,dostarlimab,22,2025-02-12,2025-03-06,day,day,PD-1 monotherapy,EU
+263155891,dostarlimab,22,2025-02-12,2025-03-06,day,day,PD-1 monotherapy,EU
+263162341,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+263236782,pembrolizumab,0,2025-12-01,2025-12-01,month,day,PD-1 monotherapy,JP
+263241681,pembrolizumab,0,2024-10-01,2024-10-01,month,day,PD-1 monotherapy,EU
+263365501,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+263377481,pembrolizumab,11,2022-05-17,2022-05-28,day,day,PD-1 monotherapy,JP
+263480922,durvalumab,39,2025-10-06,2025-11-14,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+263532971,pembrolizumab,21,2023-02-10,2023-03-03,day,day,PD-1 monotherapy,CN
+263541461,ipilimumab,61,2025-09-01,2025-11-01,month,day,COMBO (PD-[L]1 + CTLA-4),JP
+263560531,pembrolizumab,162,2025-07-27,2026-01-05,day,day,PD-1 monotherapy,EU
+263562871,pembrolizumab,143,2025-08-11,2026-01-01,day,day,PD-1 monotherapy,EU
+263590061,pembrolizumab,151,2025-08-11,2026-01-09,day,day,PD-1 monotherapy,EU
+263590501,pembrolizumab,197,2025-05-19,2025-12-02,day,day,PD-1 monotherapy,CH
+263605921,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+263610481,tislelizumab,54,2025-12-03,2026-01-26,day,day,PD-1 monotherapy,CN
+263623591,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+263624071,durvalumab,39,2025-10-06,2025-11-14,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+263676241,pembrolizumab,162,2025-07-27,2026-01-05,day,day,PD-1 monotherapy,EU
+263704401,pembrolizumab,143,2025-08-11,2026-01-01,day,day,PD-1 monotherapy,EU
+263732741,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+263786301,pembrolizumab,156,2025-07-29,2026-01-01,day,day,PD-1 monotherapy,CN
+263860231,pembrolizumab,143,2025-08-11,2026-01-01,day,day,PD-1 monotherapy,EU
+263866441,pembrolizumab,203,2025-06-18,2026-01-07,day,day,PD-1 monotherapy,EU
+263874041,pembrolizumab,203,2025-06-18,2026-01-07,day,day,PD-1 monotherapy,EU
+263928181,pembrolizumab,23,2025-10-29,2025-11-21,day,day,PD-1 monotherapy,EU
+263929441,durvalumab,24,2026-01-09,2026-02-02,day,day,PD-L1 monotherapy,CN
+263932821,pembrolizumab,203,2025-06-18,2026-01-07,day,day,PD-1 monotherapy,EU
+263942951,pembrolizumab,3,2023-09-28,2023-10-01,day,day,PD-1 monotherapy,JP
+264033931,pembrolizumab,162,2025-07-27,2026-01-05,day,day,PD-1 monotherapy,EU
+264052831,toripalimab,29,2026-01-12,2026-02-10,day,day,PD-1 monotherapy,CN
+264064841,pembrolizumab,143,2025-08-11,2026-01-01,day,day,PD-1 monotherapy,EU
+264102191,pembrolizumab,203,2025-06-18,2026-01-07,day,day,PD-1 monotherapy,EU
+264177701,cemiplimab,21,2026-01-07,2026-01-28,day,day,PD-1 monotherapy,EU
+264179211,tislelizumab,32,2025-12-11,2026-01-12,day,day,PD-1 monotherapy,CN
+264226561,pembrolizumab,84,2025-10-09,2026-01-01,day,day,PD-1 monotherapy,EU
+264259571,tislelizumab,0,2025-12-08,2025-12-08,day,day,PD-1 monotherapy,CN
+264286191,pembrolizumab,35,2024-08-27,2024-10-01,day,day,PD-1 monotherapy,CN
+264375491,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+264389901,pembrolizumab,203,2025-06-18,2026-01-07,day,day,PD-1 monotherapy,EU
+264397621,pembrolizumab,20,2024-03-08,2024-03-28,day,day,PD-1 monotherapy,CN
+264441991,pembrolizumab,16,2025-09-15,2025-10-01,day,day,PD-1 monotherapy,EU
+264603472,pembrolizumab,106,2025-06-04,2025-09-18,day,day,PD-1 monotherapy,JP
+264657921,pembrolizumab,31,2025-12-19,2026-01-19,day,day,PD-1 monotherapy,EU
+264679202,ipilimumab,15,2025-10-01,2025-10-16,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+264731011,nivolumab,25,2026-02-05,2026-03-02,day,day,PD-1 monotherapy,
+264800371,pembrolizumab,17,2025-05-15,2025-06-01,day,day,PD-1 monotherapy,EU
+264842881,pembrolizumab,35,2025-12-26,2026-01-30,day,day,PD-1 monotherapy,EU
+264864541,pembrolizumab,92,2025-11-01,2026-02-01,month,day,PD-1 monotherapy,JP
+264928261,pembrolizumab,0,2024-08-22,2024-08-22,day,day,PD-1 monotherapy,CN
+264978091,nivolumab,143,2025-09-09,2026-01-30,day,day,PD-1 monotherapy,EU
+264997321,pembrolizumab,26,2024-03-15,2024-04-10,day,day,PD-1 monotherapy,
+265008872,pembrolizumab,27,2025-01-14,2025-02-10,day,day,PD-1 monotherapy,EU
+265029451,tislelizumab,35,2026-01-01,2026-02-05,day,day,PD-1 monotherapy,CN
+265036324,pembrolizumab,0,2024-01-01,2024-01-01,year,day,PD-1 monotherapy,EU
+265090081,pembrolizumab,44,2025-12-15,2026-01-28,day,day,PD-1 monotherapy,EU
+265106841,avelumab,14,2025-01-14,2025-01-28,day,day,PD-L1 monotherapy,EU
+265109201,nivolumab,31,2025-12-01,2026-01-01,day,day,PD-1 monotherapy,EU
+265170101,pembrolizumab,103,2025-10-06,2026-01-17,day,day,PD-1 monotherapy,EU
+265170581,nivolumab,57,2025-12-22,2026-02-17,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+265204571,pembrolizumab,85,2025-10-06,2025-12-30,day,day,PD-1 monotherapy,EU
+265256091,pembrolizumab,3,2026-02-10,2026-02-13,day,day,PD-1 monotherapy,EU
+265259681,pembrolizumab,126,2025-11-13,2026-03-19,day,day,PD-1 monotherapy,
+265266481,tislelizumab,13,2026-01-19,2026-02-01,day,day,PD-1 monotherapy,CN
+265298131,pembrolizumab,103,2025-10-06,2026-01-17,day,day,PD-1 monotherapy,EU
+265307431,pembrolizumab,103,2025-10-06,2026-01-17,day,day,PD-1 monotherapy,EU
+265335121,pembrolizumab,62,2020-06-02,2020-08-03,day,day,PD-1 monotherapy,EU
+265336771,durvalumab,58,2025-12-30,2026-02-26,day,day,COMBO (PD-[L]1 + CTLA-4),
+265352671,pembrolizumab,13,2026-02-26,2026-03-11,day,day,PD-1 monotherapy,GB
+265369941,atezolizumab,48,2025-12-03,2026-01-20,day,day,PD-L1 monotherapy,JP
+265400603,pembrolizumab,28,2026-01-15,2026-02-12,day,day,PD-1 monotherapy,EU
+265513951,durvalumab,92,2025-12-01,2026-03-03,month,day,PD-L1 monotherapy,JP
+265659891,pembrolizumab,103,2025-10-06,2026-01-17,day,day,PD-1 monotherapy,EU
+265710971,atezolizumab,25,2026-02-27,2026-03-24,day,day,PD-L1 monotherapy,
+265740881,ipilimumab,34,2026-01-21,2026-02-24,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+265834802,pembrolizumab,16,2026-03-06,2026-03-22,day,day,PD-1 monotherapy,EU
+265899821,nivolumab,42,2023-11-20,2024-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+265949652,pembrolizumab,4,2026-02-20,2026-02-24,day,day,PD-1 monotherapy,JP
+265971961,pembrolizumab,125,2025-08-29,2026-01-01,day,day,PD-1 monotherapy,JP
+266183411,nivolumab,29,2026-01-12,2026-02-10,day,day,PD-1 monotherapy,
+266377021,nivolumab,14,2026-01-09,2026-01-23,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+266381311,pembrolizumab,0,2025-12-01,2025-12-01,month,day,PD-1 monotherapy,JP
+266413871,durvalumab,29,2026-03-10,2026-04-08,day,day,PD-L1 monotherapy,CN
+266421443,nivolumab,16,2026-03-25,2026-04-10,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+266442031,pembrolizumab,35,2025-08-29,2025-10-03,day,day,PD-1 monotherapy,JP
+266548222,pembrolizumab,46,2025-12-17,2026-02-01,day,day,PD-1 monotherapy,JP
+266600341,durvalumab,369,2025-03-05,2026-03-09,day,day,PD-L1 monotherapy,EU
+266969002,pembrolizumab,0,2022-11-08,2022-11-08,day,day,PD-1 monotherapy,CN
+267004861,atezolizumab,57,2025-09-05,2025-11-01,day,day,PD-L1 monotherapy,EU
+267056951,atezolizumab,206,2025-09-05,2026-03-30,day,day,PD-L1 monotherapy,EU
+267057891,nivolumab,22,2023-02-09,2023-03-03,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+267063711,nivolumab,20,2026-03-25,2026-04-14,day,day,COMBO (PD-[L]1 + CTLA-4),EU
+267079011,atezolizumab,57,2025-09-05,2025-11-01,day,day,PD-L1 monotherapy,EU
+267099661,tislelizumab,50,2026-02-05,2026-03-27,day,day,PD-1 monotherapy,CN
+267197311,ipilimumab,62,2025-12-01,2026-02-01,month,day,COMBO (PD-[L]1 + CTLA-4),CA
+267198171,nivolumab,25,2025-12-19,2026-01-13,day,day,PD-1 monotherapy,JP
+267210801,pembrolizumab,3,2025-12-29,2026-01-01,day,day,PD-1 monotherapy,EU
+267215791,pembrolizumab,50,2026-03-02,2026-04-21,day,day,PD-1 monotherapy,EU
+267217641,pembrolizumab,21,2026-03-02,2026-03-23,day,day,PD-1 monotherapy,EU
+267268631,pembrolizumab,21,2026-03-02,2026-03-23,day,day,PD-1 monotherapy,EU
+267318661,atezolizumab,57,2025-09-05,2025-11-01,day,day,PD-L1 monotherapy,EU
+267381701,pembrolizumab,30,2026-03-30,2026-04-29,day,day,PD-1 monotherapy,
+267405781,pembrolizumab,21,2026-03-02,2026-03-23,day,day,PD-1 monotherapy,EU
+267569771,pembrolizumab,32,2025-05-16,2025-06-17,day,day,PD-1 monotherapy,TW
+267621971,pembrolizumab,21,2026-03-02,2026-03-23,day,day,PD-1 monotherapy,EU
+267789131,durvalumab,147,2025-07-07,2025-12-01,day,day,PD-L1 monotherapy,EU
+267806141,atezolizumab,206,2025-09-05,2026-03-30,day,day,PD-L1 monotherapy,EU
+267834991,pembrolizumab,12,2026-03-30,2026-04-11,day,day,PD-1 monotherapy,EU
+267876121,pembrolizumab,28,2026-03-05,2026-04-02,day,day,PD-1 monotherapy,
+268063412,pembrolizumab,173,2025-11-01,2026-04-23,day,day,PD-1 monotherapy,EU
+268095822,nivolumab,21,2026-03-31,2026-04-21,day,day,PD-1 monotherapy,JP
+268224821,pembrolizumab,21,2026-03-02,2026-03-23,day,day,PD-1 monotherapy,EU
+268285331,nivolumab,15,2025-12-11,2025-12-26,day,day,PD-1 monotherapy,EU
+268405891,pembrolizumab,10,2026-04-01,2026-04-11,day,day,PD-1 monotherapy,EU
+268453291,tislelizumab,41,2026-03-06,2026-04-16,day,day,PD-1 monotherapy,CN
+268458021,nivolumab,38,2026-03-13,2026-04-20,day,day,PD-1 monotherapy,
+268466241,tislelizumab,20,2026-04-15,2026-05-05,day,day,PD-1 monotherapy,CN
+268477282,pembrolizumab,40,2025-10-03,2025-11-12,day,day,PD-1 monotherapy,AU
+268619831,pembrolizumab,17,2025-11-04,2025-11-21,day,day,PD-1 monotherapy,EU
+268632421,pembrolizumab,268,2025-08-11,2026-05-06,day,day,PD-1 monotherapy,EU
+268703431,pembrolizumab,20,2026-04-04,2026-04-24,day,day,PD-1 monotherapy,JP
+268955421,pembrolizumab,0,2026-03-05,2026-03-05,day,day,PD-1 monotherapy,CN
+268968391,pembrolizumab,30,2026-05-04,2026-06-03,day,day,PD-1 monotherapy,
+269157251,pembrolizumab,9,2026-05-13,2026-05-22,day,day,PD-1 monotherapy,EU
+269245781,pembrolizumab,182,2025-12-01,2026-06-01,month,day,PD-1 monotherapy,EU
+269434951,nivolumab,46,2024-08-13,2024-09-28,day,day,PD-1 monotherapy,EU
+1061739610,pembrolizumab,105,2014-07-18,2014-10-31,day,day,PD-1 monotherapy,CH
+1123238629,nivolumab,19,2015-05-14,2015-06-02,day,day,PD-1 monotherapy,JP
+1189489412,nivolumab,0,2015-01-01,2015-01-01,year,year,PD-1 monotherapy,JP
+1224224312,nivolumab,17,2016-03-10,2016-03-27,day,day,PD-1 monotherapy,FR
+1226908612,avelumab,19,2016-03-22,2016-04-10,day,day,PD-L1 monotherapy,GB
+1241349814,nivolumab,0,2016-04-01,2016-04-01,month,day,PD-1 monotherapy,JP
+1241466410,nivolumab,0,2016-05-11,2016-05-11,day,day,PD-1 monotherapy,JP
+1252405212,atezolizumab,33,2016-05-26,2016-06-28,day,day,PD-L1 monotherapy,US
+1254702412,nivolumab,28,2016-06-02,2016-06-30,day,day,PD-1 monotherapy,JP
+1258486213,nivolumab,40,2016-05-19,2016-06-28,day,day,PD-1 monotherapy,JP
+1297038916,nivolumab,19,2016-10-13,2016-11-01,day,month,PD-1 monotherapy,JP
+1305204711,pembrolizumab,15,2016-11-15,2016-11-30,day,day,PD-1 monotherapy,ES
+1307872422,atezolizumab,13,2016-12-01,2016-12-14,day,day,PD-L1 monotherapy,US
+1333557810,nivolumab,10,2016-12-22,2017-01-01,day,month,PD-1 monotherapy,JP
+1349577910,atezolizumab,7,2017-04-06,2017-04-13,day,day,PD-L1 monotherapy,CA
+1350254312,nivolumab,41,2017-03-09,2017-04-19,day,day,PD-1 monotherapy,AU
+1355762424,pembrolizumab,9,2017-04-24,2017-05-03,day,day,PD-1 monotherapy,JP
+1392244512,pembrolizumab,22,2017-08-02,2017-08-24,day,day,PD-1 monotherapy,AU
+1415543515,atezolizumab,138,2017-05-31,2017-10-16,day,day,PD-L1 monotherapy,TR
+1428946712,nivolumab,16,2017-11-13,2017-11-29,day,day,PD-1 monotherapy,JP
+1432947635,pembrolizumab,45,2017-11-01,2017-12-16,day,day,PD-1 monotherapy,JP
+1449036611,ipilimumab,2,2016-06-07,2016-06-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1473341510,atezolizumab,48,2018-02-08,2018-03-28,day,day,PD-L1 monotherapy,DK
+1513174910,pembrolizumab,21,2018-06-15,2018-07-06,day,day,PD-1 monotherapy,FR
+1519823112,pembrolizumab,11,2018-04-26,2018-05-07,day,day,PD-1 monotherapy,JP
+1537475411,nivolumab,33,2017-11-29,2018-01-01,day,day,PD-1 monotherapy,JP
+1539284918,nivolumab,15,2018-07-12,2018-07-27,day,day,PD-1 monotherapy,JP
+1539838411,nivolumab,34,2018-08-10,2018-09-13,day,day,PD-1 monotherapy,US
+1540199810,nivolumab,34,2018-07-10,2018-08-13,day,day,PD-1 monotherapy,JP
+1540326011,nivolumab,27,2018-07-11,2018-08-07,day,day,PD-1 monotherapy,CN
+1563206910,nivolumab,18,2018-10-23,2018-11-10,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1566392240,ipilimumab,11,2018-09-20,2018-10-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1570592911,nivolumab,14,2018-11-05,2018-11-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1570817813,nivolumab,15,2017-02-28,2017-03-15,day,day,PD-1 monotherapy,JP
+1577699515,pembrolizumab,23,2018-11-02,2018-11-25,day,day,PD-1 monotherapy,JP
+1580112614,atezolizumab,111,2018-09-13,2019-01-02,day,day,PD-L1 monotherapy,CO
+1584338916,pembrolizumab,14,2018-12-14,2018-12-28,day,day,PD-1 monotherapy,JP
+1605676118,nivolumab,26,2019-02-06,2019-03-04,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1626037210,atezolizumab,8,2018-07-26,2018-08-03,day,day,PD-L1 monotherapy,
+1631005421,pembrolizumab,15,2019-04-17,2019-05-02,day,day,PD-1 monotherapy,AU
+1636597013,atezolizumab,94,2019-02-01,2019-05-06,month,day,COMBO (PD-[L]1 + CTLA-4),FR
+1642453112,nivolumab,76,2019-01-01,2019-03-18,month,day,PD-1 monotherapy,JP
+1651308814,ipilimumab,69,2018-10-24,2019-01-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1675054123,pembrolizumab,43,2019-07-10,2019-08-22,day,day,PD-1 monotherapy,CA
+1688014315,nivolumab,18,2019-06-27,2019-07-15,day,day,PD-1 monotherapy,JP
+1693241712,nivolumab,28,2019-08-22,2019-09-19,day,day,COMBO (PD-[L]1 + CTLA-4),FR
+1697569916,nivolumab,0,2019-10-15,2019-10-15,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1698870410,atezolizumab,27,2019-09-06,2019-10-03,day,day,PD-L1 monotherapy,JP
+1699210911,atezolizumab,7,2019-10-08,2019-10-15,day,day,PD-L1 monotherapy,
+1710632220,pembrolizumab,16,2019-11-07,2019-11-23,day,day,PD-1 monotherapy,
+1713056518,atezolizumab,144,2019-07-03,2019-11-24,day,day,PD-L1 monotherapy,
+1713775712,nivolumab,58,2019-09-02,2019-10-30,day,day,PD-1 monotherapy,ES
+1718661618,nivolumab,20,2019-10-11,2019-10-31,day,day,PD-1 monotherapy,BE
+1719450312,nivolumab,78,2019-08-15,2019-11-01,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1724538411,nivolumab,27,2019-11-28,2019-12-25,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1729073810,nivolumab,28,2019-12-05,2020-01-02,day,day,PD-1 monotherapy,AU
+1756935719,nivolumab,7,2020-02-20,2020-02-27,day,day,PD-1 monotherapy,JP
+1761252212,nivolumab,7,2019-08-07,2019-08-14,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1778001727,ipilimumab,3,2020-03-10,2020-03-13,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1787828514,atezolizumab,158,2019-12-27,2020-06-02,day,day,PD-L1 monotherapy,PE
+1811649410,nivolumab,75,2020-02-05,2020-04-20,day,day,PD-1 monotherapy,BR
+1817052513,pembrolizumab,196,2020-01-14,2020-07-28,day,day,PD-1 monotherapy,CN
+1825673515,ipilimumab,35,2020-06-24,2020-07-29,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1829542014,nivolumab,24,2020-04-21,2020-05-15,day,day,PD-1 monotherapy,JP
+1845578717,ipilimumab,44,2020-01-15,2020-02-28,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1856095225,pembrolizumab,15,2020-11-02,2020-11-17,day,day,PD-1 monotherapy,CN
+1863019410,atezolizumab,48,2020-10-20,2020-12-07,day,day,PD-L1 monotherapy,
+1906120710,ipilimumab,20,2021-02-25,2021-03-17,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1910656222,ipilimumab,16,2021-03-03,2021-03-19,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1915690811,nivolumab,68,2021-01-28,2021-04-06,day,day,PD-1 monotherapy,GR
+1923347114,dostarlimab,37,2020-11-06,2020-12-13,day,day,PD-1 monotherapy,NL
+1926052412,nivolumab,15,2021-04-26,2021-05-11,day,day,PD-1 monotherapy,ES
+1942071611,atezolizumab,126,2021-02-01,2021-06-07,day,day,PD-L1 monotherapy,
+1945473211,nivolumab,18,2021-05-28,2021-06-15,day,day,PD-1 monotherapy,FR
+1947523310,pembrolizumab,220,2020-07-03,2021-02-08,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1950093113,nivolumab,0,2021-03-26,2021-03-26,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1953218122,atezolizumab,40,2021-03-04,2021-04-13,day,day,PD-L1 monotherapy,
+1976989926,ipilimumab,20,2021-08-04,2021-08-24,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1984162623,nivolumab,7,2019-10-08,2019-10-15,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1996425921,ipilimumab,8,2021-08-05,2021-08-13,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+1998833314,cemiplimab,21,2021-09-21,2021-10-12,day,day,PD-1 monotherapy,CL
+2013907116,pembrolizumab,89,2021-08-27,2021-11-24,day,day,PD-1 monotherapy,
+2017020431,ipilimumab,9,2021-09-28,2021-10-07,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2022804911,pembrolizumab,208,2020-11-04,2021-05-31,day,day,PD-1 monotherapy,JP
+2028177817,atezolizumab,203,2021-05-26,2021-12-15,day,day,PD-L1 monotherapy,
+2030263411,ipilimumab,140,2021-06-28,2021-11-15,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2035141113,atezolizumab,254,2021-04-29,2022-01-08,day,day,PD-L1 monotherapy,
+2042769010,atezolizumab,14,2022-01-13,2022-01-27,day,day,PD-L1 monotherapy,
+2054838012,ipilimumab,3,2021-03-31,2021-04-03,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2056554514,ipilimumab,28,2019-12-17,2020-01-14,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2073107010,pembrolizumab,30,2022-03-08,2022-04-07,day,day,PD-1 monotherapy,
+2075743410,pembrolizumab,20,2022-03-04,2022-03-24,day,day,PD-1 monotherapy,JP
+2075776513,pembrolizumab,20,2022-03-04,2022-03-24,day,day,PD-1 monotherapy,JP
+2086708413,pembrolizumab,20,2022-03-04,2022-03-24,day,day,PD-1 monotherapy,
+2091968212,atezolizumab,11,2022-05-10,2022-05-21,day,day,PD-L1 monotherapy,
+2092358722,pembrolizumab,17,2022-05-12,2022-05-29,day,day,PD-1 monotherapy,
+2108874019,pembrolizumab,18,2022-06-20,2022-07-08,day,day,PD-1 monotherapy,
+2115793912,nivolumab,20,2022-05-16,2022-06-05,day,day,PD-1 monotherapy,JP
+2151450826,pembrolizumab,82,2022-07-20,2022-10-10,day,day,PD-1 monotherapy,
+2210472611,dostarlimab,25,2023-02-15,2023-03-12,day,day,PD-1 monotherapy,KR
+2232560612,durvalumab,19,2023-04-20,2023-05-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2234259319,nivolumab,11,2023-04-06,2023-04-17,day,day,PD-1 monotherapy,JP
+2289822110,nivolumab,13,2023-08-03,2023-08-16,day,day,PD-1 monotherapy,JP
+2308037510,durvalumab,42,2023-05-10,2023-06-21,day,day,PD-L1 monotherapy,JP
+2366011812,durvalumab,12,2024-02-26,2024-03-09,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2379135415,nivolumab,27,2024-03-08,2024-04-04,day,day,PD-1 monotherapy,JP
+2491169211,durvalumab,11,2024-12-10,2024-12-21,day,day,COMBO (PD-[L]1 + CTLA-4),JP
+2632427211,pembrolizumab,6,2026-01-06,2026-01-12,day,day,PD-1 monotherapy,EU

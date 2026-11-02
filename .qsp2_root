@@ -1,0 +1,3 @@
+Marker file: the root folder of this repository. R/setup.R refuses to run unless the working
+directory (or the folder named by the environment variable QSP2_DIR) contains this file, so that
+nothing is written to the wrong folder.

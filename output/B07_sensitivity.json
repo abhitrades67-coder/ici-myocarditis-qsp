@@ -1,0 +1,11 @@
+{
+  "block": "B07",
+  "evaluated": 2000,
+  "feasible": 75,
+  "influential": ["s_b", "lam_bg", "phi_inf", "k_kill", "Kh", "mu", "sigma", "gP", "k_sym", "f_dx", "m_bg", "k_tr", "gPp", "gC", "NT", "k_rel", "lam_p", "phi", "sd_tau", "rho"],
+  "negligible": ["gF", "pi_h", "del_h", "k_lic", "K_lic", "wL", "wM", "eps_x", "k_x", "r_rep", "r_scar", "fc", "eta", "pexp", "EC50pd1", "EC50ctla4", "s_ksym", "L_tx", "g_bg"],
+  "identified": ["rho", "s_b", "lam_bg"],
+  "not_identified": ["lam_p", "gC", "gPp", "gP", "gF", "k_tr", "NT", "phi", "pi_h", "del_h", "k_kill", "Kh", "k_lic", "K_lic", "wL", "wM", "eps_x", "k_x", "r_rep", "r_scar", "fc", "k_rel", "eta", "pexp", "EC50pd1", "EC50ctla4", "f_dx", "k_sym", "s_ksym", "L_tx", "m_bg", "phi_inf", "g_bg", "mu", "sigma", "sd_tau"],
+  "fixed": [],
+  "note": "no fitted parameter has a literature value, so none is fixed; all keep their prior range in B8"
+}

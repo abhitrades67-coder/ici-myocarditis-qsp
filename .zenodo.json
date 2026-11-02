@@ -1,0 +1,40 @@
+{
+  "upload_type": "software",
+  "access_right": "open",
+  "title": "Code, data and outputs for: A quantitative systems pharmacology model of immune checkpoint inhibitor myocarditis does not reproduce clinical onset, incidence and troponin data: a history-matching calibration study",
+  "creators": [
+    {
+      "name": "Anil, Abhishek",
+      "affiliation": "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India",
+      "orcid": "0000-0001-7289-2325"
+    },
+    {
+      "name": "Saravanan, Aswini",
+      "affiliation": "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India",
+      "orcid": "0000-0001-6680-0762"
+    },
+    {
+      "name": "Roy, Sayantan Shankar",
+      "affiliation": "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India",
+      "orcid": "0009-0005-2811-1997"
+    },
+    {
+      "name": "Srinivasan, Anand",
+      "affiliation": "Department of Pharmacology, All India Institute of Medical Sciences (AIIMS) Bhubaneswar, Odisha, India",
+      "orcid": "0000-0002-0663-0922"
+    }
+  ],
+  "description": "<p>Code, data and outputs for the article \"A quantitative systems pharmacology model of immune checkpoint inhibitor myocarditis does not reproduce clinical onset, incidence and troponin data: a history-matching calibration study\" (Anil A, Saravanan A, Roy SS, Srinivasan A).</p><p>The archive holds a population quantitative systems pharmacology model of myocarditis caused by immune checkpoint inhibitors (R, with the right-hand side in C), its virtual population engine and observation model, the verification checks, the history-matching calibration against 26 statistics from six clinical data sources, the C1 case file built from the FDA Adverse Event Reporting System quarterly files, every output reported in the article and Figures 1 to 5. README.md lists the requirements and the commands that reproduce each result.</p><p>Licences: code, MIT; data and outputs, CC BY 4.0.</p>",
+  "license": "MIT",
+  "language": "eng",
+  "keywords": [
+    "quantitative systems pharmacology",
+    "immune checkpoint inhibitor",
+    "myocarditis",
+    "history matching",
+    "virtual population",
+    "model calibration",
+    "troponin",
+    "FAERS"
+  ]
+}

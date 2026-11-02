@@ -1,0 +1,9 @@
+quantity,model,anchor,ratio,unit,source
+peak troponin per gram of injury,527.295285338766,527,1.0005603137358,ng/L per gram,Mewton 2015: 8.5 ug/L peak with 13% of a 124 g ventricle
+myocardium destroyed to reach the assay limit,0.0402051764710044,0.0497,0.808957273058438,g,"arithmetic from the specification, Section 9"
+ipilimumab trough after the first 3 mg/kg dose,10.827598640846,13,0.832892203141997,ug/mL,"Feng 2014: about 90% of patients above 6 ug/mL, few above 20"
+nivolumab peak concentration at steady state,117.626208497999,100,1.17626208497999,ug/mL,"240 mg into a central volume of 3.63 L, with accumulation"
+ejection fraction with a tenth of the ventricle damaged,56.2972731378426,50,1.12594546275685,%,the registry's cut-off for reduced function
+loss needed to bring ejection fraction below 50 percent,0.184300397404673,0.2,0.921501987023366,fraction,judgement: a fifth of the ventricle is the expected order
+T cells in the ventricle at the biopsy threshold,75090909.0909091,7.5e+07,1.00121212121212,cells,Caforio 2013 threshold with the Abercrombie correction
+resting cardiac T cells as a share of the threshold,0.0013317191283293,0.002,0.665859564164649,fraction,a healthy heart must sit well below the threshold

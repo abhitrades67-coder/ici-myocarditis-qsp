@@ -1,0 +1,13 @@
+{
+  "block": "B05",
+  "factor_allowed": 3,
+  "theta": 107214.73939065663,
+  "theta_injury_1day": 47262.705877898799,
+  "theta_injury_14day": 211901.16384135475,
+  "theta_preprint_alternative": 184826.6062855171,
+  "peak_ng_per_L_per_gram": 527.295285338766,
+  "grams_to_reach_assay_limit": 0.040205176471,
+  "T2_threshold_cells": 75090909.090909094,
+  "worst_nominal_tissue_loss": 0.01074582770601,
+  "audited": 8
+}

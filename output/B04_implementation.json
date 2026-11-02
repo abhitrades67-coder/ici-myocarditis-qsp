@@ -1,0 +1,16 @@
+{
+  "block": "B04",
+  "n_states": 23,
+  "n_parameters": 74,
+  "rhs_worst_relative_difference": 0,
+  "random_states": 1000,
+  "half_life_nivolumab_days": 20.858284696857,
+  "half_life_ipilimumab_days": 14.99969392142,
+  "half_life_pembrolizumab_days": 25.679664324688,
+  "spec_sha256": "3586422cae976a6b0ffc45da45531eaa6db6ce3cf6d67c7007d5e31c57806984",
+  "tests": 227,
+  "tests_failed": 0,
+  "engine_vs_mc_within_tolerance": 216,
+  "engine_vs_mc_compared": 216,
+  "tnt_qss_worst_error": 0.01433486512436
+}

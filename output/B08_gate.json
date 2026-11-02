@@ -1,0 +1,91 @@
+{
+  "block": "B08",
+  "file": "B08_calibration.R",
+  "file_sha256": "edb5d1831175db3fad4bf8a654a43eff6691e318e0230ec63afd739fcebc3239",
+  "pass": false,
+  "ran_without_error": true,
+  "error": "",
+  "rebound": [],
+  "checks": [
+    {
+      "check": "the model still passes its regression tests",
+      "pass": true,
+      "detail": "227 tests, 0 failed, 0 errors"
+    },
+    {
+      "check": "the calibration targets are available",
+      "pass": true,
+      "detail": "C1, C2, C3, C4, C5, C6"
+    },
+    {
+      "check": "the case file gives the C1 quartiles",
+      "pass": true,
+      "detail": "combination 14.25/20/39.75 (n = 262 of 281 with any date), monotherapy 20/30/89 (n = 988 of 1108); bootstrap SD of the ratio 0.1237"
+    },
+    {
+      "check": "C1 is computed over the horizon cohort S0 is simulated over",
+      "pass": true,
+      "detail": "365 days; 4 combination and 24 monotherapy onsets fall after it and are left out"
+    },
+    {
+      "check": "the C1 targets are the case file's own values within the horizon",
+      "pass": true,
+      "detail": "ratio of medians 1.5000"
+    },
+    {
+      "check": "every target has an observed value and a positive total variance",
+      "pass": true,
+      "detail": "26 statistics: C1_q25_combo, C1_q50_combo, C1_q75_combo, C1_q25_mono, C1_q50_mono, C1_q75_mono, C1_ratio, C2_p_combo, C2_p_mono, C2_ratio, C3_p_damage, C3_t_median, C4_p_myo, C4_t_mean, C4_p_screen, C4_ppv, C4_p_baseline, C5_p_pos, C5_q25, C5_q50, C5_q75, C5_ppv, C5_t_myo, C6_p_rise_nodx, C6_trop_dx, C6_m_bg"
+    },
+    {
+      "check": "the C5 grade target is a sensitivity analysis, not a calibration target",
+      "pass": true,
+      "detail": "26 calibration targets; recorded only: C5_p_presented"
+    },
+    {
+      "check": "the region B6 found is available to start from",
+      "pass": true,
+      "detail": "75 sets"
+    },
+    {
+      "check": "the waves ran to the stopping rule",
+      "pass": true,
+      "detail": "8 waves, 4800 sets evaluated; the limit of 8 waves"
+    },
+    {
+      "check": "almost every set ran",
+      "pass": true,
+      "detail": "0 errors in 4800 runs"
+    },
+    {
+      "check": "acceptance was decided on the fine S grid",
+      "pass": true,
+      "detail": "440 candidate sets re-evaluated on 81 nodes: 5 accepted on 25 nodes, 4 on 81"
+    },
+    {
+      "check": "a non-implausible ensemble was found",
+      "pass": true,
+      "detail": "4 sets with 31 populations"
+    },
+    {
+      "check": "the ensemble has at least 500 non-implausible sets",
+      "pass": false,
+      "detail": "4 sets (at least 500 required)"
+    },
+    {
+      "check": "every member meets requirements R1 and R3",
+      "pass": true,
+      "detail": "4 members"
+    },
+    {
+      "check": "every target's ensemble median prediction has an implausibility of at most 2",
+      "pass": false,
+      "detail": "largest 2.95, for C6_trop_dx"
+    },
+    {
+      "check": "every fitted parameter is reported with an interval",
+      "pass": true,
+      "detail": "39 parameters"
+    }
+  ]
+}

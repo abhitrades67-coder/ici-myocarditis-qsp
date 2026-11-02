@@ -1,0 +1,28 @@
+{
+  "block": "B06",
+  "first_hypercube": 2000,
+  "waves": {
+    "wave": 1,
+    "drawn": 2000,
+    "ran": 2000,
+    "constraint": 0,
+    "errors": 0,
+    "R1": 577,
+    "R2": 237,
+    "R3": 771,
+    "R1to3": 75,
+    "best_dist": 0
+  },
+  "scored": 2000,
+  "rates": {
+    "R1": 0.2885,
+    "R2": 0.1185,
+    "R3": 0.3855,
+    "R4": 0.39
+  },
+  "feasible": 75,
+  "feasible_R4": 40,
+  "R5_sets_tried": 100,
+  "R5_sets_with_T2": 36,
+  "R2_targets": ["C2_p_combo", "C2_p_mono", "C2_ratio", "C3_p_damage", "C4_p_myo", "C5_p_pos", "C5_ppv"]
+}

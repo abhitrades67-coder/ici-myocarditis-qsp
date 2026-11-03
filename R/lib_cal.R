@@ -204,8 +204,8 @@ qsp2_cal_pars <- function(draw) {
 # The trajectories are solved as far as the longest follow-up among the cohorts (730 days, with
 # the regimen's doses continuing that long); a cohort is observed over its own follow-up.
 # Monotherapy is solved as nivolumab every 2 weeks for every cohort; the calendars of the tests
-# follow each cohort's drug mix.  Pembrolizumab every 3 weeks gives the same T2 incidence and
-# median day of T2 as nivolumab every 2 weeks, because PD-1 occupancy is saturated under both.
+# follow each cohort's drug mix.  Pembrolizumab every 3 weeks is represented by nivolumab every
+# 2 weeks, on the assumption that PD-1 occupancy is saturated under both.
 qsp2_cal_run <- function(pars, cohorts = qsp2_cal_cohorts(), sgrid = QSP2_SGRID_CAL,
                          regimens = c(mono = "nivo_q2w", combo = "combo_nivo1_ipi3"),
                          no_treatment = FALSE) {

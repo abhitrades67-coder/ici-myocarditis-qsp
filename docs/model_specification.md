@@ -247,7 +247,7 @@ The drug-released troponin T trajectory is computed from the troponin I trajecto
 2. theta is set by matching a peak troponin per gram, not measured as a release per gram.
 3. EC50pd1 has no primary measurement and is fitted with a wide prior.
 4. Nivolumab clearance is constant, and body weight is the only pharmacokinetic covariate.
-5. Pembrolizumab regimens are represented by nivolumab every 2 weeks. In eight well-fitting parameter sets the two gave identical T2 incidence and timing, but this was not shown for the whole prior.
+5. Pembrolizumab regimens are represented by nivolumab every 2 weeks, on the assumption that PD-1 occupancy is saturated under both.
 6. Treatment is idealised as a halt to killing after a lag. Steroid pharmacology and non-response are not modelled.
 7. Drug-related troponin trajectories assume dosing continues to the horizon. For a patient whose treatment stops, only testing stops.
 8. Testing exposure is geometric, and the assay conversion rests on reference limits. Both are assumptions.

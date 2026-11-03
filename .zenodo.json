@@ -3,7 +3,7 @@
   "description": "<p>Code, data and outputs for the article \"A quantitative systems pharmacology model of immune checkpoint inhibitor myocarditis does not reproduce clinical onset, incidence and troponin data: a history-matching calibration study\" (Anil A, Saravanan A, Roy SS, Srinivasan A).</p><p>The archive holds a population quantitative systems pharmacology model of myocarditis caused by immune checkpoint inhibitors (R, with the right-hand side in C), its virtual population engine and observation model, the verification checks, the history-matching calibration against 26 statistics from six clinical data sources, the C1 case file built from the FDA Adverse Event Reporting System quarterly files, every output reported in the article and Figures 1 to 5. README.md lists the requirements and the commands that reproduce each result.</p><p>Licences: code, MIT; data and outputs, CC BY 4.0.</p>",
   "upload_type": "software",
   "license": "mit",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "language": "eng",
   "keywords": [
     "quantitative systems pharmacology",
